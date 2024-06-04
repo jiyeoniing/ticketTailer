@@ -1,0 +1,2950 @@
+[
+{
+  "model": "movies.genre",
+  "pk": 12,
+  "fields": {
+    "genre_name": "모험"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 14,
+  "fields": {
+    "genre_name": "판타지"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 16,
+  "fields": {
+    "genre_name": "애니메이션"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 18,
+  "fields": {
+    "genre_name": "드라마"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 27,
+  "fields": {
+    "genre_name": "공포"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 28,
+  "fields": {
+    "genre_name": "액션"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 35,
+  "fields": {
+    "genre_name": "코미디"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 36,
+  "fields": {
+    "genre_name": "역사"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 37,
+  "fields": {
+    "genre_name": "서부"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 53,
+  "fields": {
+    "genre_name": "스릴러"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 80,
+  "fields": {
+    "genre_name": "범죄"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 99,
+  "fields": {
+    "genre_name": "다큐멘터리"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 878,
+  "fields": {
+    "genre_name": "SF"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 9648,
+  "fields": {
+    "genre_name": "미스터리"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10402,
+  "fields": {
+    "genre_name": "음악"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10749,
+  "fields": {
+    "genre_name": "로맨스"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10751,
+  "fields": {
+    "genre_name": "가족"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10752,
+  "fields": {
+    "genre_name": "전쟁"
+  }
+},
+{
+  "model": "movies.genre",
+  "pk": 10770,
+  "fields": {
+    "genre_name": "TV 영화"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1,
+  "fields": {
+    "title": "고질라: 마이너스 원",
+    "tagline": "",
+    "runtime": 125,
+    "original_title": "ゴジラ-1.0",
+    "original_language": "ja",
+    "original_country": "JP",
+    "overview": "고질라 탄생 70주년 기념 작품. 시리즈 사상 최악의 절망이 일본을 습격한다!  전후, 제로가 된 일본을 뒤쫓듯 나타난 고질라가 이 나라를 마이너스로 떨어뜨린다.  사상 최고로 절망적인 상황 속에서의 습격에 누가? 그리고 어떻게?  일본은 맞서게 되는 것인가...",
+    "poster_path": "/buvBq2zLP7CcJth8tjrI4znvfEO.jpg",
+    "backdrop_path": "/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+    "popularity": 1704.266,
+    "vote_average": 7.666,
+    "vote_count": 1074.0,
+    "release_date": "2023-11-03",
+    "trailer": "https://www.youtube.com/embed/97WeXDTb0qg",
+    "director": "마이클 아리아스",
+    "actors": "카미키 류노스케, 하마베 미나미, 야마다 유키, 아오키 무네타카, 요시오카 히데타카, 안도 사쿠라, 사사키 구라노스케, 永谷咲笑, 田中美央, 엔도 유야, 이이다 기수케, 阿南健治, 미즈하시 겐지, 수다 쿠니히로, 다니구치 쇼타, 中台あきお, 佐々木一平, 中村織央, 鰐渕将市, 西垣匠, 佐々木風磨, 長部努, 小松勇司, 三濃川陽介, 日下部千太郎, 川端康太, 古堅元貴, 吉川裕斗, 大島祐也, 赤妻洋貴, 濱中遼, 荒谷清水, 塚本幸男, 大宮将司, 松原正隆, 古山憲太郎, 松井工, 平原テツ, 鳥谷宏之, 千葉誠太郎, 小熊樹, 間瀬英正, 大西遵, 持永雄恵, 市川大貴, 太田靖則, 土橋竜太, 斉藤淳, Masayuki Yamada, 佐藤五郎, 藤田啓介, 若林佑太, 福田航也, 杉崎シュンペーター, 高尾悠希, 苅田裕介, 松本誠, 長島慎治, 山本晃大, 山田英彦, 伊藤亜斗武, 山田ジャンゴ, 保里ゴメス, 阿部翔平, 嶋田彦, 木原勝利, 矢作マサル, 俵木藤汰, 原田悦嗣, 仲城煎時, 明樂哲典, 大野真緒, 北御門亜美, 羊華, 得田舞美, 植田倖瑛, 鶴田翔, 荒木誠, Yamato Aizawa, 長谷川瑞己, 井上喜介, 未来みき, 阿部大地, 三浦理香子, 剛州, 小野瀬侑子, 篠井英介, 笠井信輔, 사오리, 米本學仁, 仲義代, 殖田育夢, 千葉恵太, 中野匡人, 内田清, 桜彩, 加茂井彩音, 三宅里沙, 青木真美",
+    "pick_users": [],
+    "genres": [
+      27,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 2,
+  "fields": {
+    "title": "쿵푸팬더 4",
+    "tagline": "오랜만이지! 드림웍스 레전드 시리즈 마침내 컴백!",
+    "runtime": 94,
+    "original_title": "Kung Fu Panda 4",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "마침내 내면의 평화… 냉면의 평화…가 찾아왔다고 믿는 용의 전사 ‘포’ 이젠 평화의 계곡의 영적 지도자가 되고, 자신을 대신할 후계자를 찾아야만 한다. “이제 용의 전사는 그만둬야 해요?” 용의 전사로의 모습이 익숙해지고 새로운 성장을 하기보다 지금 이대로가 좋은 ‘포’ 하지만 모든 쿵푸 마스터들의 능력을 그대로 복제하는 강력한 빌런 ‘카멜레온’이 나타나고 그녀를 막기 위해 정체를 알 수 없는 쿵푸 고수 ‘젠’과 함께 모험을 떠나게 되는데… 포는 가장 강력한 빌런과 자기 자신마저 뛰어넘고 진정한 변화를 할 수 있을까?",
+    "poster_path": "/1ZNOOMmILNUzVYbzG1j7GYb5bEV.jpg",
+    "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+    "popularity": 1120.85,
+    "vote_average": 7.128,
+    "vote_count": 1679.0,
+    "release_date": "2024-03-02",
+    "trailer": "https://www.youtube.com/embed/2fCh9mSH6gA",
+    "director": "Mike Mitchell",
+    "actors": "잭 블랙, 아콰피나, 비올라 데이비스, 더스틴 호프만, 브라이언 크랜스턴, 제임스 홍, 이언 맥셰인, 키호이콴, 로니 쳉, Lori Tan Chinn, 세스 로건, Jimmy Donaldson, James Murray, James Sie, 세드릭 야콥, Vic Chao, Audrey Brooke, Lincoln Nakamura, Cece Valentina, April Hong, 로건 킴, Reyn Doi, Mick Wingert, Peggy Etra, Gedde Watanabe, Karen Maruyama, Tom McGrath, Phil LaMarr, Colleen Smith, Sarah Sarang Oh, Paul Pape, James Taku Leung, Steve Alterman, Christopher Knights, Harry Shum Jr.",
+    "pick_users": [],
+    "genres": [
+      14,
+      16,
+      28,
+      35,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 3,
+  "fields": {
+    "title": "오펜하이머",
+    "tagline": "나는 이제 죽음이요, 세상의 파괴자가 되었다.",
+    "runtime": 181,
+    "original_title": "Oppenheimer",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "제2차 세계대전 당시 핵무기 개발을 위해 진행되었던 비밀 프로젝트 ‘맨해튼 프로젝트’를 주도한 미국의 물리학자 ‘로버트 오펜하이머’의 이야기",
+    "poster_path": "/jpD6z9fgNe7OqsHoDeAWQWoULde.jpg",
+    "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+    "popularity": 581.969,
+    "vote_average": 8.103,
+    "vote_count": 8043.0,
+    "release_date": "2023-07-19",
+    "trailer": "https://www.youtube.com/embed/aAthViBWpC4",
+    "director": "베니 사프디",
+    "actors": "킬리언 머피, 에밀리 블런트, 맷 데이먼, 로버트 다우니 주니어, 플로렌스 퓨, 조쉬 하트넷, 케이시 애플렉, 라미 말렉, 케네스 브래너, 제이슨 클라크, 딜런 아널드, 톰 콘티, 제임스 다시, 데이비드 다스트말치안, 데인 드한, 올든 에런라이크, 토니 골드윈, 제퍼슨 홀, 데이비드 크럼홀츠, 매슈 모딘, 스콧 그라임스, Kurt Koehler, John Gowans, Macon Blair, Harry Groener, 그레고리 바라, 테드 킹, 팀 디케이, Steven Houska, Petrie Willink, 마티아스 슈바이크회퍼, 알렉스 울프, Josh Zuckerman, Rory Keane, 마이클 안가라노, Emma Dumont, Sadie Stratton, Britt Kyle, Guy Burnet, Tom Jenkins, Louise Lombard, Michael Andrew Baker, Jeff Hephner, 올리 하스키비, David Rysdahl, Josh Peck, 잭 퀘이드, Brett DelBuono, 구스타프 스카르스고르드, James Urbaniak, Trond Fausa Aurvåg, Devon Bostick, Danny Deferrari, Christopher Denham, Jessica Erin Martin, Ronald Auguste, Máté Haumann, 올리비아 썰비, Jack Cutmore-Scott, Harrison Gilbertson, James Remar, Will Roberts, Pat Skipper, Steve Coulter, Jeremy John Wells, Sean Avery, Adam Kroeger, Drew Kenney, Bryce Johnson, Flora Nolan, Kerry Westcott, Christina Hogue, Clay Bunker, Tyler Beardsley, Maria Teresa Zuppetta, Kate French, 게리 올드만, Hap Lawrence, Meg Schimelpfenig",
+    "pick_users": [],
+    "genres": [
+      18,
+      36
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 4,
+  "fields": {
+    "title": "트리플 엑스",
+    "tagline": "",
+    "runtime": 124,
+    "original_title": "xXx",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "싸이렌이 온 거리를 울려 퍼지며 요란한 추격씬이 벌어지는 도중 한 녀석이 콜벳를 몰고 다리를 돌진, 200미터 높이에서 자동차 번지를 시도한다. 짜릿한 곡예를 선보인 후 낙하산을 펴고 유유히 사라지는 녀석의 이름은 '젠더 케이지'. 인터넷에 생방송된 이 장면은 전세계 네티즌들에게 열렬한 환호를 받는다. 또 한 번의 멋진 프로젝트로 영웅 대접을 받는 젠더 케이지. 그러나 파티가 무르익을 무렵, 갑자기 들이닥친 특수부대는 그에게 신경 안정제를 쏜 후 잠들게 한다. 깨어난 곳은 알 수 없는 레스토랑. 어리둥절한 그 곳은 갑자기 강도들의 침입장으로 돌변하고, 단숨에 상황을 정리해버린 그에게 기븐스가 축하 인사를 전한다. 미국 비밀첩보국 NSA의 1차 테스트를 통과한 것. 이후 또 다시 잠에서 깨어난 곳은 비행기 안. 2번째 테스트로 콜럼비아 마약 밀매상의 아지트에 던져진 젠더 케이지. 때마침 콜럼비아 정부와 마약상들의 충돌로 아수라장이 된 그곳에서 살아남기 위한 치열한 전쟁이 펼쳐지는데...  상황종료 후 유유히 나타난 기븐스는 NSA의 테스트를 유일하게 통과한 그에게 비밀요원이 되어줄 것을 부탁한다. 단 그렇지 않을 경우는 감옥행뿐이라는 단서를 둔다. 젠더 케이지의 코드명은 트리플 X. 첫번째 임무지는 비밀요원의 무덤이라는 별칭을 가지고 있는 도시 프라하. 이제 얼떨결에 비밀요원이 되어버린 트리플 X의 위험한 여정이 시작되는데.",
+    "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+    "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+    "popularity": 547.97,
+    "vote_average": 5.932,
+    "vote_count": 4056.0,
+    "release_date": "2002-08-09",
+    "trailer": "https://www.youtube.com/embed/2tda_TCjz8w",
+    "director": "Scott Waugh, Rob Cohen",
+    "actors": "빈 디젤, 아시아 아르젠토, 마튼 초카스, 사무엘 L. 잭슨, Michael Roof, Richy Müller, Werner Daehn, Petr Jákl, Jan Filipenský, Tom Everett, 대니 트레호, Thomas Ian Griffith, Eve, Leila Arcieri, William Hope, Ted Maynard, David Asman, Chris Gann, Martin Hub, Radek Tomečka, Mary-Pat Green, Václav Chalupa, Martina Smuková, TeeJay Boyce, Tony Hawk, Mat Hoffman, Brian Deegan, Mike Vallely, Mike Escamilla, Rob Wells, Rick Thorne, Carey Hart, W. Colin McKay, Jason Ellis, Marek Vašut, Luboš Pospíšil, Ivo Niederle, Vítězslav Bouchner, Esteban Cueto, Martin Bárta, Martina Bauerová, F. Valentino Morales, Leonard L. Thomas, Ivan Rueda, Joshua Montero, Armando Cantina, Roman Matrka, Alena Cihalikova, Till Lindemann, Richard Kruspe, Christian Lorenz, Paul Landers, Oliver Riedel, Christoph Schneider, Paul Hartnoll, Phil Hartnoll, Michal Müller, Olga Lounová, Frank Mercuri, Christopher Eric Ruiz, Rob Roy",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      53,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 5,
+  "fields": {
+    "title": "바비",
+    "tagline": "바비는 무엇이든 될 수 있어",
+    "runtime": 114,
+    "original_title": "Barbie",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "원하는 무엇이든 될 수 있는 바비랜드에서 살아가던 바비가 현실 세계와 이어진 포털의 균열을 발견하게 되고, 이를 해결하기 위해 켄과 예기치 못한 여정을 떠나면서 펼쳐지는 이야기",
+    "poster_path": "/h3mUJ9WEJ8PzA450ad4hrjsaiqG.jpg",
+    "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+    "popularity": 506.209,
+    "vote_average": 7.1,
+    "vote_count": 8248.0,
+    "release_date": "2023-07-19",
+    "trailer": "https://www.youtube.com/embed/i1DFEwWUCnk",
+    "director": "Ryan Piers Williams",
+    "actors": "마고 로비, 라이언 고슬링, 아메리카 페레라, 아리아나 그린블랫, 이사 레이, 케이트 맥키넌, 알렉산드라 쉽, 엠마 맥키, 하리 네프, Sharon Rooney, Ana Cruz Kayne, Ritu Arya, 두아 리파, 니콜라 커그랜, 시무 리우, 킹슬리 벤아디르, 슈티 가트와, Scott Evans, 존 시나, 마이클 세라, Rhea Perlman, 헬렌 미렌, 윌 페럴, 코너 스윈들스, Jamie Demetriou, Andrew Leung, Will Merrick, Zheng Xi Yong, Asim Chaudhry, Ray Fearon, Erica Ford, Hannah Khalique-Brown, Mette, Marisa Abela, 루시 보인턴, Rob Brydon, Tom Stourton, Chris Taylor, David Mumeni, Olivia Brody, Isla Ashworth, Eire Farrell, Daisy Duczmal, Genvieve Toussaint, Isabella Nightingale-Mercado, Millie-Rose Crossley, Anvita Nehru, Kayla-Mai Alvares, Luke Mullen, Patrick Luwis, Mac Brandt, Paul Jurewicz, Oraldo Austin, Benjamin Arthur, Carlos Jacott, Adam Ray, George Basil, Ptolemy Slocum, Deb Hiett, James Leon, Oliver Vaquer, Tony Noto, Christopher T. Wood, 애니 무몰로, Elise Gallup, McKenna Roberts, Brylee Hsu, Sasha Milstein, Lauren Holt, Sterling Jones, Jamaal Lewis, Kathryn Akin, Grace Jabbari, Ira Mandela Siobhan, Lisa Spencer, Naomi Weijand, Tom Clark, Ireanne Abenoja, Davide Albonetti, Charlotte Anderson, Michael Anderson, Rico Bakker, James Bamford, William John Banks, Callum Bell, Adam Blaug, Mason Boyce, Taylor Bradshaw, Alex Brown, Miekaile Browne, Lewis Calcutt, Nikkita Chadha, Oliver Chapman, Megan Charles, Callum Clack, Danny Coburn, Kat Collings, Adam Crossley, Sia Dauda, Gustave Die, Grace Durkin, Joelle Dyson, Lewis Easter, Onyemachi Ejimofor, Cameron Everitt, Luke Field-Wright, Sasha Flesch, Adam Fogarty, Michael John French, Anna-Kay Gayle, Charlie Goddard, Marlie Goddard, Ellis Harman, Yasmin Harrison, Josh Hawkins, James Healy, Tim Hodges, Mira Jebari, Beccy Jones, Thomas Kalek, Lily Laight, Maiya Leeke, Cristian Liberti, Prodromos Marneros, Nahum McLean, Ramzan Miah, Andy Monaghan, Florivaldo Mossi, Hannah Nazareth, Grant Neal, Freja Nicole, Shaun Niles, Ella Nonini, Jack William Parry, Josie Pocock, Barnaby Quarendon, Redmand Rance, Zara Richards, Liam Riddick, Alana Rixon, Adam Paul Robertson, Kingdom Sibanda, Sebastian Skov, Aaron J. Smith, Joshua Smith, Lucia-Rose Sokolowski, Janine Somcio, Alex Sturman, Callum Sterling, Todd Talbot, Charles Tatman, Grant Thresh, Connor Tidman, Wahchi Vong, Jerry Wan, Sasha Wareham, Stan West, Josh Wild, Joe Wolstenholme, Richard Womersley, Ashley Young",
+    "pick_users": [],
+    "genres": [
+      12,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 6,
+  "fields": {
+    "title": "Más que amor, frenesí",
+    "tagline": "",
+    "runtime": 125,
+    "original_title": "Más que amor, frenesí",
+    "original_language": "es",
+    "original_country": "ES",
+    "overview": "",
+    "poster_path": "/e843ZAdn3f5R7SFTRIqoV7Ttk91.jpg",
+    "backdrop_path": "/cEcG1Z32NWJrRKmhmEh13VyPRfk.jpg",
+    "popularity": 471.339,
+    "vote_average": 5.583,
+    "vote_count": 18.0,
+    "release_date": "1996-11-15",
+    "trailer": "https://www.youtube.com/embed/5-swSu32s8g",
+    "director": "Fernando Colomo",
+    "actors": "Nancho Novo, Cayetana Guillén Cuervo, Ingrid Rubio, Beatriz Santiago, Javier Manrique, Javier Albalá, Liberto Rabal, Bibiana Fernández, Juan Diego Botto, Gustavo Salmerón, Daniel Mirabal, Juanfra Becerra, Paloma Tabasco, Nuria Gallardo, Carlos Bardem, Ernesto Alterio, Maite Pastor, César Vea, Blanca Sanromán, María Esteve, Mónica Bardem, La Calva, Carlos Olivares, José Manuel Cervino, 페넬루페 크루즈, Antonio de la Torre, Pepón Nieto, Luca Iezzi, Miriam Akinfenwa, Javier Albacete, Jesús Llorente, Elena Martín, Raquel Roca, 하비에르 바르뎀, David Lorente, Amanda",
+    "pick_users": [],
+    "genres": [
+      18,
+      35,
+      53,
+      10749
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 7,
+  "fields": {
+    "title": "플래시",
+    "tagline": "세계가 충돌한다",
+    "runtime": 144,
+    "original_title": "The Flash",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "시공간이 붕괴된 세계, 차원이 다른 히어로가 온다! 빛보다 빠른 스피드, 물체 투과, 전기 방출, 자체 회복, 천재적인 두뇌까지 갓벽한 능력을 자랑하지만 존재감은 제로, 저스티스 리그에서 궂은일을 도맡아 하는 히어로 ‘플래시’. 어느 날 자신에게 빛보다 빠른 속도로 달리면 시공간 이동 능력이 있음을 알게 된 그는 ‘브루스 웨인’의 만류를 무시한 채 끔찍한 상처로 얼룩진 과거를 바꾸기 위해 시간을 역행한다. 의도치 않은 장소에 불시착한 ‘플래시’는 멀티버스 세상 속 또 다른 자신과 맞닥뜨리고 메타 휴먼이 흔적도 없이 사라지고 모든 것이 뒤엉킨 세상과 마주하게 된다. ‘플래시’는 자신이 알던 모습과 전혀 달라진 나이 들고 은퇴한 ‘배트맨’과 크립톤 행성에서 온 ‘슈퍼걸’의 도움으로 외계의 침공으로부터 시간과 차원이 붕괴된 지구를 구하려 나서는데…",
+    "poster_path": "/wgjojKrLVoeWhx0C22YjdAkizgH.jpg",
+    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+    "popularity": 436.159,
+    "vote_average": 6.739,
+    "vote_count": 3882.0,
+    "release_date": "2023-06-13",
+    "trailer": "https://www.youtube.com/embed/WH01KgsITF8",
+    "director": "Rudy Mancuso, Michael Lerman, Andy Muschietti",
+    "actors": "에즈라 밀러, 사샤 카예, 마이클 키튼, 마이클 섀넌, 론 리빙스턴, 마리벨 베르두, Kiersey Clemons, Antje Traue, Saoirse-Monica Jackson, Ed Wade, 제러미 아이언스, 테무에라 모리슨, Sanjeev Bhaskar, Sean Rogers, Kieran Hodgson, Luke Brandon Field, Ian Loh, Karl Collins, 니콜라이 코스테르발다우, Poppy Shepherd, Nina Barker-Francis, Ava Hamada, Maurice Chung, Florence Wright, Bastian Antonio Fuentes, Andoni Gracia, Alex Hank, Miki Muschietti, Rebecca Hiller, Bret Jones, Sue Maund, Alex Batareanu, Andrei Nova, Gabriel Constantin, Oleg Mirochnikov, Katia Elizarova, Denis Khoroshko, Zsuzsa Magyar, Rosie Ede, Ellie Rawnsley, Greg Lockett, Chelsea Leigh Macleod, Leslie Soo, Freya Evans, Sue Moore, Lynn Farleigh, Martin Pemberton, Sarah Lawn, David Calvitto, 벤 애플렉, 갤 가돗, 조지 클루니, 제이슨 모모아",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 8,
+  "fields": {
+    "title": "스타워즈 에피소드 4: 새로운 희망",
+    "tagline": "아주 오래 전 멀고 먼 은하계에서...",
+    "runtime": 121,
+    "original_title": "Star Wars",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "공화국이 붕괴하고 제국이 수립된 뒤 20년, 제다이 기사단은 전멸하고 강력한 제국군의 횡포에 은하계는 공포에 휩싸여 있다. 그러던 중 공화국 재건을 노리는 반란군이 제국군의 비밀병기 데스스타 설계도를 훔쳐 달아나고 제국군은 이를 쫓는다. 하지만 결국 제국의 손에 붙잡히게 된 그들은 드로이드 R2-D2에 설계도를 넣어서 R2의 친구 C-3PO와 탈출시키는 데 성공하고, 두 드로이드 콤비는 타투인의 시골 마을에서 숙부와 함께 살고 있던 청년 루크 스카이워커에게 오게 되는데...",
+    "poster_path": "/7XFfURIFCJxN1mfBg0SAjk5yGzg.jpg",
+    "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "popularity": 432.897,
+    "vote_average": 8.203,
+    "vote_count": 20004.0,
+    "release_date": "1977-05-25",
+    "trailer": "https://www.youtube.com/embed/FjJEGSC618g",
+    "director": "조 존스턴, Tom Sylla",
+    "actors": "마크 해밀, 해리슨 포드, 캐리 피셔, 피터 커싱, 앨릭 기니스, 안소니 다니엘스, Kenny Baker, Peter Mayhew, David Prowse, 제임스 얼 존스, Phil Brown, Shelagh Fraser, Jack Purvis, Alex McCrindle, Eddie Byrne, Drewe Henley, Denis Lawson, Garrick Hagon, Jack Klaff, William Hootkins, Angus MacInnes, Jeremy Sinden, Graham Ashley, Don Henderson, Richard LeParmentier, Leslie Schofield, Michael Leader, David Ankrum, Scott Beach, Jon Berg, Paul Blake, Janice Burchette, Ted Burnett, John Chapman, Gilda Cohen, Tim Condren, Barry Copping, Alfie Curtis, Robert Davies, Maria De Aragon, Robert A. Denham, Frazer Diamond, Peter Diamond, Warwick Diamond, Kim Falkinburg, Harry Fielder, Ted Gagliano, Salo Gardner, Steve Gawley, Barry Gnome, Rusty Goffe, Isaac Grand, Reg Harding, Frank Henson, Arthur Howell, Tommy Ilsley, Annette Jones, Linda Jones, Joe Kaye, Melissa Kurtz, Al Lampert, Anthony Lang, Laine Liska, Derek Lyons, Mahjoub, Alf Mangan, Grant McCune, Geoffrey Moon, Mandy Morton, Lorne Peterson, Marcus Powell, Shane Rimmer, Pam Rose, George Roubicek, Erica Simmons, Angela Staines, George Stock, Roy Straite, Peter Sturgeon, Peter Sumner, John Sylla, Malcolm Tierney, Burnell Tucker, Morgan Upton, Jerry Walter, Hal Wamsley, Diana Sadley Way, Fred Wood, Colin Higgins, Ron Tarr, Anthony Forrest, Frances Alfred Basil Tomlin, Larry Ward, John Cannon",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 9,
+  "fields": {
+    "title": "토르: 라그나로크",
+    "tagline": "피할 수 없는 세상의 멸망, 라그나로크를 막아라",
+    "runtime": 130,
+    "original_title": "Thor: Ragnarok",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "은하계를 탐험하던 토르는 오딘의 오랜 숙적 수르트와의 대결에서 승리하는데, 수르트는 라그나로크가 이미 시작됐고, 막을 수 없을 것이라는 의미심장한 말을 남긴다. 한편 오딘의 힘이 약해지며 그가 봉인했던 죽음의 여신 헬라가 나타난다. 오딘의 첫째딸인 그녀는 두 동생, 토르와 로키를 가볍게 제압하고 아스가르드를 정복한다. 헬라와의 전쟁에서 묠니르를 잃고 사카아르라는 미지의 행성에 불시착한 토르는 아스가르드 행성으로 돌아가기 위해 고군분투한다. 행성의 통치자 그랜드 마스터는 행성 최고의 투사 챔피언과 싸워 이기면 행성을 떠나게 해주겠다고 토르에게 제안한다.",
+    "poster_path": "/jwswXltzpGaKZCtz1CiDjXHQYAs.jpg",
+    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+    "popularity": 413.411,
+    "vote_average": 7.593,
+    "vote_count": 20211.0,
+    "release_date": "2017-10-02",
+    "trailer": "https://www.youtube.com/embed/hbdCBB832HE",
+    "director": "타이카 와이티티",
+    "actors": "크리스 헴스워스, 톰 히들스턴, 케이트 블란쳇, 테사 톰슨, 제프 골드블룸, 이드리스 엘바, 칼 어반, 마크 러팔로, 안소니 홉킨스, 베네딕트 컴버배치, Rachel House, 클랜시 브라운, 아사노 타다노부, 레이 스티븐슨, 재커리 레비, Georgia Blizzard, Amali Golden, 루크 헴스워스, 샘 닐, 맷 데이먼, Charlotte Nicdao, Ashley Ricardo, Shalom Brune-Franklin, Taylor Hemsworth, Cohen Holloway, Alia Seror-O'Neill, Sophia Laryea, Hamish Parkinson, Jasper Bagg, Sky Castanho, Shari Sebbens, Richard Green, Sol Castanho, Jet Tranter, Samantha Hopper, Eloise Winestock, Rob Mayes, Tahlia Jade, Winnie Mzembe, Sean Edward Frazer, Connor Zegenhagen, Tracie Filmer, Tracey Lee Maxwell, Beatrice Ward, Donnie Baxter, Greta Carew-Johns, Mollie McGregor, Sophia McGregor, 스칼렛 요한슨, Katie Anderson, Ash Ricardo, Sam Hargrave, Garreth Hadfield, Braden Lewis",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 10,
+  "fields": {
+    "title": "X",
+    "tagline": "",
+    "runtime": 106,
+    "original_title": "X",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "1979년, 젊은 영화 제작자 그룹이 텍사스 시골에서 성인 영화를 만들기 시작한다. 나이 든 호스트를 마주하게 되고 배우들은 삶을 위한 필사적인 싸움에 직면하게 된다.",
+    "poster_path": "/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+    "backdrop_path": "/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+    "popularity": 406.508,
+    "vote_average": 6.731,
+    "vote_count": 2773.0,
+    "release_date": "2022-03-17",
+    "trailer": "https://www.youtube.com/embed/_I_D_8Z4sJE",
+    "director": "Matthew J. Saville",
+    "actors": "미아 고스, 제나 오르테가, 브리트니 스노우, 키드 커디, Martin Henderson, Owen Campbell, Stephen Ure, James Gaylyn, Simon Prast, Geoff Dolan, Bryony Skillington, 카렌 길런",
+    "pick_users": [],
+    "genres": [
+      27,
+      53,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 11,
+  "fields": {
+    "title": "로건",
+    "tagline": "모든 것을 걸고 지키고 싶은 소녀를 만났다",
+    "runtime": 137,
+    "original_title": "Logan",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "2029년 알 수 없는 이유로 돌연변이들이 태어나지 않는 미래, 더이상 엑스맨은 없다. 갈수록 재생력이 약해져 늙고 수척해진 로건은 멕시코 국경지대 은신처에 찰스 교수를 보호 중이다. 뇌에 심각한 손상을 입은 찰스 교수는 과거를 제대로 기억하지 못하는 데다 간헐적으로 주변을 위협하는 발작까지 일으킨다. 찰스 교수와 함께 떠날 배를 사기 위해 리무진 기사로 일하며 돈을 모으는 로건. 어느 날 낯선 여인이 찾아와 돌연변이 소녀 로라를 캐나다 국경까지 데려다 달라고 부탁한다. 로건은 로라를 쫓는 기업의 경호집단을 피해 험난한 여정을 떠난다.",
+    "poster_path": "/tE6tvHXlAZ8hqM4k9ZvtWtBk4pc.jpg",
+    "backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+    "popularity": 412.081,
+    "vote_average": 7.817,
+    "vote_count": 18702.0,
+    "release_date": "2017-02-28",
+    "trailer": "https://www.youtube.com/embed/vnlO5W1xGLQ",
+    "director": "Daniel Hernández",
+    "actors": "휴 잭맨, 다프네 킨, 패트릭 스튜어트, Elizabeth Rodriguez, Boyd Holbrook, 스티븐 머천트, 리처드 E. 그랜트, Stephen Dunlevy, Eriq La Salle, Elise Neal, Quincy Fouse, Al Coronel, Frank Gallegos, Anthony Escobar, Reynaldo Gallegos, Krzysztof Soszynski, Daniel Bernhardt, Brandon Melendy, Oren Hawxhurst, Clinton Roberts, Rocky Abou-Sakher, Keith Jardine, Andrew Arrabito, Sebastian James, Matt McClain, Maureen Brennan, Jason Genao, Hannah Westerfield, Bryant Tardy, Ashlyn Casalegno, Alison Fernandez, Parker Lovein, Jimmy Gonzales, Dave Davis, Lennie Loftin, Mark Ashworth, James Handy, Bryce Romero, Phi Vu, Chester Rushing, David Simpson, Lauren Gros, John Raymond, Vanessa Cloke, Doris Morgado, Katie Anne Mitchell, Lara Grice, James Moses Black, Ned Yousef, Michael Lehr, Baxter Humby, Bryan Sloyer, Evan Dane Taylor, Robert Wu, Anthony N., Victor Winters-Junco, Eyad Elbitar, Craig Henningsen, Han Soto, Rissa Rose Kilar, Salef Celiz, Aidan Kennedy, Nayah Murphy, Chase Cubia, Emma Teo, Vincenzo Lucatorto, Noell Jellison, Haley Glass, Ella Rowbotham, Hudson Wright, Sebeon Jackson, Kelton DuMont, Damon Carney, Cynthia Woods, Mali O'Connor, David Kallaway, Gonzalo Robles, Tim Connolly, Mary Peyton Stewart, Julia Holt",
+    "pick_users": [],
+    "genres": [
+      18,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 12,
+  "fields": {
+    "title": "원더 우먼",
+    "tagline": "히어로의 새로운 기준",
+    "runtime": 141,
+    "original_title": "Wonder Woman",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "수천년 간 존재를 숨긴 채 지구를 수호하던 데미스키라의 공주 다이애나는 어느 날 하늘에서 이상한 움직임을 포착한다. 1차 세계대전에 참전해 스파이 활동을 벌이다가 격추된 미국인 조종사 스티브가 해변에 불시착한 것. 태어나 처음으로 남성을 보게 된 다이애나는 호기심을 감추지 못하고, 데미스키라의 일원들은 그가 파멸을 가져올 수도 있음을 경고한다. 다이애나는 엄마이자 여왕인 히폴리타의 반대에도 불구하고 나치군의 추격을 따돌리면서 그들의 생화학무기 공격을 비밀리에 막아야 하는 스티브를 따라나선다.",
+    "poster_path": "/oZGYR75RaSLQ8XdJIVerYnOdhFx.jpg",
+    "backdrop_path": "/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+    "popularity": 384.465,
+    "vote_average": 7.229,
+    "vote_count": 19507.0,
+    "release_date": "2017-05-30",
+    "trailer": "https://www.youtube.com/embed/vdpHf96DOM0",
+    "director": "잭 스나이더",
+    "actors": "갤 가돗, 크리스 파인, 코니 닐센, 로빈 라이트, 대니 휴스턴, 데이비드 슐리스, Saïd Taghmaoui, Ewen Bremner, Eugene Brave Rock, Lucy Davis, 엘레나 아나야, Lilly Aspell, Lisa Loven Kongsli, Ann Wolfe, Ann Ogbomo, Emily Carey, James Cosmo, Wolf Kahler, Alexander Mercury, Martin Bishop, Flora Nicholson, Pat Abernethy, Freddy Elletson, Sammy Hayman, Michael Tantrum, Philippe Spall, Edward Wolstenholme, Ian Hughes, Marko Leht, Steffan Rhodri, Andrew Byron, Dominic Kinnaird, Rachel Pickup, Ulli Ackermann, Frank Allen Forbes, Peter Stark, Rainer Bock, Josh Bromley, Jennie Eggleton, Eva Dabrowski, Harvey James, George Johnston, Danielle Lewis, Florence Kasumba, Eleanor Matsuura, Josette Simon, Doutzen Kroes, Hayley Warnes, Caitlin Burles, Jemma Moore, Samantha Win, Brooke Ence, Madeleine Vall, Hari James, Jacqui-Lee Pryce, Betty Adewole, Caroline Winberg, Lizzie Bowden, Kattreya Scheurer-Smith, Rekha Luther, Thaina Oliveira, Ooooota Adepo, Zinnia Kumar, Toma McDonagh, Amber Doyle, Freddy Carter, Fred Fergus, Tim Pritchett, Gana Bayarsaikhan, Camilla Roholm, Stephanie Haymes-Roven, Nia Burke, Tori Letzler, Mayling Ng, Lee Neville, Ana Cilas",
+    "pick_users": [],
+    "genres": [
+      12,
+      14,
+      28
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 13,
+  "fields": {
+    "title": "2001 스페이스 오디세이",
+    "tagline": "SF 영화의 새로운 시대를 연 명작",
+    "runtime": 149,
+    "original_title": "2001: A Space Odyssey",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "인류에게 문명의 지혜를 가르쳐 준 검은 돌기둥의 정체를 밝히기 위해서 디스커버리호의 선장 보우만과 승무원 풀은 목성을 향해서 날아간다. 하지만 평온하던 디스커버리호에 갑자기 재난이 찾아온다. 우주선 내부에서 일어난 재난은 컴퓨터 HAL이 반란을 일으킨 것. HAL은 풀을 우주선 밖으로 던져버리고, 보우만까지도 모선 밖으로 끌어내지만 그는 필사의 노력으로 HAL을 제압한다. 보우만은 마침내 목성 궤도에서 문제의 검은 돌기둥을 발견하지만, 그 순간 우주의 급류에 휘말리게 된다. 보우만은 지구로의 귀환을 위해 노력하고, 신비한 시간의 흐름을 경험하는데...",
+    "poster_path": "/2qJjH5mYNlGPdVrPqfEq1J6Mgb4.jpg",
+    "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "popularity": 393.662,
+    "vote_average": 8.078,
+    "vote_count": 11096.0,
+    "release_date": "1968-04-02",
+    "trailer": "https://www.youtube.com/embed/gWEkbrFgc_M",
+    "director": "스탠리 큐브릭",
+    "actors": "Keir Dullea, Gary Lockwood, William Sylvester, Douglas Rain, Daniel Richter, Leonard Rossiter, Margaret Tyzack, Robert Beatty, Sean Sullivan, Frank Miller, Ed Bishop, Edwina Carroll, Heather Downham, Penny Brahms, Maggie London, Chela Matthison, Judy Kiern, Alan Gifford, Ann Gillis, Vivian Kubrick, Kenneth Kendall, Kevin Scott, Martin Amor, Glenn Beck, Mike Lovell, John Ashley, Jimmy Bell, David Charkham, Simon Davis, Jonathan Daw, Péter Delmár, Terry Duggan, David Fleetwood, Danny Grover, Brian Hawley, David Hines, Tony Jackson, John Jordan, Scott MacKee, Laurence Marchant, Darryl Paes, Joe Refalo, Andy Wallace, Bob Wilyman, Richard Woods, S. Newton Anderson, Sheraton Blount, Ann Bormann, Julie Croft, Penny Francis, Marcella Markham, Irena Marr, Krystyna Marr, Kim Neil, Jane Pearl, Penny Pearl, Burnell Tucker, John Swindells, John Clifford, Anthony Jackson, Frank W. Miller, Harry Fielder",
+    "pick_users": [],
+    "genres": [
+      12,
+      878,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 14,
+  "fields": {
+    "title": "록키",
+    "tagline": "져도 상관없어, 내가 원하는 건 끝까지 버텨보는 거야",
+    "runtime": 120,
+    "original_title": "Rocky",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "이탈리아의 종마라는 별명을 가진 젊은 청년 록키 발보아는 필라델피아 빈민촌에 살면서 4회전 복서를 업으로 삼아 근근히 살아간다. 복싱만으로는 생계를 유지할 수 없어 고리대금 업자의 하수인 노릇을 하기도 하며 뒷골목의 주먹 노릇도 하는 그는 짝사랑하는 애드리언에게 열심히 관심을 보이면서 성실하게 살아 가려고 애쓴다. 그러던 어느 날 록키에게 기회가 오게 된다. 헤비급 세계 챔피언 아폴로 크리드가 미국 독립 200주년을 기념하는 이벤트로서 이름 없는 복서에게 도전권는 이벤트를 기획하고, 록키가 도전자로 선발이 되는데...",
+    "poster_path": "/vpo99XjnIdkM9QDlQRTj5XEuUOH.jpg",
+    "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+    "popularity": 373.186,
+    "vote_average": 7.786,
+    "vote_count": 7537.0,
+    "release_date": "1976-11-21",
+    "trailer": "https://www.youtube.com/embed/i1JkuSvI4i8",
+    "director": "로이드 카우프만",
+    "actors": "실베스터 스탤론, 탈리아 샤이어, 버트 영, 칼 웨더스, Burgess Meredith, Thayer David, Joe Spinell, Jimmy Gambina, Bill Baldwin, Al Silvani, George Memmoli, Jodi Letizia, Diana Lewis, George O'Hanlon, Larry Carroll, Stan Shaw, Don Sherman, Billy Sands, Pedro Lovell, DeForest Covan, Simmy Bow, 토니 버톤, Hank Rolike, Shirley O'Hara, Kathleen Parker, Frank Stallone Jr., Jane Marla Robbins, Jack Hollander, Joe Sorbello, Christopher Avildsen, Frankie Van, Lou Fillipo, Paris Eagle, Frank Stallone Sr., Robert L. Tangrea, Peter Glassberg, William E. Ring, Joseph C. Giambelluc, Joe Frazier, Michael Dorn, Arnold Johnson, Stu Nahan, Frank Pesce, Lavelle Roby, Arthur Tovey, John Pleshette",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 15,
+  "fields": {
+    "title": "펄프 픽션",
+    "tagline": "쿠엔틴 타란티노만의 블랙 코미디",
+    "runtime": 154,
+    "original_title": "Pulp Fiction",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "펌프킨와 허니 버니가 레스토랑에서 강도 행각을 벌이기 시작한다. 빈센트와 그 동료 쥴스는 두목의 금가방을 찾기 위해 다른 건달이 사는 아파트를 찾아간다. 마르셀러스는 부치에게 돈을 주며 상대 선수에게 져 주라고 하지만 부치는 상대 선수를 때려 눕히고 도망치다, 어릴 때 아버지에게 물려받은 시계를 찾기 위해 아파트로 향한다. 아무런 상관 없이 보이는 이 사건들이 서로 얽히고 섥히면서 예상치 못한 인과관계가 만들어지는데...",
+    "poster_path": "/6lXRHGoEbnnBUKsuqpL9JxD4DzT.jpg",
+    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "popularity": 388.073,
+    "vote_average": 8.489,
+    "vote_count": 27086.0,
+    "release_date": "1994-09-10",
+    "trailer": "https://www.youtube.com/embed/CcbmToHKW44",
+    "director": "쿠엔틴 타란티노, Burr Steers",
+    "actors": "존 트라볼타, 사무엘 L. 잭슨, 우마 서먼, 브루스 윌리스, 빙 레임스, 하비 카이텔, Eric Stoltz, 팀 로스, Amanda Plummer, Maria de Medeiros, 크리스토퍼 워컨, 로잔나 아퀘트, 피터 그린, Duane Whitaker, Angela Jones, Phil LaMarr, 스티브 부세미, Bronagh Gallagher, Laura Lovelace, Frank Whaley, Paul Calderon, Jerome Patrick Hoban, Michael Gilden, Gary Shorelle, Susan Griffiths, Eric Clark, Joseph Pilato, Brad Blumenthal, Lorelei Leslie, Emil Sitka, Brenda Hillhouse, Chandler Lindauer, Sy Sher, Robert Ruth, Rich Turner, Don Blakely, Carl Allen, Karen Maruyama, Kathy Griffin, Venessia Valentino, Linda Kaye, Stephen Hibbert, Alexis Arquette, Julia Sweeney, Cie Allman, Rene Beard, Lori Pizzo, Glendon Rich, Devan Richardson, Ani Sava",
+    "pick_users": [],
+    "genres": [
+      53,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 16,
+  "fields": {
+    "title": "엑스맨: 다크 피닉스",
+    "tagline": "새로운 힘이 깨어나고, 모든 것이 무너진다",
+    "runtime": 114,
+    "original_title": "Dark Phoenix",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "어린 시절 비극적 교통사고로 능력을 알게 된 진 그레이는 자비에 영재학교에서 새로운 가족을 맞이하게 된다. 엄청난 잠재능력을 지닌 그녀는 엑스맨으로 성장해 우주에서 구조 임무를 수행하던 중 목숨을 잃을 뻔한 사고를 겪고, 폭주하는 힘과 억눌려왔던 어둠에 눈을 뜨게 된 그녀는 엑스맨의 가장 강력하고 파괴적인 적, 다크 피닉스로 변하게 된다. 프로페서 X는 물론 매그니토까지 능가하는 두려운 존재가 된 그녀 앞에 힘을 이용하려는 미스터리한 외계 존재가 나타나 그녀를 뒤흔들고, 엑스맨은 사랑하는 친구이자 가장 강력한 적이 된 다크 피닉스와 맞서야 하는데...",
+    "poster_path": "/rNRfYkuRvM0z1RWHPbc2I8HCdvd.jpg",
+    "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+    "popularity": 377.892,
+    "vote_average": 5.98,
+    "vote_count": 6255.0,
+    "release_date": "2019-06-05",
+    "trailer": "https://www.youtube.com/embed/iNg7zwC-Jcc",
+    "director": "Josh McLaglen",
+    "actors": "소피 터너, 제임스 맥어보이, 니콜라스 홀트, 타이 셰리던, 마이클 패스벤더, 알렉산드라 쉽, 에반 피터스, 제시카 차스테인, 코디 스밋맥피, 제니퍼 로렌스, 스콧 셰퍼드, Ato Essandoh, Brian d'Arcy James, 할스톤 세이지, Lamar Johnson, Summer Fontana, Hannah Anderson, Julianne Jain, Michael Kives, Karen Ivany, Lynne Adams, Alex Gravenstein, Daniel Rindress-Kay, Raphael Grosz-Harvey, Orphée Ladouceur-Nguyen, Richard Dagenais, Dan Duran, Isabel Farias Lehoux, Gryffin Hanvelt, Emilio La Torre, Julian Bailey, André Bédard, Michael Lipka, Robert Montcalm, Vanessa Jackson, David Patrick Green, Eloi Archambaudoin, Yanek Gadzala, Aphra Williams, Maurizio Terrazzano, Sébastien Bolduc, Chris Claremont, Matt Keyes, Suzanna Lenir, Amir Sám Nakhjavani, Donny Falsetti, Brady Allen, Dave Campbell, Andrew Stehlin, Kota Eberhardt, Tyler Elliot Burke, Danny Blanco Hall, Aalia Adam, Peter Anthony Holder, Christopher B. MacCabe, Frank Fontaine, Bonkers, Sébastien Beaulac, Alain Chanoine, Brian A. Reynolds, Warren Harris, Melissa Toussaint, Craig Snoyer, Tony Saquett, Stephane Ouellet, Xavier Sotelo, Olivier Lamarche, Christian Labbé, Guy Iannacone, Eldon Hunter, Christopher Hayes, Amélie Hadouchi, Frédéric Gilles, Julien Irwin Dupuy, Marine Buton, Daniel Cudmore, Ilyes Belayel, George Chiang, Éric Clark, Alexandre Bélanger, Joey Coleman",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 17,
+  "fields": {
+    "title": "그린 북",
+    "tagline": "삶을 변화시키는 인생가이드",
+    "runtime": 130,
+    "original_title": "Green Book",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "1962년 미국, 입담과 주먹만 믿고 살아가던 토니 발레롱가는 교양과 우아함 그 자체인 천재 피아니스트 돈 셜리의 운전기사 면접을 보게 된다. 백악관에도 초청되는 등 미국 전역에서 콘서트 요청을 받으며 명성을 떨치고 있는 돈 셜리는 위험하기로 소문난 미국 남부 투어 공연을 떠나기로 결심하고, 투어 기간 동안 자신의 보디가드 겸 운전기사로 토니를 고용한다. 거친 인생을 살아온 토니와 교양과 기품을 지키며 살아온 돈. 생각, 행동, 말투, 취향까지 달라도 너무 다른 두 사람은 그들을 위한 여행안내서 그린북에 의존해 특별한 남부 투어를 시작하는데...",
+    "poster_path": "/dyqQ12gZGwl5Y0R9UsLBDkZWOUA.jpg",
+    "backdrop_path": "/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+    "popularity": 367.533,
+    "vote_average": 8.243,
+    "vote_count": 11184.0,
+    "release_date": "2018-11-16",
+    "trailer": "https://www.youtube.com/embed/4ar-I1rAMN8",
+    "director": "Nick Vallelonga",
+    "actors": "비고 모텐슨, 마허샬라 알리, 린다 카델리니, Sebastian Maniscalco, Dimiter D. Marinov, P. J. 번, Mike Hatton, Joe Cortese, Maggie Nixon, Von Lewis, Jon Sortland, Don Stark, Anthony Mangano, Paul Sloan, Quinn Duffy, Seth Hurwitz, Hudson Galloway, Gavin Foley, Rodolfo Vallelonga, Louis Venere, Frank Vallelonga, Don DiPetta, Jenna Laurenzo, Suehyla El-Attar, Kenneth Israel, Derrick Spears, Johnny Williams, Randal Gonzalez, Iqbal Theba, Sharon Landry, Peter Gabb, Gertrud Sigle, Geraldine Singer, Ron Flagge, Martin Bats Bradford, Ted Huckabee, Gralen Bryant Banks, Sam Malone, Floyd Miles, David Kallaway, James W. Evermore, Harrison Stone, Ricky Muse, Tom Virtue, Christina Simpkins, Kermit Burns III, Lindsay Brice, Shane Partlow, Daniel Greene, Brian Distance, Craig DiFrancia, Dennis W. Hall, Leslie Castay, David Simpson, Jim Klock, Billy Breed, Dane Rhodes, Brian Stepanek, Jon Michael Davis, Montrel Miller, Ninja N. Devoe, Brian Hayes Currie",
+    "pick_users": [],
+    "genres": [
+      18,
+      36
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 18,
+  "fields": {
+    "title": "프레데터",
+    "tagline": "",
+    "runtime": 107,
+    "original_title": "Predator",
+    "original_language": "en",
+    "original_country": "MX",
+    "overview": "더치와 특수부대 동료들은 CIA와 계약을 맺어 중앙 아메리카 정글에서 게릴라들에게 붙잡힌 조종사를 구하러 간다. 임무는 순조롭게 진행되었으나 그들은 귀환 도중 무언가로 부터 공격을 받는다. 보이지 않는 적은 정글 속에 숨어서 그들의 사체를 전리품으로 수집해간다.  이 외계 괴물은 더치의 동료들을 하나씩 죽이면서 유희를 벌이는데...",
+    "poster_path": "/AjYcJsuiqW4sHFEmh5SVSy5PswH.jpg",
+    "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+    "popularity": 373.543,
+    "vote_average": 7.528,
+    "vote_count": 7724.0,
+    "release_date": "1987-06-12",
+    "trailer": "https://www.youtube.com/embed/HSycF_rbJks",
+    "director": "Steve Boyum",
+    "actors": "아놀드 슈워제네거, 칼 웨더스, Elpidia Carrillo, Jesse Ventura, Sonny Landham, Bill Duke, Richard Chaves, R. G. Armstrong, Kevin Peter Hall, Henry Kingi, Peter Cullen, Sven-Ole Thorsen, Franco Columbu",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 19,
+  "fields": {
+    "title": "컨택트",
+    "tagline": "15시간 내 그들이 온 이유를 밝혀야 한다",
+    "runtime": 116,
+    "original_title": "Arrival",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "어느 날 전 세계 12개 지역에 외계 비행물체 셸이 동시다발로 출현한다. 450m에 달하는 거대 비행체가 가만히 서 있을 뿐 어떤 행동도 하지 않자 각국 정부는 각자의 방식으로 외계인과 접촉을 시작하지만, 완전히 다른 언어 체계 때문에 첫 단계부터 난항을 겪는다. 미국 정부의 요청을 받은 언어학자 루이스와 물리학자 이안은 말과 글이 통하지 않는 상황에서, 신체의 모든 기관과 감정을 이용해 미지의 생명체와 대화를 시도하고 서로의 문자를 배워나간다. 마침내 대화의 물꼬가 트이게 되지만 그때부터 루이스는 이해하기 어려운 환상을 연이어 보기 시작하는데...",
+    "poster_path": "/1jhYawjt748tAkuk2DzJJafvI2V.jpg",
+    "backdrop_path": "/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+    "popularity": 390.691,
+    "vote_average": 7.602,
+    "vote_count": 17263.0,
+    "release_date": "2016-11-10",
+    "trailer": "https://www.youtube.com/embed/JvBvj1tCvHk",
+    "director": "Pat Kiely",
+    "actors": "에이미 아담스, 제레미 레너, 포레스트 휘태커, 마이클 스툴바그, 치 마, Mark O'Brien, Julia Scarlett Dan, Abigail Pniowsky, Jadyn Malone, Carmela Nozza Guizzo, Andrew Shaver, Shawn Campbell, Larry Day, Frank Schorpion, Lucas Chartier-Dessert, Lucy Van Oldenbarneveld, Sonia Vigneault, Mark Camacho, Sabrina Reeves, Russell Yuen, Julian Casey, Tony Robinow, Anana Rydvald, Ruth Chiang, Sergiy Marchenko, Brittany Teo, Christian Jadah, Joe Cobden, Lorne Brass, Genevieve Sirois, Abdul Ayoola, Bineyam Girma, Abdelghafour Elaaziz, Daniel Esteban, Hal Roberts, Matthew Willson, Victor Andres Trelles Turgeon, Michael Nangreaves, Mustafa Haidari, Albert Kwan, Reda Guerinik, Adrien Benn, Sasha Samar, Kathleen Stavert, Kattia Thony, Leisa Reid, Brent Skagford, Gurdeep Ahluwalia, Brian Dunstan, Dan Duran, Lori Graham, Orla Johannes, Sangita Patel, Tammie Sutherland, Max Walker, John Sanford Moore, Camille Ross, Ola Sturik, Karen Belfo, Chloë Bellande, Philippe Hartmann, Laurean Adrian Parau, Nathaly Thibault, Leslie Baker, Alex M. Yeuh, Dave Campbell, Alexander Da Mota, Akul Dang, Frank Fiola",
+    "pick_users": [],
+    "genres": [
+      18,
+      878,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 20,
+  "fields": {
+    "title": "바빌론",
+    "tagline": "모든 순간이 영화가 되는 곳",
+    "runtime": 189,
+    "original_title": "Babylon",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "황홀하면서도 위태로운 고대 도시 바빌론에 비유되는 할리우드에서 전성기를 누리고 있는 당대 최고의 스타 잭 콘래드.  누구나 잭과 같은 성공을 꿈꾸지만 아무나 이룰 수 없던 그 때, 화려한 데뷔를 위해 당차게 야망을 좇는 넬리 라로이와 열정적인 청년 매니 토레스가 영화 같은 삶을 꿈꾸며 할리우드에 입성한다. 하지만 할리우드에서는 기존 영화 산업의 틀을 깬 새로운 변화가 시작되고 그 격변의 한가운데에서 잭과 넬리, 그리고 매니는 살아남아 각자의 꿈을 이루기 위해 고군분투하는데...",
+    "poster_path": "/6JQtIajMe70HWtBf7uZ1ZyWiW1F.jpg",
+    "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+    "popularity": 370.178,
+    "vote_average": 7.413,
+    "vote_count": 2791.0,
+    "release_date": "2022-12-22",
+    "trailer": "https://www.youtube.com/embed/d3puvO3EdkQ",
+    "director": "스파이크 존즈, Manny Liotta, Masha Ko",
+    "actors": "브래드 피트, 마고 로비, Diego Calva, 진 스마트, Flea, Jovan Adepo, J.C. Currais, Jimmy Ortega, Hansford Prince, Telvin Griffin, 올리비아 와일드, Circus-Szalewski, Lukas Haas, Li Jun Li, 카이아 거버, Patrick Fugit, 에릭 로버츠, Cici Lau, Tyler Seiple, Zack Newick, Rory Scovel, Olivia Hamilton, P. J. 번, Alexandre Chen, Bob Clendenin, Miraj Grbić, Johnny Hoops, James Wellington, Carlos Nunez, Danny Jolles, James Vincent, Richard Clarke Larsen, Max Minghella, 사마라 위빙, Jeff Garlin, Anthony Burkhalter, Terry Walters, Trisha Simmons, Ariel Flores, Karolina Szymczak, Sean O'Bryan, David Ury, Katia Gomez, Vanessa Bednar, Carson Higgins, Armando Cosio, Frederick Koehler, Spencer Morgan, Ric Sarabia, Jim Allen Jackson, 캐서린 워터스턴, Yissendy Trinidad, Cyrus Hobbi, Anton Hedayat, Hayley Huntley, John Mariano, Christopher Allen, Arely Vianet, Jeremy Roberts, Alex Reznik, 클로이 파인먼, Pat Skipper, John Kerry, Sarah Ramos, Jennifer Grant, Julian Lefevre, Taylor Nichols, Bryan Scott Johnson, Kelly Meyer, Brenna Power, David Abed, Kevin Symons, Jonathan Thomson, Jim O'Brien, Chris Doubek, Dorian Martin, Todd Giebenhain, Mather Zickel, Ireland Sexton, Andrew Hawtrey, Mike Fletcher, Jonathan Ohye, James Crittenden, Pete Ploszek, Robert Beitzel, Ethan Suplee, Walker Hare, Douglas Fruchey, Taylor Hill, Stephen Thomas, Sophia Magaña, Karen Bethzabe, Oscar Balderrama, Aurielle Simmons, Eamon Hunt, Kenajuan Bentley, John Macey, Marcos A. Ferraez, 피비 톤킨, Troy Metcalf, Albert Hammond Jr., Bregje Heinen, Dana Marcolina, Tal Seder, Robert Morgan, Nana Ghana, Joe Dallesandro, E.E. Bell, Sol Landerman, Karina Fontes, 토비 맥과이어, Shane Powers, David Lau, Noah Reilly, Robert Verdi, Kenneth Foerch, Jonathan Stehney, Andrew Leonard, Richard Dobeck, Alex Budman, Jacob Scesney, Frank Fontaine, Anibal Seminario, Scott Mayo, Dan Kaneyuki, Alex Sadnik, John Mitchell, Gerald Dixon, Rickey D. Woodard, Jonathan James Thompson, Francis C. Edemobi, Larry O. Williams, Aaron Shaw, Micah Wright, Rayner Fernandez, Glen Turner, Roy Wiegand, Bryce Schmidt, Aaron O. Smith, Justin Gilmore, Keith Beyer, Luis Gonzalez, Francisco Torres, Gary Hickman, Steve Suminski, Wendell Kelly, Byron Sleugh, Ryan Porter, Jeffery Miller, Mykail McDade, William Roper, Philip Keen, Erm Navarro, Alvin Starks, Robert Murray, John Polite, Errol Rhoden III, Kyle Richter, Sidney Hopson, Ronald Bruner, Dramane Kone, Lyndon Rochelle, Joey de Leon, Dayramir Gonzàlez, Greg Sadler, Michael Naishtut, Joseph Small, Avery Baylin, Jalen Harvey, Lara Wickes, Andrew Lederman, Justin Smith, Mateo Pollock, Hamed Santigui Camara, Brandon Owens, John Fluker, Ralph Nader, Kevin Toney, Eric Reed, John Proulx, Michael Bustamante, Darrell Alston, Evan Greer, Gregory Poree, Joshua Alfaro, Brent Tyler, Ian Wurfl, Keelan Tobia, Justin Hargrove, Greg Webster, Luis Vadel, Benjamin Jacobson, Dean Anderson, Joel Pargman, Steve Huber, Eric Boulanger, Lora'nd Lokustza, Michael Freed, Robert Miskey, Aaron Oltman, Peter Hatch, Rodney Wirtz, Zach Dellinger, Benjamin Hoffman, Benjamin Penzner, Michael Kaufman, Steve Velez, Raymond Newell, Edwin Livingston, Miguel Norwood, Frank Abraham, Richard Simon, Marlon Martinez, Lewis Tan, Freya Parker, Anna Chazelle, Mike C. Manning, Anna Dahl, Jennifer Mariela Bermeo, Azizi Donnelly",
+    "pick_users": [],
+    "genres": [
+      18,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 21,
+  "fields": {
+    "title": "베이워치: SOS 해상 구조대",
+    "tagline": "",
+    "runtime": 117,
+    "original_title": "Baywatch",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "미치 뷰캐넌 이 대장으로 있는 해양구조대에 올림픽 수영 메달리스트 맷 브로디 가 합류한다. 이기적인 성격의 맷은 미치와 항상 티격태격하게 된다. 한편 해변에서는 플라카라고 불리는 마약이 자꾸만 발견되고 시의원이 죽는 사고도 벌어진다. 이것은 해변의 땅값을 떨어뜨린 뒤 몽땅 사들여 사유지화 하려는 거대 클럽의 사장 리즈 빅토리아의 음모였으며 이미 공무원들까지 매수된 상태였다. 눈치빠른 미치는 맷을 비롯하여 섬머, C.J, 로니 등 대원들과 함께 리즈의 음모를 파헤치며 해변을 지켜내기 위한 작전을 개시한다.",
+    "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+    "backdrop_path": "/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+    "popularity": 354.059,
+    "vote_average": 6.092,
+    "vote_count": 7808.0,
+    "release_date": "2017-05-25",
+    "trailer": "https://www.youtube.com/embed/nzKsruujw9U",
+    "director": "Seth Gordon",
+    "actors": "드웨인 존슨, 잭 에프론, 프리양카 초프라, 알렉산드라 다다리오, Jon Bass, Hannibal Buress, Kelly Rohrbach, Ilfenesh Hadera, 야히야 압둘마틴 2세, Oscar Nunez, Rob Huebel, Amin Joseph, Jack Kesy, Pamela Anderson, David Hasselhoff, Clem Cheung, Belinda, Charlotte McKinney, Izabel Goulart, Arian Foster, Vernon Davis, Eros Exarhiou, Maxie G. Rosales, Vincenzo Hinckley, Brandon Larracuente, Kelvin Witherspoon, Welder Santos, David Weiss, Damien LaRoy, Peter Anaya, L.J. Ruth, Brenda Lowe, Jackson Geach, James A. Sutton, Juliette Mathis, Samantha Harris, Shay Davila, Bria Danielle Davis, Ana Flavia Gavlak, Whitney Goin, Apollo GT, Lee Hodge, Angelique Kenney, Matthew Kosto, Gage Lawson, Casey McCullum, Logan Paul, Earl Poitier, Damon Preston, Kelly Róisín, Cody Scott, Haviland Stillwell, Zachary Vazquez, Barbara Vincent, Maegan Vogel, Acoryé White, Brandon Thomas Lee",
+    "pick_users": [],
+    "genres": [
+      28,
+      35,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 22,
+  "fields": {
+    "title": "슈퍼맨",
+    "tagline": "",
+    "runtime": 143,
+    "original_title": "Superman",
+    "original_language": "en",
+    "original_country": "CH",
+    "overview": "크립톤 행성의 조엘(Jor-El: 마론 브란도 분)은 행성이 곧 폭발할 것이라는 사실을 알고, 수많은 은하계의 지식을 담은 푸른 수정과 함께 아들인 카렐(Baby Clark Kent: 아론 스모린스키 분)을 지구로 보낸다. 카렐이 타고 온 작은 우주선은 조나단 부부(Jonathan Kent: 글렌 포드 분 / Ma Kent: 필리스 색터 분) 앞에 떨어지고, 아이가 없던 그들이 카렐을 데려와 클락이라 부르며 키운다.  어느 덧 청년으로 성장한 클락(Clark Kent/Superman: 크리스토퍼 리브 분)은 알지못하는 힘에 끌려 북쪽으로 가게 되고, 그 곳에서 아버지 조엘로부터 그 동안의 궁금증을 풀고, 다시 지구로 돌아오게 된다. 지구로 돌아온 클락은 데일리 플리닛지의 기자로 살아가며, 위험한 순간마다 슈퍼맨으로 변신해 사람들을 구해낸다. 슈퍼맨의 활약이 커지면서 신문사마다 다투어 그의 기사를 실었고 클락은 같은 신문사의 여기자 로이스 레인(Lois Lane: 마곳 키더 분)을 짝사랑하게 되는데.",
+    "poster_path": "/qwqXgd7FS0UhjU7SY5aNz6vV3G5.jpg",
+    "backdrop_path": "/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg",
+    "popularity": 353.957,
+    "vote_average": 7.136,
+    "vote_count": 3654.0,
+    "release_date": "1978-12-14",
+    "trailer": "https://www.youtube.com/embed/w8q8FtuPGgw",
+    "director": "Roy Stevens, 리처드 도너",
+    "actors": "크리스토퍼 리브, 말론 브란도, 진 해크먼, Ned Beatty, Jackie Cooper, Glenn Ford, Trevor Howard, 마고 키더, Jack O'Halloran, Valerie Perrine, Maria Schell, Terence Stamp, Phyllis Thaxter, Susannah York, Marc McClure, Sarah Douglas, Harry Andrews, Jeff East, Diane Sherry Case, Vass Anderson, John Hollis, James Garbutt, Michael Gover, David Neal, William Russell, Penelope Lee, John Stuart, Alan Cullen, Aaron Smolinski, Billy J. Mitchell, Robert Henderson, Larry Lamb, John Cassady, John F. Parker, Harry Scott, Ray Evans, Miquel Brown, Vincent Marzello, Benjamin Feitelson, Lise Hilboldt, Leueen Willoughby, Rex Reed, Weston Gavin, Steve Kahan, Ray Hassett, Randy Jurgensen, Matt Russo, Bo Rucker, Paul Avery, David Baxt, George Harris II, John Cording, Oz Clarke, Rex Everhart, Jayne Tottman, Frank Lazarus, Brian Protheroe, Lawrence Trimble, Robert Whelan, David Calder, Norwich Duff, Keith Alexander, Michael Ensign, Larry Hagman, Paul Tuerpe, Graham McPherson, David Yorston, Robert O'Neill, Robert MacLeod, John Ratzenberger, Alan Tilvern, Phil Brown, Bill Bailey, Burnell Tucker, Chief Tug Smith, Norman Warwick, Chuck Julian, Mark Wynter, Noel Neill, Kirk Alyn, Tony Selby, Bruce Boa, David de Keyser, Harry Fielder, Shane Rimmer, Marco St. John",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 23,
+  "fields": {
+    "title": "로보캅",
+    "tagline": "죽든 살든 넌 나와 함께 간다.",
+    "runtime": 102,
+    "original_title": "RoboCop",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "멀지 않은 미래, 미국의 공업도시 디트로이트는 범죄 집단의 소굴이 되어가고, 시 경찰의 힘이 무력해져간다. 그러던 어느날 유능한 경찰관 머피(피터 웰러)가 범인들을 쫓다 뇌사상태에 빠진다. 사이보그 제작을 실험하고 있던 방위산업체의 과학자들은 즉각적으로 머피의 몸을 티타늄으로 보강하고 지워진 기억 위에 정교하게 짜여진 프로그램을 집어넣어 극비리에 최첨단의 사이보그를 탄생시키는데...",
+    "poster_path": "/ktOrQjOklsEhr75KItQloX1hc9Q.jpg",
+    "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+    "popularity": 352.363,
+    "vote_average": 7.317,
+    "vote_count": 4892.0,
+    "release_date": "1987-07-17",
+    "trailer": "https://www.youtube.com/embed/kT4McPrRx2s",
+    "director": "존 랜디스, 폴 버호벤",
+    "actors": "피터 웰러, 낸시 앨런, Dan O'Herlihy, Ronny Cox, Kurtwood Smith, Miguel Ferrer, Robert DoQui, Ray Wise, Felton Perry, Paul McCrane, Jesse D. Goins, Del Zamora, Calvin Jung, Rick Lieberman, Lee de Broux, Mark Carlton, Edward Edwards, Michael Gregory, Neil Summers, Gene Wolande, Gregory Poudevigne, Charles Carroll, Kevin Page, Yolonda Williams, Tyrees Allen, John S. Davies, Laird Stuart, Stephen Berrier, Sage Parker, Karen Radcliffe, Darryl Cox, Jerry Haynes, Bill Schockley, Mike Moroff, Marjorie Rynearson, Jo Livingston, Joan Pirkle, Diane Robin, Adrianne Sachs, Maarten Goslins, Angie Bolling, Jason Levine, S.D. Nemeth, Bill Farmer, Michael Hunter, Spencer Prokop, Debra Zach, L.J. King, David Packer, Leeza Gibbons, Mario Machado, Bill Blair, Don \"Tex\" Clark, Wanda De Jesus, James Field, Allan Graf, Katie Griffin, Harry Johnson, Debra Lamb, Randall Oliver, Scott Sligar, James Staszkiel, Scott Thomson, Mark Edward Walters, Sean Wohland",
+    "pick_users": [],
+    "genres": [
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 24,
+  "fields": {
+    "title": "택시 드라이버",
+    "tagline": "연약한 영웅의 강한 메시지",
+    "runtime": 114,
+    "original_title": "Taxi Driver",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "트래비스는 베트남전에서 귀환한 후 불면증에 시달리며 사회에 적응하지 못하고 있다. 그래서 그는 택시 운전기사로 일하며 뉴욕의 밤거리를 다니며 타락한 사회를 보고 자신이 직접 이 악들을 제거하려고 마음 먹는다. 어느 날 트래비스는 우연히 12살 짜리 창녀 아이리스를 만나게 되고 그녀의 인생을 구하려 하지만 그녀는 집으로 돌아가길 꺼려 한다. 자신은 아무 것도 할 수 없다는 생각에 무기력해진 트래비스는 4개의 권총을 구입하고 상원의원 팔렌타인을 저격하러 나선다. 하지만 엉뚱하게도 사창가에서 피비린내 나는 총격전을 벌인 끝에 아이리스를 묶어두고 있던 포주 스포츠를 살해하고 마는데...",
+    "poster_path": "/nJFKg6pyfmkLKttiLQKQuLZBLKH.jpg",
+    "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+    "popularity": 346.042,
+    "vote_average": 8.2,
+    "vote_count": 11779.0,
+    "release_date": "1976-02-09",
+    "trailer": "https://www.youtube.com/embed/evw4jqlRzNc",
+    "director": "마틴 스콜세지, Robert P. Cohen",
+    "actors": "로버트 드 니로, 조디 포스터, Cybill Shepherd, 하비 카이텔, Peter Boyle, Leonard Harris, 앨버트 브룩스, Diahnne Déa, Frank Adu, Victor Argo, Gino Ardito, Garth Avery, Harry Cohn, Cooper Cunningham, Brenda Dickson, Harry Fischler, Nat Grant, Richard Higgs, Beau Kayser, Bob Maroff, Norman Matlock, Bill Minkin, Murray Moston, Harry Northup, Gene Palma, Harlan Cary Poe, Steven Prince, Peter Savage, Nicholas Shields, Joe Spinell, Maria Turner, Robin Utt, Tommy Ardolino, Joseph Bergmann, William Donovan, Jean Elliott, Annie Gagen, Trent Gough, Carson Grant, Mary-Pat Green, Robert John Keiber, James Mapes, Debbi Morgan, Antone Pagán, Billie Perkins, Frankie Verroca",
+    "pick_users": [],
+    "genres": [
+      18,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 25,
+  "fields": {
+    "title": "시민 케인",
+    "tagline": "한 남자의 삶, 그리고 죽음",
+    "runtime": 119,
+    "original_title": "Citizen Kane",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "1940년 뉴욕 인콰이어러지를 비롯, 수 많은 신문들의 발행인이었던 찰스 포스터 케인이 죽는다. 그는 당시 70세로 세계에서 손꼽히는 부자였으며, 죽음 직전에는 플로리다의 대저택에서 은둔 생활을 하고 있었다. 생전에 많은 정치인과도 친분을 맺고 있었고, 미국 정책에 막강한 영향력을 발휘하기도 했던 그는 자신에 대한 여러 얘기들에 대해 \"나는 현재 미국인이고 과거에도 미국인이었으며 앞으로도 항상 미국인일 것이다\"라고 일축하곤 했다. 잡지 편집장 록스톤은 그의 죽음을 취재하고자 기자 톰슨에게 케인이 죽기 전에 말했다는 장미꽃 봉오리가 무슨 뜻인지 알아오라고 한다. 톰슨은 케인의 주변 인물을 샅샅이 취재하기 시작하는데...",
+    "poster_path": "/3E3Ng1JEYSk3uewUd6OZOc00CdJ.jpg",
+    "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+    "popularity": 347.481,
+    "vote_average": 8.009,
+    "vote_count": 5303.0,
+    "release_date": "1941-04-17",
+    "trailer": "https://www.youtube.com/embed/e9HybvMcGL8",
+    "director": "오슨 웰스, Richard Wilson",
+    "actors": "Joseph Cotten, Dorothy Comingore, Ray Collins, George Coulouris, Agnes Moorehead, Paul Stewart, Ruth Warrick, Erskine Sanford, Everett Sloane, Fortunio Bonanova, Gus Schilling, Philip Van Zandt, Georgia Backus, Harry Shannon, Sonny Bupp, Buddy Swan, Don Ackerman, Nat King Cole, Gino Corrado, Maurice Costello, Demetrius Alexis, Gene Coogan, Art Dupuis, Rudy Germane, Mike Lally, Walter Lawrence, John Northpole, Victor Romito, Bob Terry, William Alston, Jack Gargan, Bert Moorhouse, Carmen Laroux, Sam Ash, Buddy Messinger, Terrance Ray, Sally Corner, Walter Bacon, Herbert Corthell, Harry A. Bailey, Danny Borzage, J.J. Clark, Tom Coleman, Carl Deloro, Jack Egan, Robert Haines, Ludwig Lowry, John McCormack, Hercules Mendez, Paddy O'Flynn, Sam Rice, Don Roberts, Larry Wheat, Larry Williams, Joan Blair, Morgan Brown, Harry Burkhardt, Edmund Cobb, Eddie Coke, Louis Natheaux, Arthur O'Connell, Guy Repp, Tom Steele, Louise Currie, Walter Sande, Jan Wiley, Milton Kibbee, Buck Mack, Alan Ladd, Thomas A. Curran, Jack Curtis, George Noisom, Gerald Pierce, Dona Dax, George DeNormand, Bud Geary, Bert LeBaron, Clyde McAtee, Cyril Ring, Roland Winters, Lew Harvey, Eddie Dew, Perc Launders, John Dilson, Walter James, Robert Dudley, Suzanne Dulier, Al Eben, Johnny Eckert, Carl Ekberg, Edith Evanson, Carl Faulkner, Juanita Fields, Edna Mae Jones, Leda Nicova, Jolane Reynolds, Suzanne Ridgway, Olin Francis, Louise Franklin, Renee Godfrey, Peter Gowland, Jimmy Grant, Jesse Graves, Ernest Grooney, Jack Gwynne, Teddy Mangean, Henry Hebert, Bryan 'Slim' Hightower, Mitchell Ingraham, Philip Morris, Francis Sayles, George W. Jimenez, Ellen Lowe, James T. Mack, Mickey Martin, Bruce Sidney, Major McBride, Frank McLure, Charles Meakin, Edward Peil Jr., Irving Mitchell, Frances E. Neal, Lillian Nicholson, Joseph North, William H. O'Brien, Field Norton, Dick Scott, Frank O'Connor, Russ Powell, Bert Stevens, Thomas Pogue, Lillian O'Malley, Jack Raymond, Gohr Van Vleck, Myrtle Rishell, Benny Rubin, Shimen Ruskin, George Sherwood, Edward Ryan, Landers Stevens, Harry J. Vejar, Tudor Williams, Arthur Yeoman, Tim Davis, Charles Bennett, Arthur Kay, John Alban, Finn Zirzow, Sam Harris",
+    "pick_users": [],
+    "genres": [
+      18,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 26,
+  "fields": {
+    "title": "23 아이덴티티",
+    "tagline": "만약 그들이 자유자재로 변할 수 있다면",
+    "runtime": 117,
+    "original_title": "Split",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "23개의 인격을 가진 남자 케빈(제임스 맥어보이). 어릴 때 엄마에게 학대를 당한 그는 자신을 보호하기 위해 인격들의 리더인 배리, 미성숙한 9살 소년 헤드윅, 여성 패트리샤, 강박증이 있는 데니스 등 23개의 인격을 만들어냈다. 유일하게 자신을 이해하는 플레처 박사(베티 버클리)와 상담을 나누며 인격들을 컨트롤하던 그에게 어느 날 비스트라는 24번째 인격에 대한 믿음이 생겨난다. 비스트를 불러내고자 하는 인격들은 세명의 10대 소녀 케이시, 클레어, 마샤를 납치해 감금한다. 케이시는 과거 아버지와 사냥했던 경험과 삼촌에게 학대당했던 기억을 상기하며 탈출 방법을 찾아나간다.",
+    "poster_path": "/pF58P50otT55n4H1ELw1qtUrTcS.jpg",
+    "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+    "popularity": 369.764,
+    "vote_average": 7.343,
+    "vote_count": 16900.0,
+    "release_date": "2017-01-19",
+    "trailer": "https://www.youtube.com/embed/BgW54ORm32g",
+    "director": "M.  나이트 샤말란",
+    "actors": "제임스 맥어보이, 안야 테일러조이, Betty Buckley, 헤일리 루 리처드슨, Jessica Sula, Izzie Coffey, Brad William Henke, Sebastian Arcelus, Neal Huff, Ukee Washington, Ann Wood, Robert Michael Kelly, Rosemary Howard, Jerome Gallman, Lyne Renee, Kate Jacoby, Peter Patrikios, Kash Goins, Roy James Wilson, Christopher Lee Philips, Julie Potter, Ameerah Briggs, Nakia Dillard, Robin Rieger, Emlyn Elisabeth Morinelli, 브루스 윌리스, Kelly Werkheiser, Kim Director, Robert Bizik, Junnie Lopez, Steven Dennis, Matthew Nadu, Barbara Edwards, James Robinson Jr., Corinne Costa, John Mitchell, Andrea Havens, Shawn Gonzalez, Jalina Mercado, Michael J. Kraycik, Michaela Bockarie, Colin Campbell, John Jillard Sr., Vincent Riviezzo, Gary Ayash, Jeff Buckner",
+    "pick_users": [],
+    "genres": [
+      27,
+      53
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 27,
+  "fields": {
+    "title": "사일런스",
+    "tagline": "고난의 순간에… 당신은 왜 침묵하십니까? …그 침묵 속에서 당신의 목소리를 들었습니다",
+    "runtime": 159,
+    "original_title": "Silence",
+    "original_language": "en",
+    "original_country": "MX",
+    "overview": "17세기, 선교를 떠난 ‘페레이라’ 신부(리암 니슨)의 실종 소식을 들은 ‘로드리게스’(앤드류 가필드)와  ‘가르페’(아담 드라이버) 신부는 사라진 스승을 찾고 복음을 전파하기 위해  목숨을 걸고 일본으로 떠난다.  천주교에 대한 박해가 한창인 그 곳에서,  두 신부는 어렵게 믿음을 이어가고 있는 사람들과 마주하게 된다.  생각보다 훨씬 더 처참한 광경을 목격한 두 신부는  고통과 절망에 빠진 이들에게 침묵하는 신을 원망하며 온전한 믿음마저 흔들리게 되는데…",
+    "poster_path": "/ww6q47tBUePDeRDJulnA8g3lIlt.jpg",
+    "backdrop_path": "/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
+    "popularity": 338.05,
+    "vote_average": 7.1,
+    "vote_count": 2960.0,
+    "release_date": "2016-12-22",
+    "trailer": "https://www.youtube.com/embed/RJ6UOuJU1GI",
+    "director": "츠카모토 신야, 사부",
+    "actors": "앤드류 가필드, 아담 드라이버, 리암 니슨, 아사노 타다노부, 키어런 하인즈, Issey Ogata, Yoshi Oida, Yosuke Kubozuka, Kaoru Endô, Diego Calderón, Rafael Kading, Matthew Blake, Benoit Masse, Tetsuya Igawa, Shi Liang, Panta, Takuya Matsunaga, Miho Harita, Hairi Katagiri, Masayuki Yamada, Michié, Hiroko Isayama, Yutaka Mishima, Yasunari Takeshima, Yuri Ishizaka, Ryo Sato, Ruo Satô, Yoriko Doguchi, Kisetsu Fujiwara, Yasushi Takahashi, Sanjuro Kobayashi, Mangorô Satô, Keiko Morikawa, Jin Maki, Naoto Yokouchi, Kansai Eto, Shun Sugata, Kazuhiko Ozaki, 고마츠 나나, 카세 료, Fumitaka Terai, Hako Ohshima, Hideki Nishioka, Takahiro Fujita, Senmaru, Ryô Fujiwara, 福田信昭, 아오키 무네타카, 와타나베 테츠, Exile Akira, Shunya Tajima, Ryuki Kitaoka, Hiroki Noguchi, Katsuo Nakamura, Yoshihiro Takayama, Shoji Miyata, Noriwo Mitsuda, Ayumu Saito, Béla Baptiste, Asuka Kurosawa, Motokatsu Suzuki, Yasushi Takada, Ten Miyazawa",
+    "pick_users": [],
+    "genres": [
+      18,
+      36
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 28,
+  "fields": {
+    "title": "인사이드 아웃 2",
+    "tagline": "비상! 새로운 감정들이 몰려온다!",
+    "runtime": 96,
+    "original_title": "Inside Out 2",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "13살이 된 라일리의 행복을 위해 매일 바쁘게 머릿속 감정 컨트롤 본부를 운영하는 ‘기쁨’, ‘슬픔’, ‘버럭’, ‘까칠’, ‘소심’. 그러던 어느 날, 낯선 감정인 ‘불안’, ‘당황’, ‘따분’, ‘부럽’이가 본부에 등장하고, 언제나 최악의 상황을 대비하며 제멋대로인 ‘불안’이와 기존 감정들은 계속 충돌한다. 결국 새로운 감정들에 의해 본부에서 쫓겨나게 된 기존 감정들은 다시 본부로 돌아가기 위해 위험천만한 모험을 시작하는데…",
+    "poster_path": "/pmemGuhr450DK8GiTT44mgwWCP7.jpg",
+    "backdrop_path": "/pI5jxew0I9kub4IXrtsOB8F40dw.jpg",
+    "popularity": 410.213,
+    "vote_average": 0.0,
+    "vote_count": 0.0,
+    "release_date": "2024-06-06",
+    "trailer": "https://www.youtube.com/embed/EiCmnIaj4u8",
+    "director": "Kirk R. Thatcher",
+    "actors": "에이미 폴러, Lewis Black, Phyllis Smith, 토니 헤일, Liza Lapira, 마야 호크, 아요 에데비리, 아델 에그자르코풀로스, 폴 월터 하우저, Kensington Tallman, 다이앤 레인, 카일 맥라클란, Lilimar, June Squibb, Frank Oz, John Ratzenberger, Flea, 이벳 니콜 브라운, Sumayyah Nuriddin-Green, Grace Lu, Sarayu Blue, 론 펀치스, Dave Goelz, James Austin Johnson, 바비 모니한, Paula Pell, Paula Poundstone, Kendall Coyne Schofield, Yong Yea",
+    "pick_users": [],
+    "genres": [
+      12,
+      14,
+      16,
+      18,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 29,
+  "fields": {
+    "title": "엔젤 하트",
+    "tagline": "두 개의 영혼. 악마인가? 인간인가?",
+    "runtime": 113,
+    "original_title": "Angel Heart",
+    "original_language": "en",
+    "original_country": "CA",
+    "overview": "1955년, 뉴욕의 사립 탐정 엔젤은 어느 날 사이퍼라는 사람으로부터 사건 의뢰를 받는다. 2차 대전 중 부상으로 식물 인간이 되어 12년간 병원 생활을 하다 얼마 전 실종된 가수 쟈니 페이버릿을 찾는 일이였다. 사건의 조사는 12년간 그가 입원했던 병원에서부터 시작된다. 그러나 엔젤이 만난 사람들이 차례차례 시체로 발견되고 쟈니의 행적은 더욱 미묘해지는데...",
+    "poster_path": "/6qlfnohud4p1MjupJ20fotk3tgG.jpg",
+    "backdrop_path": "/mg08WeXL6GWEJHUPAf6p9RD7Z1.jpg",
+    "popularity": 320.839,
+    "vote_average": 7.13,
+    "vote_count": 1452.0,
+    "release_date": "1987-03-06",
+    "trailer": "https://www.youtube.com/embed/cgMQqsk-dns",
+    "director": "Karen Davis",
+    "actors": "미키 루크, 로버트 드 니로, 리사 보넷, 샬롯 램플링, Stocker Fontelieu, Brownie McGhee, Michael Higgins, Elizabeth Whitcraft, Eliott Keener, Charles Gordone, Dann Florek, Kathleen Wilhoite, George Buck, Judith Drake, Pruitt Taylor Vince, Dave Petitjean, Rick Washburn, Neil Newlon, Gerald Orange",
+    "pick_users": [],
+    "genres": [
+      27,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 30,
+  "fields": {
+    "title": "웡카",
+    "tagline": "세상에서 가장 달콤한 여정 좋은 일은 모두 꿈에서부터 시작된다!",
+    "runtime": 117,
+    "original_title": "Wonka",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "마법사이자 초콜릿 메이커 ‘윌리 웡카’의 꿈은 디저트의 성지, ‘달콤 백화점’에 자신만의 초콜릿 가게를 여는 것. 가진 것이라고는 낡은 모자 가득한 꿈과 단돈 12소베른 뿐이지만 특별한 마법의 초콜릿으로 사람들을 사로잡을 자신이 있다. 하지만 먹을 것도, 잠잘 곳도, 의지할 사람도 없는 상황 속에서 낡은 여인숙에 머물게 된 ‘웡카’는 ‘스크러빗 부인’과 ‘블리처’의 계략에 빠져 눈더미처럼 불어난 숙박비로 인해 순식간에 빚더미에 오른다. 게다가 밤마다 초콜릿을 훔쳐가는 작은 도둑 ‘움파 룸파’의 등장과 ‘달콤 백화점’을 독점한 초콜릿 카르텔의 강력한 견제까지. 세계 최고의 초콜릿 메이커가 되는 길은 험난하기만 한데…",
+    "poster_path": "/lQ4cwauq2jeTkka9RvdMBTVPLMH.jpg",
+    "backdrop_path": "/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+    "popularity": 387.092,
+    "vote_average": 7.177,
+    "vote_count": 2976.0,
+    "release_date": "2023-12-06",
+    "trailer": "https://www.youtube.com/embed/1GJCPB2yd2s",
+    "director": "Ben Howard",
+    "actors": "티모시 샬라메, Calah Lane, 키건마이클 키, 휴 그랜트, Paterson Joseph, 올리비아 콜먼, Tom Davis, 짐 카터, 로완 앳킨슨, Matt Lucas, Mathew Baynton, Natasha Rothwell, 락히 타크라, Rich Fulcher, Kobna Holdbrook-Smith, Simon Farnaby, Ellie White, 샐리 호킨스, Colin O'Brien, Freya Parker, Murray McArthur, Charlotte Ritchie, Phil Wang, Rufus Jones, Isy Suttie, Ian Bartholomew, Sophie Winkleman, Justin Edwards, Michael Abubakar, Tim Fitzhigham, Jane Bertish, Tracy Ifeachor, 도미닉 콜먼, Muzz Khan, Alison Pargeter, Bleu Woodward, Paul G. Raymond, Lola Shepelev, Marina Bye, Robyn Rose, Millie O'Donnell, Susie Fairfax, Macie Blake, Ellie Blake, Matilda Tucker, Bertie Caplan, Gustave Die, Luan Gallagher, Poppy Townsend White",
+    "pick_users": [],
+    "genres": [
+      14,
+      35,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 31,
+  "fields": {
+    "title": "데드풀 2",
+    "tagline": "이번엔 혼자가 아니다",
+    "runtime": 117,
+    "original_title": "Deadpool 2",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "암 치료를 위한 비밀 실험에 참여한 후, 강력한 힐링팩터 능력을 지닌 슈퍼히어로 데드풀로 거듭난 웨이드 윌슨은 여자친구 바네사와 더없이 행복한 시간을 보낸다. 그러나 행복도 잠시, 눈 앞에서 소중한 연인을 잃어버리고 삶의 의미를 상실하지만 자기 치유 능력 때문에 죽고 싶어도 죽지를 못한다. 밑바닥까지 내려간 데드풀은 더 나은 사람이 되기로 결심한다. 한편 미래에서 온 케이블은 러셀을 집요하게 쫓는다. 데드풀은 팀 엑스포스를 결성하고, 뭘 해도 운이 따르는 도미노가 엑스포스에 합류하는데...",
+    "poster_path": "/kDiOsE2FqZC26ScZDGdkkmlhZGJ.jpg",
+    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "popularity": 332.785,
+    "vote_average": 7.488,
+    "vote_count": 17063.0,
+    "release_date": "2018-05-10",
+    "trailer": "https://www.youtube.com/embed/-iGkjWrELnk",
+    "director": "David Leitch",
+    "actors": "라이언 레이놀즈, 조슈 브롤린, 모레나 바카린, Julian Dennison, 자시 비츠, T.J. 밀러, 레슬리 어검스, Karan Soni, Brianna Hildebrand, Jack Kesy, 에디 마산, Shioli Kutsuna, Stefan Kapičić, Randal Reeder, Nikolai Witschl, Thayr Harris, Rob Delaney, Lewis Tan, 빌 스카스가드, 테리 크루즈, 브래드 피트, Paul Wu, Robert Maillet, 앨런 튜딕, 맷 데이먼, Michasha Armstrong, Joe Doserro, Hayley Sales, Islie Hirvonen, Jagua Arneja, Gerry South, Mike Dopud, Luke Roessler, Andy Canete, Tanis Dolman, Eleanor Walker, Hunter Dillon, Sala Baker, Sonia Sunger, Abiola Uthman, Tony Bailey, Alex Kliner, Elaine Kliner, Alicia Morton, Andre Tricoteux, Lisa Bunting, Miles Ellis, Lars Grant, Sam Hargrave, 니콜라스 홀트, Simon MacIntyre, 제임스 맥어보이, 에반 피터스, 타이 셰리던, 알렉산드라 쉽, 코디 스밋맥피, Scott Vickaryous, Dan Zachary, 휴 잭맨",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 32,
+  "fields": {
+    "title": "살인병동",
+    "tagline": "",
+    "runtime": 90,
+    "original_title": "The Void",
+    "original_language": "en",
+    "original_country": "CA",
+    "overview": "순찰 중이던 데니얼(아론 풀)은 길가에 쓰러진 사람을 발견하고 인근 병원으로 데려간다. 그를 데려간지 얼마지나지 않아 병원에서 살인사건이 일어나고, 범인은 데니엘도 공격하려다 살해를 당한다. 곧바로 출동한 경감에게 현장을 넘기고 퇴근하려던 데니얼에게 흰색 옷의 괴한들이 나타나 공격을 가하게 되고, 병원 안의 사람들은 병원에 갇히게 된다.  그때 데니얼에게 살해 된 여성이 괴물로 변해 사람들을 공격하게 되고, 곧이어 들이닥친 두 명의 남자들은 데니엘에 의해 실려온 남성의 신변을 요구하고 나선다. 한순간에 아수라장이 되어 버린 병원. 그리고 드러나는 괴물의 정체들. 과연 이곳에서는 무슨 일이 일어나고 있는 것이며, 데니얼을 둘러싼 그 사람들의 정체는 과연 누구일까?",
+    "poster_path": "/c0WLRyT0AmUi41nVXBnqmJshIBn.jpg",
+    "backdrop_path": "/oZwwwezJFlHmQGBRJDLmENXwOIt.jpg",
+    "popularity": 322.983,
+    "vote_average": 5.941,
+    "vote_count": 1170.0,
+    "release_date": "2016-09-22",
+    "trailer": "https://www.youtube.com/embed/aJHIlNWAb_A",
+    "director": "Chris Nash",
+    "actors": "Aaron Poole, Kathleen Munroe, Art Hindle, Daniel Fathers, Kenneth Welsh, Ellen Wong, Stephanie Belding, Mik Byskov, Grace Munro, James Millington, Evan Stern, Trish Rainone, Amy Groening, Matthew Kennedy, Deke Garner",
+    "pick_users": [],
+    "genres": [
+      27,
+      878,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 33,
+  "fields": {
+    "title": "스탠 바이 미",
+    "tagline": "",
+    "runtime": 87,
+    "original_title": "Stand by Me",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "오레곤주의 작은 마을 캐슬록. 섬세한 성격으로 문학에 소질이 있는 고디, 알콜 중독인 아버지 밑에서 갑갑한 생활을 하지만 타고난 리더쉽으로 동네 꼬마들을 지휘하는 크리스, 2차대전의 영웅이었던 아버지를 존경하는 열정의 소년 테디, 착한 꼬마 뚱보 번은 이 마을에서 사는 단짝 친구들이다. 어느 날 번은 패거리들에게 며칠 전 행방불명된 소년의 시체가 저멀리 숲속에 있다는 소식을 전해준다. 만약 시체를 찾아낸다면 마을의 영웅이 되는 것. 네 명의 소년은 호기심과 모험심을 억누르지 못하고 숲을 향해 여행을 떠난다.",
+    "poster_path": "/gLYbrbNQrw08CYPyCQxAKTmtRvM.jpg",
+    "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+    "popularity": 325.847,
+    "vote_average": 7.854,
+    "vote_count": 5632.0,
+    "release_date": "1986-08-08",
+    "trailer": "https://www.youtube.com/embed/lV-ZdZ7wNJM",
+    "director": "Korey Scott Pollard",
+    "actors": "Wil Wheaton, 리버 피닉스, Jerry O'Connell, Corey Feldman, 키퍼 서덜랜드, Casey Siemaszko, Gary Riley, Bradley Gregg, Jason Oliver, Marshall Bell, Frances Lee McCain, Bruce Kirby, William Bronder, Scott Beach, 리처드 드라이퍼스, 존 쿠삭, Madeleine Swift, Popeye, Geanette Bobst, Art Burke, Matt Williams, Andy Lindberg, Dick Durock, Charlie Owens, Kenneth Hodges, John Hodges, Susan Thorpe, Rick Elliott, Chance Quinn, Jason Naylor",
+    "pick_users": [],
+    "genres": [
+      18,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 34,
+  "fields": {
+    "title": "베이비 드라이버",
+    "tagline": "모든 리듬이 액션이 된다",
+    "runtime": 113,
+    "original_title": "Baby Driver",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "베이비(앤설 엘고트)는 탈출 전문 드라이버다. 은행 강도 등 범죄의 설계자인 박사(케빈 스페이스)에게 약점이 잡혀 일을 하고 있지만 손을 씻고 새로운 생활을 꿈꾼다. 어린 시절 교통사고를 당해 청력에 이상이 생긴 베이비는 이어폰을 끼고 음악을 들으며 안정을 유지한다. 어느 날 자주 가는 식당에서 종업원인 데보라(릴리 제임스)를 만나 마음을 나누는 베이비. 하지만 마지막인 줄 알았던 범죄는 그의 발목을 놓아주지 않고 배츠(제이미 폭스), 버디(존 햄), 달링(에이사 곤살레스)과 함께 최후의 한탕을 준비한다.",
+    "poster_path": "/fUfZ2zECULlN0pGPgXkez5rF7Hj.jpg",
+    "backdrop_path": "/goCvLSUFz0p7k8R10Hv4CVh3EQv.jpg",
+    "popularity": 323.271,
+    "vote_average": 7.5,
+    "vote_count": 15212.0,
+    "release_date": "2017-06-28",
+    "trailer": "https://www.youtube.com/embed/lHwmLu7Y9t8",
+    "director": "월터 힐",
+    "actors": "안셀 엘고트, 케빈 스페이시, 릴리 제임스, 존 햄, 제이미 폭스, 존 번설, 에이사 곤살레스, Flea, CJ Jones, Lanny Joon, Micah Howard, Morgan Brown, Morse Diggs, Sky Ferreira, Lance Palmer, Hudson Meek, Viviana Chavez, Hal Whiteside, Brigitte Kali Canales, Patrick Walker, Ben VanderMey, David Robert Lewis, Big Boi, Killer Mike, Brogan Hall, Allison King, R. Marcos Taylor, Andy McDermott, Christopher Beanland, Andrea Frye, Thomas E. Haynes, Russell B. Spencer, Cynne Simpson, Keith Hudson, Sidney Sewell, Thurman Sewell, Elijah Everett, Jon Spencer, Wilbur Fitzgerald, Jeff Chase, Shellita Boxie, Marshall Choka, Juliette Sicard, Marvin E. West, Connie Lee, James Blackshear, Erica Frene, Duke Jackson, Trey McGriff, Donald K. Overstreet, Danny Le Boyer, Mark Smith, Kenneth Manos, Kent Wagner, Whit Whitman, Perry Zulu Jr., Chad Joyce",
+    "pick_users": [],
+    "genres": [
+      28,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 35,
+  "fields": {
+    "title": "스카페이스",
+    "tagline": "세상은 당신의 것입니다",
+    "runtime": 169,
+    "original_title": "Scarface",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "1980년 5월 쿠바가 마리엘 항을 개항하여 반카스트로 지지자들이 미국 플로리다에 입항한다. 토니 몬타나와 마니리베라도 이민 수용소로 보내진다. 3개월 후 마니가 수용소에 있는 레벤가라는 자를 살해해 주면 신분증을 입수해 주겠다는 일을 받아 수용소에 폭동을 일으켜 레벤가를 암살한다. 접시닦이로 근근히 살아가던 토니는 프랭크의 부하로부터 콜롬비아 마약상과의 거래일을 맡았다가 위험천만한 위기를 넘긴다. 그 사건을 계기로, 토니는 프랭크의 신임을 얻고 그의 부하가 되지만, 수 개월 후 결국 자신을 없애려는 프랭크를 죽이고 조직을 장악, 보스 자리에 오르는데...",
+    "poster_path": "/zx7sXrMISbs8RI4URbjPyKocRgP.jpg",
+    "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+    "popularity": 334.705,
+    "vote_average": 8.169,
+    "vote_count": 11361.0,
+    "release_date": "1983-12-09",
+    "trailer": "https://www.youtube.com/embed/ijto4SogWlw",
+    "director": "Katt Shea",
+    "actors": "알 파치노, Steven Bauer, 미셸 파이퍼, 메리 엘리자베스 매스트런토니오, Robert Loggia, Miriam Colon, F. 머레이 에이브러햄, Paul Shenar, Harris Yulin, Ángel Salazar, Arnaldo Santana, Pepe Serna, Michael P. Moran, Al Israel, Dennis Holahan, 마크 마골리스, Michael Alldredge, Ted Beniades, Richard Belzer, Paul Espel, John Brandon, Tony Perez, Garnett Smith, Loren Almaguer, Gil Barreto, Heather Benna, Sue Bowser, Tina Leigh Cameron, Victor Campos, Robert Hammer Cannerday, Rene Carrasco, Albert Carrier, John Carter, Richard Caselnova, Gary Carlos Cervantes, Carlos Augusto Cestero, Johnny Contardo, Roberto Contreras, Gregory Cruz, Dante D'Andre, Ben Frommer, Ronald G. Joseph, Mario Machado, John McCann, Victor Millan, Santos Morales, Mike Moroff, Manuel Padilla Jr., Michael Rougas, Geno Silva, Angela Aames, Lee Benton, Lana Clarkson, Ava Lazar, Shelley Taylor Morgan, Emilia Crow, Jeanette Linne, Margaret Michaels, Charles Durning, Dennis Franz, Linda Gillen, Gregg Henry, Kevyn Major Howard, Henry Kingi, Marcus Shirock, Maxine Wasa, Ilka Tanya Payán, Richard Delmonte, Terri Taylor, Caesar Cordova, Tammy Lynn Leppert, 피델 카스트로",
+    "pick_users": [],
+    "genres": [
+      18,
+      28,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 36,
+  "fields": {
+    "title": "차이나타운",
+    "tagline": "",
+    "runtime": 130,
+    "original_title": "Chinatown",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "사립 탐정인 기키스는 의뢰인들을 상대로 남의 뒷을 캐내 불륜 관계 등을 밝혀내는 일을 하는 사람이다. 어느날 어느 부인의 부탁으로 남편인 멀레이라는 수력발전의 권위자의 뒤를 캐내어 그가 어느 여자와 사귀고 있음을 밝혀낸다. 하지만 멀레이의 부인인 에블린이 나타나 의뢰했던 멀레이의 부인은 가짜임이 나타나고, 얼마 뒤 멀레이가 시체로 발견되는데...",
+    "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+    "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+    "popularity": 300.782,
+    "vote_average": 7.915,
+    "vote_count": 3644.0,
+    "release_date": "1974-06-20",
+    "trailer": "https://www.youtube.com/embed/CvPq6Ybr4gU",
+    "director": "존 휴스턴, 로만 폴란스키",
+    "actors": "잭 니콜슨, 페이 더너웨이, Perry Lopez, John Hillerman, Diane Ladd, Roy Jenson, Richard Bakalyan, 제임스 홍, Bruce Glover, Joe Mantell, Roy Roberts, Noble Willingham, Rance Howard, Jesse Vint, 버트 영, Lee de Broux, Darrell Zwerling, Nandu Hinds, James O'Rear, Beulah Quo, Jerry Fujikawa, Belinda Palmer, Elliott Montgomery, Charles Knapp, Claudio Martínez, Federico Roberto, Allan Warnick, John Holland, Jim Burk, Denny Arnold, Elizabeth Harding, John Rogers, Cecil Elliott, Paul Jenkins, Richard Warren, Fritzi Burr, Cosmo Sardo, Charles Fogel",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      80,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 37,
+  "fields": {
+    "title": "스파이더맨: 홈커밍",
+    "tagline": "마블 히어로의 세대교체",
+    "runtime": 133,
+    "original_title": "Spider-Man: Homecoming",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "토니 스타크의 제안을 받고 시빌 워에 참여한 피터 파커는 다음 임무가 언제일지 설렘을 안고 하루하루를 보낸다. 토니는 MIT 진학 준비에 전념할 것을 권하지만 친절한 이웃에 머무는 것은 피터의 성에 차지 않는다. 한편 어벤져스 군단과 외계 세력의 전투로 생긴 산업폐기물을 처리하던 아드리안 툼즈는 그 일이 토니 스타크와 정부에 넘어가면서 하루아침에 빈털터리가 된다. 이에 앙심을 품은 아드리안은 외계 첨단무기를 훔쳐서 개조하는 빌런이 되고, 그의 존재를 알게 된 피터는 도움을 빌리지 않고 자기가 일을 해결해보려고 한다.",
+    "poster_path": "/hjki9weYYVABvkpZbX5jBOmKXXv.jpg",
+    "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+    "popularity": 314.239,
+    "vote_average": 7.337,
+    "vote_count": 21218.0,
+    "release_date": "2017-07-05",
+    "trailer": "https://www.youtube.com/embed/XBrg2zTkbjs",
+    "director": "Kirk R. Thatcher",
+    "actors": "톰 홀랜드, 마이클 키튼, 로버트 다우니 주니어, 마리사 토메이, 존 패브로, 기네스 팰트로, 젠데이아, 도널드 글로버, Jacob Batalon, 로라 해리어, 토니 레볼로리, 보킴 우드바인, Tyne Daly, Abraham Attah, Hannibal Buress, Kenneth Choi, Selenis Leyva, 앵거리 라이스, Martin Starr, Garcelle Beauvais, Michael Chernus, 마이클 맨도, Logan Marshall-Green, 제니퍼 코넬리, Gary Weeks, Christopher Berry, Jorge Lendeborg Jr., Tunde Adebimpe, Tiffany Espensen, Isabella Amara, Michael Barbieri, 조지 토타, Hemky Madera, Zach Cherry, Yu Lew, Sondra James, Bob Adrian, Gary Richardson, Joe Hang, Wayne Pére, 크리스 에반스, Alexa Laraki, Liza Fagin, 케리 콘돈, John Penick, Ethan Dizon, Amy Hill, Miles Mussenden, Martha Kelly, Kevin LaRosa Jr., Ren Colley, Jennifer Kim, Ari Groover, Louis Gonzalez, Stewart Steinberg, Andy Powers, Omar Capra, Nitin Nohria, Vince Foster, Brian Schaeffer, Chris Adams, Maiya Boyd, Rebeca Donovan, Elli, Nickolas Wolf, Jaine Ye, Gina Cordan, Friday Chamberlain, Dante Brattelli, Donald K. Overstreet, Hallie Ricardo, Marmee Regine Cosico, Harrison Osterfield, Chris Silcox",
+    "pick_users": [],
+    "genres": [
+      12,
+      18,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 38,
+  "fields": {
+    "title": "죠스",
+    "tagline": "",
+    "runtime": 124,
+    "original_title": "Jaws",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "뉴 잉글랜드의 작은 해안 피서지 애미티(Amity). 아주 평화로운 바닷가 마을로, 우정이란 뜻을 가진 이 마을은 전형적인 작은 바닷가 마을이다. 이곳은 여름 피서객들을 상대로 하는 것이 마을 수입의 전부다. 여름이 되어 막 해수욕장이 개장하기에 앞서 한 무리의 젊은이들이 한밤의 백사장에서 캠프파이어를 하며 젊음을 불태우고 있다. 이때 한 여자가 옷을 하나씩 벗어 던지면 모래밭을 달려가더니 바다로 헤엄쳐 들어간다. 달빛 아래 바다. 하지만 그 여자는 갑자기 무언가에 물리기라도 한 것처럼 바닷물 속으로 빨려 들어가더니 사라져버린다.  다음날, 바닷물을 싫어하는 도시 출신의 브로디 경찰서장이 전화를 받는다. 여자의 시체가 발견되었다는 것. 악어나 상어에게 묻어 뜯긴 게 분명한 그 시체는 찢겨져 있었고, 그는 즉시 해안을 폐쇄한다. 하지만, 마을의 책임자인 시장은 이 마을은 피서객들로 돈을 버는 곳이데 어떻게 하려고 그러느냐면서, 해안 경비를 강화하고, 감시 속에서 여름 해수욕장을 개장시킨다.  하지만 결국 일은 터지고, 한 소년이 상어의 습격을 받게 된다. 이제 이 마을은 상어의 공포에 휩싸이게 된다. 상어에 현상금이 붙자 상어사냥꾼들이 몰려든다. 하지만 다들 별볼 일 없이 그저 상금만 노리고 온 사람들이다. 그러나 그중에 두 명의 전문가가 찾아온다. 바로 상어 박사인 마틴 후퍼와 이 마을의 어부이자 카리스마 넘치는 퀸터 선장이 그들이다. 결국 브로디 서장과 퀸터 선장, 매트 박사는 배를 타고 바다로 나가 상어 사냥에 나서는데...",
+    "poster_path": "/nRSaeJUXuXFYOQNRSsLvBLmZa48.jpg",
+    "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+    "popularity": 314.103,
+    "vote_average": 7.662,
+    "vote_count": 10014.0,
+    "release_date": "1975-06-20",
+    "trailer": "https://www.youtube.com/embed/jozRbQ616C0",
+    "director": "스티븐 스필버그",
+    "actors": "로이 슈나이더, Robert Shaw, 리처드 드라이퍼스, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Ted Grossman, Chris Rebello, Jay Mello, Lee Fierro, Jeffrey Voorhees, Craig Kingsbury, Phil Murray, Robert Nevin, Fritzi Jane Courtney, Dorothy Fielding, Joe La Creta, Belle McDonald, Joseph Oliveira, Beverly Powers, Ayn Ruymen, Christopher Sands, Rex Trailer",
+    "pick_users": [],
+    "genres": [
+      12,
+      27,
+      53
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 39,
+  "fields": {
+    "title": "챌린저스",
+    "tagline": "테니스 코트 밖, 진짜 경쟁이 시작된다!",
+    "runtime": 132,
+    "original_title": "Challengers",
+    "original_language": "en",
+    "original_country": "IT",
+    "overview": "스타급의 인기를 누리던 테니스 천재 타시는 부상으로 인해 더 이상 선수 생활을 하지 못하고 지금은 남편 아트의 코치를 맡고 있다. 연패 슬럼프에서 빠져나오지 못하는 아트를 챌린저급 대회에 참가시킨 타시는 남편과 둘도 없는 친구 사이이자 자신의 전 남친인 패트릭을 다시 만나게 된다. 선 넘는 세 남녀의 아슬아슬한 관계는 테니스 코트 밖에서 더욱 격렬하게 이어지는데… 결승전 D-DAY, 가장 매혹적인 랠리가 시작된다!",
+    "poster_path": "/iUDG0gsPZxNm9IOLqpIUZiUMVMZ.jpg",
+    "backdrop_path": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+    "popularity": 435.484,
+    "vote_average": 7.38,
+    "vote_count": 554.0,
+    "release_date": "2024-04-18",
+    "trailer": "https://www.youtube.com/embed/Xneri8DRgoU",
+    "director": "Doria Bramante, Kevin Collins, Jason Tong",
+    "actors": "마이크 파이스트, 조쉬 오코너, 젠데이아, Bryan Doo, Shane T Harris, Nada Despotovich, Joan Mcshane, Chris Fowler, Mary Joe Fernández, A.J. Lister, Connor Aulson, Christine Dye, James Sylva, Kenneth A. Osherow, Burgess Byrd, Hudson Rivera, Noah Eisenberg, Emma Davis, Naheem Garcia, Alex Bancila, Jake Jensen, Konrad Ryba, Hailey Gates, Andrew Rogers, Beverly Kristenson Helton, Brad Gilbert, Sam Xu",
+    "pick_users": [],
+    "genres": [
+      18,
+      10749
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 40,
+  "fields": {
+    "title": "샤잠!",
+    "tagline": "모든 히어로의 능력이 하나로 모였다",
+    "runtime": 132,
+    "original_title": "Shazam!",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "10대 소년 빌리 뱃슨은 어릴 적 엄마와 헤어진 뒤 위탁 가정을 떠돌고 있다. 한편 어둠의 존재를 봉인 중인 마법사는 자신의 뒤를 이를 후계자를 찾고 있다. 어린 시절 순수하지 못하다는 이유로 마법사에게 거부당한 시바나는 오랜 시간 숨겨진 장소를 찾던 끝에 영원의 바위에 도착하여 7개의 대죄를 해방시키고 어둠의 힘을 얻는다. 이에 마법사는 빌리를 후계자로 정하고 샤잠의 힘을 전수한다. 슈퍼 파워를 얻게 된 빌리는 자신의 능력을 깨닫고 악당을 물리치는 슈퍼히어로로 다시 태어나는데...",
+    "poster_path": "/sPZxApU8d90Czd11S60UqOhuP9R.jpg",
+    "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+    "popularity": 311.056,
+    "vote_average": 7.018,
+    "vote_count": 9209.0,
+    "release_date": "2019-03-29",
+    "trailer": "https://www.youtube.com/embed/EsTywuev7ic",
+    "director": "David F. Sandberg",
+    "actors": "재커리 레비, 마크 스트롱, Asher Angel, 잭 딜런 그레이저, Adam Brody, 자이먼 혼수, Faithe Herman, Meagan Good, 그레이스 캐롤라인 커리, Michelle Borth, Ian Chen, 로스 버틀러, Jovan Armand, D.J. Cotrona, Marta Milans, Cooper Andrews, Ethan Pugiotto, John Glover, Landon Doak, Wayne Ward, Paul Braunstein, Nadine Whiteman, David Kohlsmith, Caroline Palmer, Emily Nixon, Michael Xavier, Keisha T. Fraser, Andi Osho, Lotta Losten, Lisa Truong, Carson MacCormac, Evan Marsh, Joseph Pierre, Jhaleil Swaby, Misha Rasaiah, Luke Gallo, Lovina Yavari, Craig Henry, Shawn Stewart, Kerri Kamara, Adam Rodness, Cliff Saunders, Simon Northwood, Ken Mohabir, Paloma Nuñez, Ilan O'Driscoll, Bryce Arden Poe, Tosh Robertson, Rachel Boyd, Allen Keng, Eli Martyr, 세스 그린, David Choi, Nneka Elliott, Aria Anthony, Brian Kaulback, Chemika Bennett-Heath, Deborah Tennant, Martin Roach, Allison Brennan, Damir Andrei, Stephen Alexander, Pearl Sun, Anthony Gritsyuk, Jesse Bond, Harper Gunn, Matthew Binkley, Violetta Pioro, Jackson Reid, Hazel Gorin, Steve Blum, Darin De Paul, Fred Tatasciore, Callie Presniak, Craig Warnock, Pamela Matthews, Ava Preston, Manuel Rodriguez-Saenz, Ali Badshah, Tabitha Tao, Lisa Codrington, Ryan Handley, Jim Pagiamtzis",
+    "pick_users": [],
+    "genres": [
+      14,
+      28,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 41,
+  "fields": {
+    "title": "그리스",
+    "tagline": "",
+    "runtime": 110,
+    "original_title": "Grease",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "1950년대말, 캘리포니아에 있는 한 고등학교. 대니 주코(Danny Zuko: 존 트라볼타 분)와 샌디 올슨(Sandy Olsen: 올리비아 뉴튼 존 분)은 여름 방학 때 해변에서 우연히 알게 된 사이로 바캉스 시즌이 끝나자 두 사람은 기약없이 작별하지만 대니가 다니는 고등학교에 샌디가 전학해 오면서 뜻밖의 재회가 이루어진다. 내심 기뻤던 대니지만 학교의 서클인 티버즈의 리더인 그가 어느 특정한 여자에게 가까이 하면 친구들의 빈촉을 살까봐 이러지도 저러지도 못한다.  이런 대니의 마음을 모른는 샌디는 오해를 해 스포츠에 만능인 톰과 친하게 지낸다. 이에 쇼크를 받은 대니는 샌디에게 용서를 빌어 가까스로 샌디의 마음을 되돌려 놓는다. 바야흐로 학교의 최대 행사인 댄스 파티가 열리자 대니와 샌디는 한조가 되어 출전, 결승전까지 진출하지만 티버즈의 라이벌인 스코피언스의 리더인 차차의 방해로 우승을 놓친다. 화가 난 샌디에게 야외 극장에서 대니는 자기의 반지를 빼주며 샌디의 마음을 바꾸지만 샌디의 몸을 강요한게 그녀를 더 토라지게 만들고 말았다.  드디어 티버즈와 숙적인 스콜피온스 간에 카레이스로 결판을 내는 날이다. '선더로드 경주'라는 이름의 이 시합에서 차차는 비겁한 수단으로 골탕을 먹이지만 이를 잘 피해 대니가 이기는데 이를 가슴조이며 지켜보던 샌디는 대니의 품에 안긴다. 이윽고 고등학교 졸업식이 왔다. 졸업 파티가 성대하게 벌어지고 정장을 하고 머리에다 그리이스를 발라 의젓해진 대니와 샌디는 빨간 승용차를 타고 다정하게 교문을 나선다. 축하무드가 절정을 이루며 뒤를 따르는 동창생들.",
+    "poster_path": "/czVhhAaSBFpakur7U8pOIDV9NUG.jpg",
+    "backdrop_path": "/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
+    "popularity": 284.616,
+    "vote_average": 7.396,
+    "vote_count": 6998.0,
+    "release_date": "1978-07-07",
+    "trailer": "https://www.youtube.com/embed/qyfgDhrEjyM",
+    "director": "Andy Tennant",
+    "actors": "존 트라볼타, 올리비아 뉴턴존, Stockard Channing, Jeff Conaway, Barry Pearl, Michael Tucci, Kelly Ward, Didi Conn, Jamie Donnelly, Dinah Manoff, Susan Buckner, Eve Arden, Frankie Avalon, Joan Blondell, Edd Byrnes, Sid Caesar, Alice Ghostley, Dody Goodman, Lorenzo Lamas, Fannie Flagg, Dick Patterson, Eddie Deezen, Darrell Zwerling, Ellen Travolta, Annette Charles, Dennis Stewart, Barbi Alison, Helena Andreyko, Jennifer Buchanan, Carol Culver, Cindy DeVore, Deborah Fishman, Antonia Franceschi, Sandra Gray, Mimi Lieber, Judy Susman, Dennis Daniels, Larry Dusich, John Robert Garrett, Daniel Levins, Andy Roth, Sean Moran, Greg Rosatti, Lou Spadaccini, Richard Weisman, 마이클 빈, Wendie Jo Sperber",
+    "pick_users": [],
+    "genres": [
+      35,
+      10749
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 42,
+  "fields": {
+    "title": "채피",
+    "tagline": "“난 살아있어, 난 채피야!” 가장 완벽한 감성 탑재 로봇의 탄생!",
+    "runtime": 120,
+    "original_title": "Chappie",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "2016년, 매일 300건의 범죄가 폭주하는 요하네스버그. 도시의 치안을 책임지는 세계 최초의 로봇 경찰 ‘스카우트’ 군단을 설계한 로봇 개발자 ‘디온(데브 파텔)’은 폐기된 스카우트 22호에 고도의 인공지능을 탑재하여 스스로 생각하고 느낄 수 있는 성장하는 로봇 ‘채피’를 탄생시킨다.  한편, 진화하는 로봇에 맞서 인간의 힘으로 로봇을 통제하고 싶은 무기 개발자 ‘빈센트 (휴 잭맨)’는 눈엣가시 ‘채피’를 제거하기 위한 음모를 꾸미게 되고, 예상을 뛰어넘는 속도로 성장하던 ‘채피’는 어느새 인류를 위협하는 대상으로 몰리게 되는데… 생존을 꿈꾸는 로봇 ‘채피’와 로봇을 통제하려는 ‘인간’의 대결이 시작된다!",
+    "poster_path": "/hcGym66raZDzDIGjdkVDoQZvLks.jpg",
+    "backdrop_path": "/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+    "popularity": 311.213,
+    "vote_average": 6.78,
+    "vote_count": 7691.0,
+    "release_date": "2015-03-04",
+    "trailer": "https://www.youtube.com/embed/-C_w-RTwyYc",
+    "director": "James Bitonti",
+    "actors": "Sharlto Copley, 데브 파텔, 휴 잭맨, Ninja, Yo-Landi Visser, 시고니 위버, Chris Shields, 앤더슨 쿠퍼, Jose Pablo Cantillo, Brandon Auret, Johnny Selema, Maurice Carpede, Jason Cope, Kevin Otto, Bill Marchant, Robert Hobbs, Eugene Khumbanyiwa, Mark K. Xulu, Sherldon Marema, Shaheed Hajee, James Hendricks, Julian Brits, David Davadoss, Anneli Muller, Kendal Watt, Chan Marti, Vuyelwa Booi, Anthony Bishop, Paul Dobson, Alistair Prodgers, Wandile Molebatsi, Arran Henn, Thami Ngubeni, Andea Volschenk, Hein De Vries, Dan Hirst, Paul Hampshire, Graeme Duffy, Miranda Frigon, Edwin Gagiano, Sean Owen Roberts",
+    "pick_users": [],
+    "genres": [
+      28,
+      80,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 43,
+  "fields": {
+    "title": "스피시즈",
+    "tagline": "지난 30년간, 초고성능 전파 망원경(Radio Telescopes)을 동원하여 외계 문명을 탐색하였다. 이 프로젝트를 세티(S.E.T.I.: 외계 지능생물체 탐색 작전)라 불렀다",
+    "runtime": 108,
+    "original_title": "Species",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "어느날 호주 푸에르토리코의 아레시보에 위치한 거대한 전파기지에 외계로부터 발신된 메시지가 도착한다. 메시지는 두가지인데, 첫번째는 오염물질을 배출하지 않으면서 메탄을 대체 에너지로 변화시킬 수 있는 획기적인 방법에 대한 정보였고, 두 번째는 외계 생물의 DNA를 합성할 수 있는 공식이었다. 메시지가 우호적이라 판단된 미국 정부는 DNA합성에 관한 메시지를 가지고 비밀리에 실험에 착수한다. 그 결과 반인간 반외계인인 아기가 탄생하고, 실(Sil)이란 코드네임을 부여받는다.  그러나 뭔가 씰 자신이 능력을 보이지 않고 있는 낌새에다가 비정상적으로 급속한 세포 증식의 속도 등 위험 요소가 다분하다고 느낀 실험진에서는 씰(Young \"Sil\": 미쉘 윌리암스 분)을 완전히 제거하려 한다. 그러나 예상과 달리 소녀는 가스에 의해 죽기는 커녕 힘이 엄청나게 세져서 방탄 벽을 뚫고 달아나게 된다. 그에 따라 씰을 추적하기 위해 연방의 특수추적 전문가 프레스 팰리(Preston Lennox: 마이클 매드슨 분)와 심령술사, 분자생물학자 등으로 이루어진 팀을 구성, 실을 제거하기 위한 추적에 나선다.  성숙한 여인(\"Sil\": 나타샤 헨스트리지 분)이 된 씰은 어느날 그녀 앞에 나타난 임신한 여자를 보고 자신도 임신하기를 원한다. 특수요원들이 자신을 추적하고 있음을 감지하면서도 씰은 남자를 찾아 다니며 마음에 안드는 사람은 모두 잔인하게 살해한다. 마침내 추적팀의 한 대원과 관계를 맺은 씰은 지하로 숨어들어 부화를 하게 되고 추적팀은 그들을 막기 위해 하수구로 들어가게 된다. 씰은 결국 기름 구덩이에 빠져 죽게 되지만 씰의 몸에서 떨어져나간 신체 일부가 추적팀이 사리진 뒤 쥐와 합성되어 새로운 쥐가 나타나게 된다.",
+    "poster_path": "/4BfuDo5utvFmGjusy5oLeFp5txg.jpg",
+    "backdrop_path": "/5ccklJJR9McV3nzAgurdbc5nAlz.jpg",
+    "popularity": 293.012,
+    "vote_average": 6.0,
+    "vote_count": 1558.0,
+    "release_date": "1995-07-07",
+    "trailer": "https://www.youtube.com/embed/jEc80d5GQp8",
+    "director": "Zak Knutson",
+    "actors": "나타샤 헨스트리지, 벤 킹슬리, 마이클 매드슨, Marg Helgenberger, 알프레드 몰리나, 포레스트 휘태커, 미셸 윌리엄스, Jordan Lund, Herta Ware, William Utay, Don Fischer, Scott McKenna, Virginia Morris, Jayne Luke, David K. Schroeder, David Jensen, Esther Scott, Shirley Prestia, David Selburg, Melissa Bickerton, Lucy Rodriguez, Stogie Kenyatta, Gary Bullock, Susan Hauser, William Bumiller, Caroline Barclay, Matthew Ashford, Anthony Guidera, Sara Lise, Whip Hubley, Patricia Belcher, Richard Fancy, Leslie Ishii, Marliese Schneider, Robert Mendelson, Pamela Cook, Lisa Liberati, Ed Stone, Dendrie Taylor, Kurtis Burow, Frank Welker, Justin Armao, Greg Bronson, Jimmy Chunga, James Ent, Roman Güttinger, Christopher Ivins, Coati Mundi, Jason Newell",
+    "pick_users": [],
+    "genres": [
+      27,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 44,
+  "fields": {
+    "title": "노바디",
+    "tagline": "정말이지 착하게 살고 싶었다. 참으려고 했다.  이제 나 건드리면 X된다!  ​",
+    "runtime": 92,
+    "original_title": "Nobody",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "비범한 과거를 숨긴 채 남들과 다를 바 없는 평범한 일상을 사는 한 가정의 가장 ‘허치’ 매일 출근을 하고, 분리수거를 하고 일과 가정 모두 나름 최선을 다하지만 아들한테는 무시당하고 아내와의 관계도 소원하다. 그러던 어느 날, 집안에 강도가 들고 허치는 한 번의 반항도 하지 못하고 당한다. 더 큰 위험으로부터 가족을 지키기 위한 선택이었는데 모두 무능력하다고 ‘허치’를 비난하고, 결국 그동안 참고 억눌렀던 분노가 폭발하고 만다.",
+    "poster_path": "/oXQtH8O7pCvXaDKGB8OAjiPVDi5.jpg",
+    "backdrop_path": "/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+    "popularity": 293.535,
+    "vote_average": 7.971,
+    "vote_count": 6738.0,
+    "release_date": "2021-03-18",
+    "trailer": "https://www.youtube.com/embed/ChukpOHfAI8",
+    "director": "Илья Найшуллер",
+    "actors": "밥 오덴커크, Алексей Серебряков, 코니 닐센, 크리스토퍼 로이드, 마이클 아이언사이드, Colin Salmon, Billy MacLellan, Araya Mengesha, Gage Munroe, Paisley Cadorath, Александр Паль, Humberly Gonzalez, Edsson Morales, J.P. Manoux, Adrian McLean, Сергей Шнуров, Joanne Rodriguez, Stephanie Sy, Ruslan Rusin, Vladimir Levkovsky, BJ Verot, Dylan Rampulla, Margaryta Soldatova, Megan Best, Darya Charusha, Paul Essiembre, Adam Hurtig, Gabriel Daniels, Kristen Harris, Erik Athavale, Tom Soares, Neven Pajkic, Stephen Eric McIntyre, Rick Dobran, Richard Thomas, Alan Wong, Sharon Bajer, Yulia Guzhva, Destini Boldt, Boris Gulyarin, Alex Nikolaychuk, Volodymyr Yamnenko, Meaghan Ann De Werrenne-Walle, Eugene Baffoe, Daniel Bernhardt, Alain Moussi, Stéphane Julien, Robert Heinamaki, Brent Alarie, Tyrell Witherspoon, Frederick Allen",
+    "pick_users": [],
+    "genres": [
+      28,
+      53
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 45,
+  "fields": {
+    "title": "브룩클린의 아이들",
+    "tagline": "",
+    "runtime": 115,
+    "original_title": "Crooklyn",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "스피이크 리가 자신의 어린 시절을 보낸 브룩클린의 이웃을 소재로 만든 작품.  학교 선생님인 엄마와 재즈 뮤지션인 아빠 그리고 개구장이 5남매가 함께 사는 브룩클린의 카마이클 가족, 비록 넉넉하지는 못한 생활이지만 빈민가에서 이웃들과 서로 싸우기도 웃기도 하면서 즐겁게 살아가고 있다. 특히 옆집에 사는 백인 토미와는 앙숙지간으로 서로 쓰레기를 버리며 충돌이 끊이는 날이 없다. 아빠가 자기만의 음악을 하겠다고 직업을 버리는 바람에 엄마 혼자 살림을 꾸려나가고 있는 카마이클 가족. 결국 전기료를 내지 못해 전기선까지 끊기고 엄마와 아빠는 자식들 중 어린 트로이와 죠셉을 당분간 친척집에 맡긴다. 그러던 어느날 친척집에서 지내던 트로이에게 엄마가 병원에 입원했다는 소식이 날아드는데.",
+    "poster_path": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+    "backdrop_path": "/mIKuvEhBvDf9LGxE9x6m0hDR9Au.jpg",
+    "popularity": 285.988,
+    "vote_average": 6.8,
+    "vote_count": 130.0,
+    "release_date": "1994-05-13",
+    "trailer": "https://www.youtube.com/embed/_UHAbdhBBwA",
+    "director": "스파이크 리",
+    "actors": "Alfre Woodard, 델로이 린도, David Patrick Kelly, Zelda Harris, Carlton Williams, Sharif Rashed, Tse-Mach Washington, Christopher Knowings, José Zúñiga, Isaiah Washington, Ivelka Reyes, Vondie Curtis-Hall, Frances Foster, Manny Pérez, 루폴, Keith Johnson, Tiasha Reyes, Raymond Reliford, Harvey Williams, Peewee Love, 보킴 우드바인, Mildred Clinton, Emelise Aleandri, Omar Scroggins, Danielle K. Thomas, Asia Gilyard, Carmen Tillery, N. Jeremi Reyes, Norman Matlock, Patriece Nelson, Taneal Royal, Kendell Freeman, Kewanna Bonaparte, Gary Perez, Arthur French, Yolande Morris, Dan Grimaldi, Susan J. Jacks, Christopher Wynkoop, Rene Ojeda, Tracy Vilar, Michele Shay, Hector M. Ricci Jr., Nadijah Abdul-Khalia, Bruce Hawkins, Richard Whiten, Michelle Rosario, Maurie A. Chandler, Monet A. Chandler, Zay Smith, Derrick Peart, Johnette Cook, Désirée Murray, Jesse Astro, Jose Camel, Joie Lee",
+    "pick_users": [],
+    "genres": [
+      18,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 46,
+  "fields": {
+    "title": "굿 윌 헌팅",
+    "tagline": "그의 생애 처음으로 인생의 등대를 만나다",
+    "runtime": 126,
+    "original_title": "Good Will Hunting",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "수학, 법학, 역사학 등 모든 분야에 재능이 있는 윌(맷 데이먼)은 천재적인 두뇌를 가지고 있지만 어린 시절 받은 상처로 인해 세상에 마음을 열지 못하고 절친인 처키(벤 애플렉)와어울려 다니는 불우한 반항아이다. 대학을 청소하면서 벽에서 우연히 접한 수학 문제를 간단히 풀어버린 일을 그 대학 교수 램보가 발견하고 윌에게 관심을 갖지만 윌은 냉대한다. 어느 날 보호관찰 대상인 윌은 폭행죄로 수감되고, 램보 교수는 자신이 감독하겠다는 조건으로 윌을 석방시킨 다음 대학 동기인 심리학 교수 숀(로빈 윌리엄스)에게 그를 부탁한다. 거칠기만 하던 윌은 숀과 함께 시간을 보낼수록 상처를 위로 받으며 조금씩 변화하기 시작하는데...",
+    "poster_path": "/iHRY9YuBOyga9MHi59pt6KRGXcB.jpg",
+    "backdrop_path": "/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+    "popularity": 277.423,
+    "vote_average": 8.155,
+    "vote_count": 11853.0,
+    "release_date": "1997-12-05",
+    "trailer": "https://www.youtube.com/embed/A-0vmlDT9Bg",
+    "director": "Jennifer Deathe, 하모니 코린",
+    "actors": "맷 데이먼, 로빈 윌리엄스, 벤 애플렉, 스텔란 스카스가드, 미니 드라이버, 케이시 애플렉, 콜 하우저, Vik Sahay, Rachel Majorowski, Colleen McCauley, Matt Mercier, Ralph St. George, Rob Lynds, Dan Washington, Alison Folland, Derrick Bridgeman, Shannon Egleson, Rob Lyons, Steven Kozlowski, Scott William Winters, Philip Williams, Patrick O'Donnell, Kevin Rushton, Jimmy Flynn, Joe Cannon, Ann Matacunas, George Plimpton, Francesco Clemente, Jessica Morton, Barna Moricz, Libby Geller, Chas Lawther, Richard Fitzpatrick, Frank Nakashima, Chris Britton, David Eisner, Bruce Hunter, Robert Talvano, James Allodi, Michael Arthur, Christian Harmony, Riva Di Paola, Thomas Lundy, Paul McGillicuddy, Daniel Olsen",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 47,
+  "fields": {
+    "title": "크리드 2",
+    "tagline": "대를 잇는 운명의 대결",
+    "runtime": 130,
+    "original_title": "Creed II",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "록키 발보아의 영원한 라이벌이자 친구인 아폴로 크리드의 아들 아도니스 크리드. 헤비급 세계 챔피언이 된 아도니스는 비앙카와 결혼해 행복한 시간을 보낸다. 한편 크리드와 록키에게 복수하기 위해 이를 갈고 있는 이반 드라고와 빅터 드라고 부자가 있다. 이반은 아도니스의 아버지를 죽음에 이르게 한 러시아의 복싱 선수로, 록키에게 패한 뒤 모든 걸 잃었다. 빅터는 아도니스에게 도전장을 내밀고, 아도니스는 빅터와의 대결에서 큰 부상을 입는다.",
+    "poster_path": "/qWifsewJ8HVPQ9lVGbs3SG2FAjE.jpg",
+    "backdrop_path": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+    "popularity": 297.309,
+    "vote_average": 7.027,
+    "vote_count": 5241.0,
+    "release_date": "2018-11-21",
+    "trailer": "https://www.youtube.com/embed/UuQ99hGoSlI",
+    "director": "Toby Kearton, Stephen C. Bortsalas",
+    "actors": "마이클 B. 조던, 실베스터 스탤론, 테사 톰슨, Wood Harris, Russell Hornsby, 필리샤 라샤드, 돌프 룬드그렌, Florian Munteanu, Andre Ward, Brigitte Nielsen, Milo Ventimiglia, Robbie Johns, Patrice Harris, Jacob 'Stitch' Duran, Ana Gerena, Benjamin Vaynshelboym, Angelina Shipilina, Pavel Vakunov, Oleg Ivanov, Christopher Mann, Robert Douglas, Zack Beyer, Chrisdine King, James Collins Jr., John Jezior, Pete Postiglione, Billy Vargus, Johanna Tolentino, Eleni Delopoulos, Marcia Myers, Emily-Grace Murray, Corey Calliet, Robert Sale, Hendrix McDaniel, Maverick McDaniel, Paris Michael Cunningham, Kenny Bayless, Ivo Nandi, Dmitry Torgovitsky, Michael Buffer, Jim Lampley, Max Kellerman, Roy Jones Jr., Scott Van Pelt, Linda Cohn, Bibi Bourelly, Rocky Ciarrocchi, Charles W Harris III, Oliver Burbage, Alexander Alayon Jr., Gary Ayash, Isabella Armina, Neil Baltus, Marko Caka, Amanda Cerny, Jill Chestnut, Josh Christensen, Daniel C. Davis, Sergio Delavicci, JaQuinley Kerr, Marty Krzywonos, Mark Marcarian, Mark Montalbano, Bandit The Rapper, Lindsay Michelle Reed, Matthew Michael Hoffman",
+    "pick_users": [],
+    "genres": [
+      18,
+      28
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 48,
+  "fields": {
+    "title": "그것: 두 번째 이야기",
+    "tagline": "‘그것’과 함께 ‘그들’도 돌아왔다!",
+    "runtime": 169,
+    "original_title": "It Chapter Two",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "27년마다 아이들이 사라지는 마을 데리, 또 다시 ‘그것’이 나타났다. 27년 전, 가장 무서워하는 것의 모습으로 나타나 아이들을 잡아먹는 그것 페니와이즈에 맞섰던 ‘루저 클럽’ 친구들은 어른이 되어도 더 커져만 가는 그것의 공포를 끝내기 위해 피할 수 없는 마지막 대결에 나선다.",
+    "poster_path": "/kkkS7NYPY4QZcZY6vfkAx0vjJRa.jpg",
+    "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+    "popularity": 290.163,
+    "vote_average": 6.845,
+    "vote_count": 8409.0,
+    "release_date": "2019-09-04",
+    "trailer": "https://www.youtube.com/embed/ZpqoUM9aAHI",
+    "director": "자비에 돌란, 피터 보그다노비치, Andy Muschietti",
+    "actors": "제시카 차스테인, 제임스 맥어보이, 빌 헤이더, Isaiah Mustafa, Jay Ryan, James Ransone, Andy Bean, 빌 스카스가드, 제이든 마텔, Wyatt Oleff, 잭 딜런 그레이저, 핀 울프하드, 소피아 릴리스, Chosen Jacobs, Jeremy Ray Taylor, Teach Grant, Nicholas Hamilton, Javier Botet, Taylor Frey, Molly Atkinson, Joan Gregson, Stephen Bogaert, Luke Roessler, Will Beinbrink, Jess Weixler, Martha Girvin, 라이언 키에라 암스트롱, Jackson Robert Scott, Jake Weary, Katie Lunman, Kelly Van der Burg, Jason Fuchs, Joe Bostick, Megan Charpentier, Juno Rinaldi, Neil Crone, Ry Prior, 오웬 티그, Jake Sim, Logan Thompson, Connor Smith, Amanda Zhou, Rob Ramsay, John Connon, Doug MacLeod, Brandon Crane, Erik Junnola, Josh Madryga, Peter George Commanda, Kiley May, Lisa Cromarty, Kevin Allan Hess, Stephen R. Hart, Rocky L. Burnham Jr., Billy Merasty, Sladen Peltier, 아리 코헨, Alex Bird, Brody Bover, Edie Inksetter, Martin Julien, Sonia Maria Chirila, Colin Mcleod, Declan Prior, Marko Vujicic, Eric Woolfe, Kate Corbett, Shawn Storer, Janet Porter, Scott Edgecombe, Anthony Ulc, J. Bogdan, Louise Stratten, Laura Thorne, Thomas Duhig, Carla Guerrier, Liam MacDonald, Chris D'Silva, Tristan Levi Cox, Torian Matthew Cox, Lola Del Re Hudson, Thiago Dos Santos, Divan Meyer",
+    "pick_users": [],
+    "genres": [
+      27
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 49,
+  "fields": {
+    "title": "어벤져스: 인피니티 워",
+    "tagline": "영화의 역사를 뒤바꿀 마블의 클라이맥스!",
+    "runtime": 149,
+    "original_title": "Avengers: Infinity War",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "타노스는 6개의 인피니티 스톤을 획득해 신으로 군림하려 한다. 그것은 곧 인류의 절반을 학살해 우주의 균형을 맞추겠다는 뜻. 타노스는 닥터 스트레인지가 소유한 타임 스톤, 비전의 이마에 박혀 있는 마인드 스톤을 차지하기 위해 지구를 침략한다. 아이언맨과 스파이더맨은 가디언즈 오브 갤럭시의 멤버들과 타노스를 상대한다. 지구에선 캡틴 아메리카, 완다, 블랙 위도우, 블랙 팬서 등이 비전을 지키기 위해 뭉친다.",
+    "poster_path": "/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg",
+    "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "popularity": 326.539,
+    "vote_average": 8.246,
+    "vote_count": 28886.0,
+    "release_date": "2018-04-25",
+    "trailer": "https://www.youtube.com/embed/rlH9rk33TEY",
+    "director": "Lady Cardinal",
+    "actors": "로버트 다우니 주니어, 크리스 헴스워스, 마크 러팔로, 크리스 에반스, 스칼렛 요한슨, 베네딕트 컴버배치, 톰 홀랜드, 채드윅 보스만, 돈 치들, 조 샐다나, 카렌 길런, 엘리자베스 올슨, 폴 베타니, 앤서니 매키, 세바스찬 스탠, 톰 히들스턴, 이드리스 엘바, 다나이 구리라, 피터 딘클리지, 베네딕트 웡, 폼 클레멘티에프, 데이브 바티스타, 빈 디젤, 브래들리 쿠퍼, 기네스 팰트로, 베니시오 델 토로, 조슈 브롤린, 크리스 프랫, 숀 건, 윌리엄 허트, 레티티아 라이트, Terry Notary, Tom Vaughan-Lawlor, 캐리 쿤, Michael James Shaw, 윈스턴 듀크, Florence Kasumba, 케리 콘돈, Monique Ganderton, Jacob Batalon, Tiffany Espensen, Isabella Amara, Ethan Dizon, 아리아나 그린블랫, Ameenah Kaplan, Ross Marquand, Michael Anthony Rogers, Aaron Lazar, Robert Pralgo, Olaniyan Thurmon, Blair Jasin, Matthew Zuk, Laura Miller, 케네스 브래너, 사무엘 L. 잭슨, 코비 스멀더스, Harrison Osterfield, Marija Abney, Zola Williams, Marie Mouroum, James Siderits, Precious Jenkins, Tanya Wheelock",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 50,
+  "fields": {
+    "title": "이블 데드 2",
+    "tagline": "지독한 공포가 주는 희열의 연장",
+    "runtime": 84,
+    "original_title": "Evil Dead II",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "악마가 이 책을 썼다고 한다. 네클리 마나칸 엑스모터스, 대강 그 뜻을 설명하자면 일명 죽음의 책이다. 이 책은 악마의 세계로 통하는 일종의 관문이며, 이주 오래 전에 쓰여졌다. 바다가 피로 물들었을 때였다. 그 피로 이 책을 썼다고 한다. 그리고 1300년에 이 책이 사라졌다.",
+    "poster_path": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+    "backdrop_path": "/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+    "popularity": 270.601,
+    "vote_average": 7.55,
+    "vote_count": 2971.0,
+    "release_date": "1987-03-13",
+    "trailer": "https://www.youtube.com/embed/ItwLxn3krt4",
+    "director": "Josh Becker, Tony Elwood, Gary Jones, 샘 레이미",
+    "actors": "브루스 캠벨, Sarah Berry, Dan Hicks, Kassie DePaiva, Richard Domeier, Ted Raimi, Denise Bixler, John Peakes, Lou Hancock, Snowy Winters, Sol Abrams, Scott Spiegel, Thomas Kidd, Mitch Cantor, Jenny Griffith, William Preston Robertson, Tom Sullivan",
+    "pick_users": [],
+    "genres": [
+      14,
+      27,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 51,
+  "fields": {
+    "title": "스크림 2",
+    "tagline": "",
+    "runtime": 116,
+    "original_title": "Scream 2",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "2년전, 우즈보로를 피로 물들였던 사건을 다룬 게일의 책이 베스트셀러에 진입하면서 시드니 엄마의 살인범으로 기소된 카튼이 석방된다. 게다가 게일의 책이 영화로 만들어져, 첫 시사회를 갖던 중 두명의 대학생이 무참히 살해된다. 또다시 찾아온 공포, 비명소리는 극장에서 다시 시작된다. 끔찍한 악몽을 딛고 이제 대학생으로 평범한 삶을 찾아가던 시드니에게 또다시 전화벨이 울린다. 그녀의 곁에는 공포영화광 랜디, 다정한 남자친구 데릭, 더 큰 특종을 노리며 다가온 리포터 게일, 절룩거리며 끝없이 주위를 배회하는 듀이, 엄마의 살인범으로 기소됐다 풀려난 카튼, 그리고 호기심으로 몰려든 수많은 사람들이 있다. 그러나 시드니를 도우려는 사람들이 많아질수록 비명소리는 커져만 간다. 그들 모두는 희생자일수도 있고, 동시에 용의자일수도 있다. 자신외에는 아무도 믿을 수 없는 시드니, 과연 이 살인극을 벌이는 진범은 누구이며 도대체 무슨 이유로?",
+    "poster_path": "/XoIlgmMwbTC4SnmcxJhf8JNFgs.jpg",
+    "backdrop_path": "/5QRRdnMWtAeu8Zgje2Gdwuo7gd6.jpg",
+    "popularity": 262.116,
+    "vote_average": 6.491,
+    "vote_count": 3964.0,
+    "release_date": "1997-12-12",
+    "trailer": "https://www.youtube.com/embed/85Ty1nZsPkY",
+    "director": "Adam Shankman, Anne Fletcher, 웨스 크레이븐",
+    "actors": "니브 캠벨, 코트니 콕스, 데이비드 아켓, Jerry O'Connell, 티모시 올리펀트, Jamie Kennedy, Laurie Metcalf, Elise Neal, 사라 미셸 갤러, 리에브 슈라이버, 제이다 핀켓 스미스, Omar Epps, Duane Martin, Lewis Arquette, Rebecca Gayheart, Portia de Rossi, 헤더 그레이엄, Roger L. Jackson, Joshua Jackson, Marisol Nichols, Tori Spelling, 루크 윌슨, David Warner, 셀마 블레어, Rasila Schroeder, Molly Gross, Rebecca McFarland, Sandy Heddings, Dave Allen Clark, Joe Washington, Angie Dillard, Craig Shoemaker, Walter Franks, Nina Petronzio, Stephanie Belt, Richard Bruce Doughty, Cornelia Kiss, Lucy Lin, Philip Pavel, Nancy O'Dell, Greg Meiss, Kris Andersson, Carmen M. Chavez, Erik Hyler, Sebastian La Cause, Lance MacDonald, Laurie Sposit, Ryan Lee Swanson, Sarah Christine Smith, Jack Baun, Christopher Doyle, Jason Horgan, John Embry, Corey Mendell Parker, Mark Oliver, Jennifer Weston, Shelly Benedict, Paulette Patterson, Jason Trost, Franco Castan, Carrie Collins, Rodney L. James, 매튜 릴라드, Deadra Moore",
+    "pick_users": [],
+    "genres": [
+      27,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 52,
+  "fields": {
+    "title": "아이언맨 3",
+    "tagline": "21세기 가장 매력적인 히어로의 귀환",
+    "runtime": 129,
+    "original_title": "Iron Man 3",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "어벤저스의 일원으로 활약한 뉴욕 사건 이후, 트라우마로 인해 영웅으로서의 삶에 회의를 느끼는 토니 스타크. 그가 혼란을 겪는 사이 최악의 테러리스트 만다린을 내세운 익스트리미스 집단 AIM이 스타크 저택에 공격을 퍼붓는다. 이 공격으로 그에게 남은 건 망가진 수트 한 벌 뿐. 모든 것을 잃어버린 그는 다시 테러의 위험으로부터 세계와 사랑하는 여인을 지켜내야 하는 동시에 머릿속을 떠나지 않던 한가지 물음의 해답도 찾아야만 한다. 과연 그가 아이언맨인가? 수트가 아이언맨인가?",
+    "poster_path": "/pGMfidaVkjMVHXNIl7yippnipFT.jpg",
+    "backdrop_path": "/aFTYFqrWp4RS46Twm87l5e0ItYb.jpg",
+    "popularity": 270.023,
+    "vote_average": 6.927,
+    "vote_count": 21685.0,
+    "release_date": "2013-04-18",
+    "trailer": "https://www.youtube.com/embed/xAkNGxkGM1s",
+    "director": "Vince Offer",
+    "actors": "로버트 다우니 주니어, 기네스 팰트로, 돈 치들, 가이 피어스, 벤 킹슬리, Ty Simpkins, William Sadler, 레베카 홀, Stephanie Szostak, James Badge Dale, Miguel Ferrer, 존 패브로, 폴 베타니, Dale Dickey, 왕학기, Shaun Toub, Matthew Sterling Nye, Pat Kiernan, Josh Elliott, Megan Henderson, Thomas Roberts, 빌 마허, Joan Rivers, George Kotsiopoulos, Bronte D'Esposito, Noah Visconti, Ashley Hamilton, Brooke Jaye Taylor, Kim Dean, Anthony Reynolds, Kendrick Cross, Tom Clark, Brian Schaeffer, John Eddins, Spencer Garrett, Drew Michael Hershner, Sarah Burkhardt, Jan Broberg, Andrew Lauer, Nate Bynum, Andrew Lander, Tom Virtue, Roy McCrerey, Serdar Kalsin, Demetrois Hodges, Bobby Tisdale, Yvonne Zima, 애덤 팰리, James Rackley, Cullen Moss, Rebecca Mader, Kevin Arnold, Phil Ortiz, Gwendalyn Barker, Steve Wilder, Luciana Faulhaber, Kary Musa, Si-Fu Eric Oram, Naomi Parshin, Aurelia Riley, Johanna Yunda, Wesley Thompson, 제나 오르테가, T. C. Anyachonkeya, Chad Kurtz, 코리 호킨스, Linden Ashby, Sarah Farooqui, Sala Baker, Kial Butler, Nick Brandon, Fernando Chien, Ilram Choi, Mark Ginther, Adrian Gonzalez, Dennis Keiffer, Tara Macken, J. C. Robaina, Chris Gethard, Nick W. Nicholson, Bridger Zadina, 마크 러팔로, Johnny Otto, Ron Madoff",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 53,
+  "fields": {
+    "title": "혹성탈출",
+    "tagline": "또 하나의 신화가 시작된다",
+    "runtime": 129,
+    "original_title": "Planet of the Apes",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "서기 2029년, 우주정거장에서는 인류의 종의 기원을 밝히기 위한 연구가 진행 중이다. 인간들은 훈련 받은 침팬지를 이용해 비밀을 밝힐 소 우주선을 은하계로 내려보낸다. 하지만 우주선이 레이더에서 사라지는 사고가 발생하고, 공군 대위 레오 데이비슨(마크 월버그)이 긴급 출동하지만 계기판이 작동을 멈추고 이상한 힘에 이끌려 우주선은 이름 모를 행성의 늪지대에 추락한다.  레오가 도착한 행성은 원시의 모습을 가지고 있는 암울한 곳으로, 그곳에 살고 있는 인간들은 유인원에게 길들여져 멸시당하고 노예와 같은 비참한 생활을 하고 있는데…",
+    "poster_path": "/gUYQbokoI2Pwng3JM9igtEmCcNo.jpg",
+    "backdrop_path": "/rF0Y0fYVsNFEvGve8Nq0Ij9EDCM.jpg",
+    "popularity": 338.745,
+    "vote_average": 5.745,
+    "vote_count": 3891.0,
+    "release_date": "2001-07-25",
+    "trailer": "https://www.youtube.com/embed/1iGzguwAhUw",
+    "director": "테이트 테일러",
+    "actors": "마크 월버그, 팀 로스, 헬레나 본햄 카터, 마이클 클라크 덩컨, 크리스 크리스토퍼슨, 에스텔라 워렌, 폴 지아마티, 케리히로유키 다가와, David Warner, 에릭 아바리, Lucas Elliot Eberl, Lisa Marie, Evan Parke, 글렌 셰딕스, Freda Foh Shen, Chris Ellis, Anne Ramsay, Andrea Grano, Michael Jace, Michael Wiseman, Eileen Weisinger, Deep Roy, Chad Bannon, Kevin Grevioux, Isaac C. Singleton Jr., Quincy Taylor, John Alexander, Philip Tan, Callie Croughwell, Allie Habberstad, Hannah Peitzman Myers, Molly Peitzman, Chet Zar, 린다 해리슨, Eddie Adams, Todd Babcock, Lorenzo Callender, Shonda Farr, Kam Heskin, Jim Holmes, Todd Kimsey, Candace Kroslak, Joanna Krupa, Lisa Lackey, Mark Christopher Lawrence, Melody Perkins, Jonna Giovanna, 찰턴 헤스턴",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 54,
+  "fields": {
+    "title": "홈즈 & 왓슨",
+    "tagline": "",
+    "runtime": 90,
+    "original_title": "Holmes & Watson",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "'셜록 홈즈'와 '왓슨' 콤비가 미해결 사건들을 파헤쳐가는 과정을 그린 코미디 영화",
+    "poster_path": "/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
+    "backdrop_path": "/5Zvu4SrY3p9qgnITkCn4jAQwKvB.jpg",
+    "popularity": 258.887,
+    "vote_average": 4.276,
+    "vote_count": 818.0,
+    "release_date": "2018-12-25",
+    "trailer": "https://www.youtube.com/embed/uPqM9x_6Exk",
+    "director": "Paul T.T. Easter",
+    "actors": "윌 페럴, 존 C. 라일리, 레베카 홀, 켈리 맥도널드, Rob Brydon, Lauren Lapkus, Pam Ferris, 랄프 파인즈, Adam Scherr, Kieran O'Brien, 노아 주프, 벨라 램지, Colby Mulgrew, Scarlet Grace, Billy Jenkins, Michael Culkin, Wolf Roth, Jana Pérez, Nathan Osgood, David Shackleton, Paul Cassidy, Bronson Webb, Jamie-Rose Monk, Jason Thorpe, Robert Cawsey, Stanley Eldridge, Oliver Maltman, David Stoller, Jack Riley, Lilly Aspell, Ethan Rouse, Ellie Rose Eames, Jamie Baughan, Helen Duff, Jess Liaudin, Wesley Kent-Hargreaves, Daniel Fearn, Darren Lake, Martin Bishop, Gerard Monaco, Ben Lee, Michael Buffer, Bruce Buffer, Russell Wilcox, 빌리 제인, Hector Bateman-Harden, Codie-Lei Eastick, Laura Stevely, Layla Rose Boyce, Sadie Newman, Harry Baxendale, Ella Bright, Kenneth Hadley, Paul Bigley, Sue Maund, Tommy Gene Surridge, Paddy Holland, Henrihs Ahmadejevs, Deepak Anand, Lindy Barrett, Martin Bassindale, Sara Beasley, 스티브 쿠건, Willem Dalby, Matthew Di Liello, Shawn Dixon, James Eeles, Karl Farrer, David Handley, Phil Hodges, John Kinory, Craig Thomas Lambert, 휴 로리, Benjamin Lok, Jordan Long, Joseph Macnab, Jorge Leon Martinez, Martyn Mayger, Hugh O'Brien, Amelia O'Loughlin, Anthony Richard Rowe, Pete Freerunner Simpson, Sonnyboy Skelton, Mick Slaney, Samantha Sharon Watson, Lochlan White, Riley White, 스티브 쿠건",
+    "pick_users": [],
+    "genres": [
+      12,
+      35,
+      80,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 55,
+  "fields": {
+    "title": "블루스 브라더스",
+    "tagline": "",
+    "runtime": 133,
+    "original_title": "The Blues Brothers",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "시카고 부근의 한 천주교 고아원에서 자란 형제 제이크(Joliet Jake: 존 벨루시 분)와 엘우드(Elwood: 댄 애크로이드 분)는 검은 양복, 검은 모자, 검은 안경이 트레이드마크인 괴짜들이다. 본업은 리듬앤블루스 밴드 리더였던듯 한데, 오늘은 저간의 곡절로 옥살이를 한 형제 제이크가 모범수로 가석방되는 날이다. 경찰서 폐기처분장비 공매장에서 헐값에 산 중고 경찰차를 몰고 마중 나온 동생 엘우드는 출감한 제이크를 태우고 어렸을때 생활하던 고아원으로 간다.  5천달러의 세금을 며칠 안에 납부하지 않으면 고아원이 교육청에 팔리게 된다는 말을 원장 수녀로부터 들은 블루스 형제는 밴드를 다시 조직하여 큰 공연을 함으로서 5천달러를 마련하겠다는 계획을 세운다. 제이크가 감옥에 들어갈때 각자 살 길을 찾아나서서 지금은 나름대로 자리를 잡고 사는 옛 밴드 멤버들을 우역곡절 끝에 재규합하는데 성공한 블루스 형제는, 오라는 곳 없는 불청객으로 길을 가다 어느 컨트리 앤웨스턴 주점에 들어가 무조건 노래를 부른다.  주점 주인이 연주료 200달러를 주며 밴드가 마신 맥주값 300달러를 청구하자 돈이 없는 블루스 형제는 잽싸게 차에 올라 도주하여 극장 예약업자 모리(Maury Sline: 스티븐 로렌스 분)를 찾아간다. 모리의 약점을 이용하여 5천석 규모의 대극장 공연을 따낸 블루스 형제는 옛 고아원 교사 커티스(Curtis: 캡 콜로웨이 분)와 고아원 아이들의 도움을 받아 하루만에 대규모 선전을 성공리에 마친다. 극장에 구름같이 모여든 청중들은 블루스브라더스 밴드의 노래에 열광한다. 레코드사 사장이 취입 제안을 하면서 선약금 만달러를 내놓기까지 한다.",
+    "poster_path": "/k0VILerMjvphZjbeuu3exf9kD8n.jpg",
+    "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+    "popularity": 265.242,
+    "vote_average": 7.741,
+    "vote_count": 4027.0,
+    "release_date": "1980-06-16",
+    "trailer": "https://www.youtube.com/embed/EHV0zs0kVGg",
+    "director": "존 랜디스, 스티븐 스필버그",
+    "actors": "댄 애크로이드, John Belushi, James Brown, Cab Calloway, Ray Charles, 아레사 프랭클린, Steve Cropper, Donald 'Duck' Dunn, Murphy Dunne, Willie Hall, Tom Malone, Lou Marini, Matt Murphy, Alan Rubin, 캐리 피셔, Henry Gibson, John Candy, Kathleen Freeman, John Lee Hooker, Tom Erhart, Gerald Walling, Walter Levine, Alonzo Atkins, Chaka Khan, Armand Cerami, Steven Williams, Kristi Oleson, Joe Cuttone, Toni Fleming, Sheilah Wells, Lou Perryman, Paul Reubens, Ben Piazza, Gwen Banta, Lari Taylor, Cindy Fisher, Elizabeth Hoy, Tony M. Conde, Eugene J. Anthony, Dean Hill, Jack Orend, Gene Schuldt, Gary Houston, Charles Mountain, Frank Oz, Elmore James, Stephen Bishop, Charles Napier, Curt Clendenin, 트위기, Steve Lawrence, De'voreaux White, Jeff Morris, Mr. T, James Avery, Raven De La Croix, Leoda Richards, Norman Matlock, S.D. Nemeth, Carolyn Franklin",
+    "pick_users": [],
+    "genres": [
+      28,
+      35,
+      80,
+      10402
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 56,
+  "fields": {
+    "title": "록키 5",
+    "tagline": "대단원의 막을 내리다",
+    "runtime": 104,
+    "original_title": "Rocky V",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "모스크바에서 소련 선수 드라고를 이기고 돌아온 록키는 몸에 이상이 생긴 것을 알게되고 곧 은퇴하려고 한다. 그런데 자신이 집을 비운 사이 회계사가 자신의 전재산을 가로챘음을 알아챈다. 할 수 없이 교활한 권투 흥행주 듀크가 주선한 캐인과의 시합을 치르려고 하는 록키. 그러나 의사로부터 뇌에 이상이 생긴 것으로 진단을 받고 출전 자격을 박탈당한다. 무일푼 신세로 슬럼 가의 옛집으로 돌아와 허름한 권투 도장에서 트레이너 일을 하는 록키에게 듀크가 출전자격증을 꾸며 주겠다며 유혹하지만 아내 애드리안이 급구 만류한다.",
+    "poster_path": "/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg",
+    "backdrop_path": "/ne1ivJv3lGGUvZ9F72P0r2xpksB.jpg",
+    "popularity": 250.758,
+    "vote_average": 5.772,
+    "vote_count": 3052.0,
+    "release_date": "1990-11-16",
+    "trailer": "https://www.youtube.com/embed/LVe8TLrxzjI",
+    "director": "Clifford C. Coleman, Richard 'Dub' Wright, 로이드 카우프만",
+    "actors": "실베스터 스탤론, 탈리아 샤이어, 버트 영, Richard Gant, Tommy Morrison, Sage Stallone, Burgess Meredith, 토니 버톤, Jimmy Gambina, Delia Sheppard, Mike Girard Sheehan, Michael Anthony Williams, Kevin Connolly, Elisebeth Peters, Hayes Swope, Nicky Blair, Jodi Letizia, Christopher Avildsen, Jonathan Avildsen, Don Sherman, Stu Nahan, Al Bernstein, James Binns, Meade Martin, Michael Buffer, Albert J. Myles, Jane Marla Robbins, Ben Geraci, Lou Fillipo, Frank Cappuccino, Lauren K. Woods, Robert Seltzer, Albert S. Meltzer, J.J. Clark, Stanley R. Hochman, Elmer Smith, Henry D. Tillman, Stan Ward, Brian Phelps, Mark Thompson, Paul Cain, Cindy Roberts, Patrick Cronin, Helena Carroll, Tony Munafo, Bob Vasquez, Susan Persily, LeRoy Neiman, Michael Pataki, Jennifer Flavin Stallone, Tricia Flavin, Julie Flavin, Bob Giovane, Carol A. Ready, Katharine Margiotta, Jeff Langton, Joe Sabatino, Mel Scott-Thomas, Curtis Jackson, Dale Jacoby, Clay Hodges, Richard C. Oprison, Kevin Bucceroni, John D'Martin, Rodney Frazier, Eric Hedgeman, Kerry Judge, Billy D. Saunders, Paul Micale",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 57,
+  "fields": {
+    "title": "랜드 오브 배드",
+    "tagline": "탈출하라, 구출하라, 절대 누구도 포기하지 않는다!",
+    "runtime": 113,
+    "original_title": "Land of Bad",
+    "original_language": "en",
+    "original_country": "AU",
+    "overview": "라스베이거스 공군 기지의 베테랑 드론 조종사 리퍼(러셀 크로우)는 델타포스 티어-원 부대의 CIA 요원 구출작전 지원임무를 맡게 된다. 슈가(마일로 벤티밀리아), 아벨(루크 헴스워스)이 이끄는 티어-원 부대는 CIA 요원이 사라진 필리핀 남서부, 미스터리한 지형의 홀로 섬 정찰에 나서고, 이 위험천만한 작전을 위해 JTAC 신입요원 키니(리암 헴스워스)와 실전 경험이 많은 군인 비숍(리키 휘틀)까지 합류한다. 그러나 도망칠 곳도 숨을 곳도 없는 섬에서 이들은 곧 적에게 노출되고 피할 수 없는 전면전이 펼쳐지며 상황은 급반전을 맞이한다. 무기도, 통신장비도 없는 정글에 홀로 갇힌 키니, 동료를 구하고 작전을 성공시켜야 할 그에게 남은 건, 눈과 귀가 되어주는 드론 조종사 리퍼뿐! 누구도 포기하지 않는다, 끝까지 살아남는다!",
+    "poster_path": "/6yrDUJyl1naOn3zfOhFPE9ZGsfP.jpg",
+    "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+    "popularity": 293.643,
+    "vote_average": 7.275,
+    "vote_count": 734.0,
+    "release_date": "2024-01-25",
+    "trailer": "https://www.youtube.com/embed/wp8CSZG45wY",
+    "director": "윌리엄 유뱅크",
+    "actors": "리암 헴스워스, 러셀 크로우, 루크 헴스워스, Ricky Whittle, Milo Ventimiglia, Chika Ikogwe, Daniel MacPherson, Robert Rabiah, Jack Finsterer, Chris Masters Mah, Lincoln Lewis, Lachlan Engeler, Miguel Usares, Timothy Latimer, Michael Joaquin, Joey Vieira, Gunner Wright, Eric Zivic, Manix Butterfield, Jaylen Hill-Suadnyana, Anna Loren, Macca Adamson, Matt Seutin, Rhonda Hargrave, George Burgess, Jeanda St James, Charles Allen, Francisco Sagad, Patricia Violan",
+    "pick_users": [],
+    "genres": [
+      28,
+      53,
+      10752
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 58,
+  "fields": {
+    "title": "크리에이터",
+    "tagline": "인간적인가, 인간의 적인가",
+    "runtime": 134,
+    "original_title": "The Creator",
+    "original_language": "en",
+    "original_country": "CA",
+    "overview": "인류를 지키기 위해 만들어진 AI가 LA에 핵폭탄을 터뜨린 후, 인류와 AI 간의 피할 수 없는 전쟁이 시작된다. 전직 특수부대 요원 '조슈아'는 실종된 아내의 단서를 얻을지도 모른다는 생각에 전쟁을 끝내기 위한 인류의 작전에 합류한다. 인류를 위협할 강력한 무기와 이를 창조한 '창조자'를 찾아 나서고, 그 무기가 아이 모습의 AI 로봇 '알피'란 사실을 알게 되는데...",
+    "poster_path": "/eK1uG7rxc8Bk0ceqHa0wjMZNs8c.jpg",
+    "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+    "popularity": 272.511,
+    "vote_average": 7.103,
+    "vote_count": 2650.0,
+    "release_date": "2023-09-27",
+    "trailer": "https://www.youtube.com/embed/ofG83s2gIFg",
+    "director": "Chalee Sankhavesa",
+    "actors": "존 데이비드 워싱턴, Madeleine Yuna Voyles, 젬마 찬, 앨리슨 제니, 와타나베 켄, Sturgill Simpson, Amar Chadha-Patel, 마크 멘차카, Robbie Tann, 랄프 이네슨, Michael Esper, Veronica Ngo, Ian Verdun, Daniel Ray Rodriguez, Rad Pereira, Syd Skidmore, Karen Aldridge, Teerawat Mulvilai, Leanna Chea, Sahatchai Chumrum, Apiwantana Duenkhao, Mariam Khummaung, Natthaphong Chaiyawong, Tawee Teesura, Kulsiri Thongrung, Charlie McElveen, Chananticha Chaipa, Sawanee Utoomma, Monthatip Suksopha, Brett Bartholomew, Jeb Kreager, Mackenzie Lansing, Stephen Howard Thomas, Agneta Catarina Békassy de Békas, Brett Parks, Phaithoon Wanglomklang, Ron Weaver, Mav Kang, John Garrett Mahlmeister, Scott Thomas, Kandanai Chotikapracal, Niko Rusakov, James David Henry, Eoin O'Brien, Dana Blouin, Anjana Ghogar, Pongsanart Vinsiri, Molywon Phantarak, Pat Skelton, Elliot Berk, Art Ybarra",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 59,
+  "fields": {
+    "title": "파이트 클럽",
+    "tagline": "믿어왔던 상식과 규칙에 통렬한 카운터를 날리는 스타일리시 액션 무비!",
+    "runtime": 139,
+    "original_title": "Fight Club",
+    "original_language": "en",
+    "original_country": "DE",
+    "overview": "자동차 회사의 리콜 심사관으로 일하는 주인공(에드워드 노튼)은 일상의 무료함과 공허함 속에서 늘 새로운 탈출을 꿈꾼다. 그는 비행기에서 자신을 비누 제조업자라고 소개하는 타일러 더든(브래드 피트)을 만난다. 집에 돌아온 주인공은 아파트가 누군가에 의해 폭파되었음을 발견하고, 타일러에게 도움을 청해 함께 생활하게 된다. 어느 날 밤 타일러는 주인공에게 자신을 때려달라고 부탁한다. 사람은 싸워봐야 진정한 자신을 알 수 있다는 것이다. 결국 이들은 매주 토요일 밤 술집 지하에서 맨주먹으로 격투를 벌이는 파이트 클럽을 결성하기에 이르는데...",
+    "poster_path": "/eKZ07Ted7VHxQjbuZrRBFOamcKJ.jpg",
+    "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "popularity": 256.891,
+    "vote_average": 8.441,
+    "vote_count": 28532.0,
+    "release_date": "1999-10-15",
+    "trailer": "https://www.youtube.com/embed/U5TPQoEveJY",
+    "director": "Marc Cinquanta",
+    "actors": "에드워드 노튼, 브래드 피트, 헬레나 본햄 카터, Meat Loaf, 자레드 레토, Zach Grenier, Holt McCallany, Eion Bailey, Richmond Arquette, David Andrews, George Maguire, Eugenie Bondurant, Christina Cabot, 시드니 콜스턴, Rachel Singer, Christie Cronenweth, Tim DeZarn, Ezra Buzzington, Dierdre Downing-Jackson, Bob Stephenson, Charlie Dell, Rob Lanza, David Lee Smith, Joel Bissonnette, Evan Mirand, Lou Beatty Jr., Thom Gossom Jr., Valerie Bickford, Peter Iacangelo, Todd Peirce, Mark Fite, Matt Winston, Joon Kim, Lauren Sánchez, Pat McNamara, Tyrone R. Livingston, Owen Masterson, David Jean Thomas, Paul Carafotes, Christopher John Fields, Anderson Bourell, Scotch Ellis Loring, 마이클 슈머스 와일즈, Andi Carnick, Ed Kowalczyk, Leonard Termo, Van Quattro, Markus Redmond, Michael Girardin, Michael Arturo, Greg Bronson, Matt Cinquanta, Paul Dillon, Eddie Hargitay, Phil Hawn, Bruce Holman, Jawara, Baron Jay, Jim Jenkins, Trey Ore, Louis Ortiz, Hugh Peddy, J.T. Pontino, Chad Randau, Marcio Rosario, Gregory Silva, Brian Tochi, Michael Zagst, Summer Moore",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 60,
+  "fields": {
+    "title": "캅 랜드",
+    "tagline": "",
+    "runtime": 104,
+    "original_title": "Cop Land",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "개리슨은 작은 마을로 뉴욕 시경에 근무하는 경찰들이 모여 사는 곳으로 '캅랜드'라 불린다. 이곳은 경찰관 레이(하비 카이틀)를 중심으로 뭉쳐진 곳으로 겉으론 평온하지만 비리로 가득차 있다.  어느날 레이의 조카이자 경찰인 비비치가 사람을 죽이는 사건이 발생하고 이를 은폐하기 위해 레이는 비비치가 자살한 것처럼 속이고 비비치를 캅랜드에 숨겨놓는다. 비비치 사건에 의심을 품은 내사관 모 틸든(로버트 드 니로)이 캅랜드로 찾아온다. 그는 마을의 보안관인 프레디(실베스터 스탤론)에게 협조를 요구하지만 보복이 두려운 프레디는 협조를 거절한다.  한편 레이는 숨어있는 비비치가 성가셔지자 그를 수장하려고 하지만 실패하고, 레이와 경찰의 부패를 참지 못한 프레디는 그들과 맞서기로 결심하는데...",
+    "poster_path": "/edHugK0f3OlutAOIfMcMi1Pm88N.jpg",
+    "backdrop_path": "/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+    "popularity": 250.824,
+    "vote_average": 6.788,
+    "vote_count": 1491.0,
+    "release_date": "1997-08-15",
+    "trailer": "https://www.youtube.com/embed/ga3pclYuCJ8",
+    "director": "피터 버그",
+    "actors": "실베스터 스탤론, 하비 카이텔, 레이 리오타, 로버트 드 니로, Janeane Garofalo, 로버트 패트릭, Michael Rapaport, Annabella Sciorra, Noah Emmerich, Cathy Moriarty, John Spencer, Frank Vincent, Malik Yoba, Arthur J. Nascarella, 이디 팰코, Victor Williams, Paul Calderon, John Doman, 데비 해리, Vincent Laresca, Oliver Solomon, Terri Towns, David Butler, Brad Beyer, Charles Dumas, John Johnson, Frank Pellegrino, Robert John Burke, John Ventimiglia, Terry Serpico, Method Man, Sean Cullen, Paul Herman, Mel Gorham, Graciela Lecube, Chris Conte, Anthony Citro, Alexandra Adi, Mark Casella, Timothy Stickney, William Kalaidjian, Sean Runnette, Michael Gaston, Ben Ellerin, David Diaz, Tracy O. Emory, Robert W. Castle, Bruce Altman, Carly Fordham, Tony Giorgio, Louis D'Alto, Sylvia Kahn, Ronn Munro, John Henry, Richard Lisi, Hans Moody, Garry Pastore, Tony Sirico, Peter Ashton Wise, P.J. Brown, Manuel Corrado, Jeffrey H. Kaufman, Europe Harmon, Rene Ojeda",
+    "pick_users": [],
+    "genres": [
+      18,
+      80,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 61,
+  "fields": {
+    "title": "맨하탄",
+    "tagline": "",
+    "runtime": 96,
+    "original_title": "Manhattan",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "맨하탄에 사는 이혼남 아이삭은 자신의 직업에 회의를 느끼는 TV 쇼 작가다. 아이삭은 17세 소녀와 내키지 않는 불편한 데이트를 하고, 그의 유부남 친구 예일은 메리와 바람을 핀다. 아이삭은 예일에게 메리와의 관계를 정리하라고 충고를 하는데, 메리를 만난 아이삭은 오히려 사랑을 느끼게 된다.\r 재즈음악가이기도 한 우디 앨런이 자신이 좋아하는 조지 거쉰의 음악과 자신이 아끼고 좋아하는 배우들과 함께 만든 ‘뉴욕 예찬’으로, 섬세한 연출력으로 맨하탄의 남녀 관계를 자전적 요소와 함께 로맨틱 코미디로 만들어냈다. 맨하탄의 도심 풍경이 세련되게 빛나는 흑백 영화로 동틀 무렵 앨런과 다이안 키튼이 다리를 배경으로 앉아 있는 아름다운 장면이 인상적이다.",
+    "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+    "backdrop_path": "/odXPsc6GyLlAHa64orhAkpmYNLU.jpg",
+    "popularity": 263.008,
+    "vote_average": 7.742,
+    "vote_count": 2299.0,
+    "release_date": "1979-04-25",
+    "trailer": "https://www.youtube.com/embed/S_Z5HLkfUbk",
+    "director": "우디 앨런, Gary Weis",
+    "actors": "다이앤 키튼, Michael Murphy, Mariel Hemingway, 메릴 스트립, Anne Byrne Hoffman, Karen Ludwig, Michael O'Donoghue, Tisa Farrow, Damion Sheller, 월리스 숀, Helen Hanft, Bella Abzug, Victor Truro, Charles Levin, 캐런 앨런, David Rasche, Mark Linn-Baker, 프랜시스 콘로이, Bill Anthony, John Doumanian, Raymond Serra, 토빈 벨",
+    "pick_users": [],
+    "genres": [
+      18,
+      35,
+      10749
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 62,
+  "fields": {
+    "title": "더 수어사이드 스쿼드",
+    "tagline": "우리는 격하게 세상을 구하고 싶다",
+    "runtime": 132,
+    "original_title": "The Suicide Squad",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "최고의 사망률을 자랑하는 벨 리브 교도소. 미국 정보국 월러 국장은 태스크 포스 X라는 극비 군사 작전팀을 꾸리기 위해 이곳에 왔다. 그녀는 수감 중인 슈퍼 빌런들을 팀에 합류시키기 위해 사면이나 감형을 조건으로 제시한다. 또한 만약을 대비해 언제라도 이들을 처형할 수 있게 머리에 폭탄도 심어놓는다. 우여곡절 끝에 완성된 팀은 두개로 나뉘어 남미의 작은 섬나라 코르토 몰티즈로 향한다. 이들의 임무는 이 섬에 위치한 요툰하임이라는 비밀 연구실에 잠입해 스타피쉬의 흔적을 없애는 것. 각기 다른 해안가에 도착한 두 팀은 상반된 상황을 맞이한다.",
+    "poster_path": "/1FiLuxuowOusZAG1vvI4TorMuNG.jpg",
+    "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+    "popularity": 243.167,
+    "vote_average": 7.524,
+    "vote_count": 8228.0,
+    "release_date": "2021-07-28",
+    "trailer": "https://www.youtube.com/embed/MNUFt1crzWo",
+    "director": "타이카 와이티티, 로이드 카우프만",
+    "actors": "마고 로비, 이드리스 엘바, 존 시나, 조엘 키너먼, 실베스터 스탤론, 비올라 데이비스, 데이비드 다스트말치안, 다니엘라 멜시오르, 마이클 루커, Jai Courtney, 피터 카팔디, 앨리스 브라가, 피트 데이비슨, Joaquín Cosío, Juan Diego Botto, 스톰 리드, 네이선 필리언, Steve Agee, 숀 건, Flula Borg, Mayling Ng, Stephen Blackehart, Tinashe Kajese, 제니퍼 홀랜드, Fernando Martinez, Dee Bradley Baker, Jaws, Crisp Ratt, Natalia Safran, Jared Leland Gore, Rey Hernandez, Ray Benitez, Reinaldo Faberlle, Jonathan Fritschi, Josh Ventura, Gerardo Davila, Mikaela Hoover, Lynne Ashe, Julio Cesar Ruiz, J.R. Adduci, Curtis Lyons Jr., Maya Le Clark, Elideusa Gomes Almeida, Shanna Kernan, Bridget Taylor, Monica Rivera, Andrea Andrade, Giovanni Rodriguez, Giovannie Cruz, Sergio Carlo, Edgar Zanabria, Grecia Balboa, Kenneth Trujillo, Randy Havens, Michelle Civile, Gabrielle Manning, Michael Aaron Milligan, Diany Rodriguez, Teresita Mans, Terence Rosemore, 폼 클레멘티에프, Victoria Paige Watkins",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 63,
+  "fields": {
+    "title": "더 그레이",
+    "tagline": "죽거나 살거나",
+    "runtime": 117,
+    "original_title": "The Grey",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "알래스카에서 석유 추출공과 작업자들을 외부의 위협과 야생 동물들로부터 보호하는 임무를 지닌 프로페셔널 가드 '오트웨이'.(리암 니슨) 그는 일행들과 함께 고향으로 가기 위해 비행기에 탑승한다. 하지만 비행기는 알래스카의 알 수 없는 설원 속으로 곤두박질 치고 살아남은 생존자들은 영하 30도에 육박하는 추위와 두려움 그리고 눈보라 속에 남겨지게 되는데...",
+    "poster_path": "/QNPJ1Vql7a2M5rj1CyOpj3tpof.jpg",
+    "backdrop_path": "/c9VuAhIVz51NJnQnkdj8TDwFcTz.jpg",
+    "popularity": 241.869,
+    "vote_average": 6.564,
+    "vote_count": 3708.0,
+    "release_date": "2012-01-26",
+    "trailer": "https://www.youtube.com/embed/SurkFjqVfRc",
+    "director": "James Bitonti",
+    "actors": "리암 니슨, 더멋 멀로니, 프랭크 그릴로, Dallas Roberts, Nonso Anozie, James Badge Dale, Anne Openshaw, Jonathan James Bitonti, Ben Hernandez Bray, Peter Girges, Ella Kosor, Jacob Blair, Lani Gelera, Joe Anderson",
+    "pick_users": [],
+    "genres": [
+      12,
+      18,
+      28,
+      53
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 64,
+  "fields": {
+    "title": "제너럴",
+    "tagline": "",
+    "runtime": 79,
+    "original_title": "The General",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "증기기관차 ‘제너럴’과 여자친구 애너벨 리를 사랑하는 기관사 조니는 남북전쟁이 발발하자 남군에 입대하려 하지만 거절당한다. 이 때문에 애너벨은 그가 겁쟁이라고 생각하게 된다. 어느 날 북군이 애너벨이 타고 있는 제너럴을 훔쳐가자, 조니는 자신의 두 연인을 구해내고 용기를 입증하려 하는데...",
+    "poster_path": "/nIp4gIXogCjfB1QABNsWwa9gSca.jpg",
+    "backdrop_path": "/h68ilwiTesb5wmDgy2mHYkVuOBP.jpg",
+    "popularity": 262.456,
+    "vote_average": 8.0,
+    "vote_count": 1169.0,
+    "release_date": "1926-12-25",
+    "trailer": "https://www.youtube.com/embed/XC8NKqXkgQs",
+    "director": "Louis Lewyn",
+    "actors": "버스터 키튼, Marion Mack, Glen Cavender, Jim Farley, Frederick Vroom, Joe Keaton, Mike Donlin, Tom Nawn, Henry Baird, Joe Bricher, Jimmy Bryant, Sergeant Bukowski, C.C. Cruson, Jack Dempster, Keith Fennell, Budd Fine, Eddie Foster, Ronald Gilstrap, Frank Hagney, Ray Hanford, Jack Hanlon, Al Hanson, Anthony Harvey, Edward Hearn, Hilliard Karr, Jackie Lowe, Billy Lynn, Ross McCutcheon, Tom Moran, Charles Phillips, Red Rial, Al St. John, Harold Terry, Ray Thomas, Red Thompson, James Walsh, Kenneth Hawley Ward, John Wilson, Jean Woodward",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      35,
+      10752
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 65,
+  "fields": {
+    "title": "아메리칸 뷰티",
+    "tagline": "눈을 감고 보세요",
+    "runtime": 122,
+    "original_title": "American Beauty",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "레스터 번햄은 좌절감으로 가득 찬 잡지사 직원으로 하루하루를 무기력 속에서 살아간다. 부동산 소개업자로 일하는 아내 케롤린은 수완가로 자처하고 완벽주의를 외치며 물질만능의 길을 추구한다. 둘의 결혼생활은 단지 남들에게 과시하기 위한 형식뿐이고, 외동딸 제인은 아버지가 사라져 주길 바랄 정도로 미워한다. 제인의 학교를 방문한 레스터는 딸의 되바라진 친구 안젤라를 보는 순간 한 눈에 욕정을 품게 된다. 레스터는 기억 속에서 이미 사라진 자신의 소년기를 회복하려는 듯이 자유를 추구하는데...",
+    "poster_path": "/osdwif0XkFgalOCPksm4Yvczyzc.jpg",
+    "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+    "popularity": 234.867,
+    "vote_average": 8.019,
+    "vote_count": 11714.0,
+    "release_date": "1999-09-15",
+    "trailer": "https://www.youtube.com/embed/ibG37pfVWv4",
+    "director": "James Hunter",
+    "actors": "케빈 스페이시, 아네트 베닝, 소라 버치, Wes Bentley, 미나 수바리, 피터 갤러거, 앨리슨 제니, 크리스 쿠퍼, Scott Bakula, Sam Robards, Barry Del Sherman, Ara Celi, 존 조, Fort Atkinson, Sue Casey, Kent Faulcon, Brenda Wehle, Lisa Cloud, Alison Faulk, Krista Goodsitt, Lily Houtkin, Carolina Lancaster, Mona Leah, Chekesha Van Putten, Emily Zachary, Nancy Anderson, Reshma Gajjar, Stephanie Rizzo, Heather Joy Sher, Chelsea Hertford, Amber Smith, Joel McCrary, Marissa Jaret Winokur, Dennis Anderson, Matthew Kimbrough, Erin Cathryn Strubbe, Thomas J. Armstrong, Elaine Corral Kendall, David C. Fisher, Spencer Kayden, Tom Miller, 로널드 레이건",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 66,
+  "fields": {
+    "title": "스파이더맨: 노 웨이 홈",
+    "tagline": "무너진 세계, 차원을 뛰어넘는 위협",
+    "runtime": 148,
+    "original_title": "Spider-Man: No Way Home",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "미스테리오의 계략으로 세상에 정체가 탄로난 스파이더맨 피터 파커는 하루 아침에 평범한 일상을 잃게 된다. 문제를 해결하기 위해 닥터 스트레인지를 찾아가 도움을 청하지만 뜻하지 않게 멀티버스가 열리면서 각기 다른 차원의 불청객들이 나타난다. 닥터 옥토퍼스를 비롯해 스파이더맨에게 깊은 원한을 가진 숙적들의 강력한 공격에 피터 파커는 사상 최악의 위기를 맞게 되는데…",
+    "poster_path": "/fvqoI9r1GU2EFkc0xjZ6dKCuDVR.jpg",
+    "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+    "popularity": 252.86,
+    "vote_average": 7.967,
+    "vote_count": 19389.0,
+    "release_date": "2021-12-15",
+    "trailer": "https://www.youtube.com/embed/OdJGHd-Bl08",
+    "director": "John Barnes",
+    "actors": "톰 홀랜드, 젠데이아, 베네딕트 컴버배치, Jacob Batalon, 존 패브로, 제이미 폭스, 윌렘 대포, 알프레드 몰리나, 베네딕트 웡, 토니 레볼로리, 마리사 토메이, 앤드류 가필드, 토비 맥과이어, 앵거리 라이스, Arian Moayed, Paula Newsome, Hannibal Buress, Martin Starr, J.B. Smoove, J.K. 시몬스, Rhys Ifans, 찰리 콕스, 토마스 헤이든 처치, Haroon Khan, Mary Rivera, Rudy Eisenzopf, Kathleen Cardoso, Jonathan Sam, Andrew Dunlap, Zany Dunlap, B. Clutch Dunlap, Minnah Dunlap, Ben VanderMey, Gary Weeks, Gregory Konow, Carol Anne Dines, Anisa Nyell Johnson, Willie Burton, Mallory Hoff, Greg Clarkson, Regina Ting Chen, Robert Mitchel Owenby, Glenn Keogh, Paris Benjamin, Jwaundace Candece, Taylor St. Clair, Rolando Fernandez, Gabriella Cila, Edward Force, Michael Le, Dean Meminger, Frederick A. Brown, Cristo Fernández, Clay Savage, 톰 하디, 제이크 질렌할, Gina Aponte, Harry Holland, John M. Maiers",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 67,
+  "fields": {
+    "title": "오션스 8",
+    "tagline": "1천 5백억원의 다이아몬드 목걸이를 훔쳐라",
+    "runtime": 110,
+    "original_title": "Ocean's Eight",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "전 애인의 배신으로 5년간 감옥에서 썩은 데비 오션은 가석방되자마자  믿음직한 동료 루와 함께 새로운 작전을 계획한다. 그들의 목표는 바로 뉴욕 메트로폴리탄 박물관에서 열리는 미국 최대 패션 행사인  메트 갈라에 참석하는 톱스타 다프네의 목에 걸린 1천 5백억 원의 다이아몬드 목걸이, 투생을 훔치는 것. 패션 디자이너 로즈 바일부터 보석 전문가 아미타, 소매치기 콘스탄스와 해커 나인 볼까지, 전격 결성된 각 분야 전문가들이 마침내 실행에 나서는데...",
+    "poster_path": "/mbE7RoCiFLljulqOhYSlkrnt5b0.jpg",
+    "backdrop_path": "/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg",
+    "popularity": 244.908,
+    "vote_average": 6.985,
+    "vote_count": 8082.0,
+    "release_date": "2018-06-07",
+    "trailer": "https://www.youtube.com/embed/YwjCCfA5rLs",
+    "director": "Grant Hyun",
+    "actors": "산드라 블록, 케이트 블란쳇, 사라 폴슨, 앤 해서웨이, 아콰피나, 헬레나 본햄 카터, 민디 케일링, 리한나, 리차드 아미티지, 제임스 코든, 다코타 패닝, Nathanya Alexander, Damian Young, 엘리엇 굴드, Marlo Thomas, Dana Ivey, Mary Louise Wilson, Elizabeth Ashley, 안나 윈투어, Maria Sharapova, 세레나 윌리엄스, 킴 카다시안, 커먼, 아드리아나 리마, Desiigner, 카일리 제너, Alexander Wang, Liu Wen, 켄달 제너, 지지 하디드, Lily Aldridge, 올리비아 먼, 제이미 킹, 헤일리 볼드윈, Derek Blasberg, Sofia Richie, Rainey Qualley, Midori Francis, Gemma Forbes, Charlotte Kirk, Whitney White, Brian J. Carter, Timothy Woods, Talia Cuomo, Charles Prendergast, Richard Robichaux, Gideon Glick, James Hindman, Eaddy Kiernan, McNally Sagal, Caitlin Mehner, James Biberi, Migs Govea, Shannon Freyer, Freddy J. Davila, Francesca Calo, Deidre Goodwin, Sas Goldberg, Linda Atkinson, Craig Waletzko, Naheed Khan, Alexandre De Betak, Will Stephen, 알렉산더 블레이즈, Asher Bailey, Brian Anthony Wilson, David Little, Liana Wright-Mark, Christopher Batyr, Clark Carmichael, Nancy Lemenager, Bianca LaVerne Jones, Natasha Harper, Tatiana Spottiswoode, Edward Barsamian, Whit Anderson, Conor Donovan, Michael Gandolfini, Robert G. McKay, Soraya Butler, Waris Ahluwalia, Dennis Basso, Andrew Bolton, Hamish Bowles, Leon Bridges, Cindy Bruna, Anna Ewers, Wes Gordon, Tonne Goodman, Prabal Gurung, Dee Hilfiger, Tommy Hilfiger, Aerin Lauder, Nick Mangold, John McEnroe, Kimberly Pauley, Amy Robach, Sofia Sanchez de Betak, Jonathan Simkhai, Cameron Winklevoss, Tyler Winklevoss, Georgia Witkin, Jason Wu, Griffin Dunne, Daniella Rabbani, Daniel May Wong, Jill Marie Lawrence, Kevin Dotcom Brown, Jimmy Kieffer, Steven Hauck, David Gibson, Katherine Hozier-Adams, Doug Yasuda, Simon Feil, Suzanne Jaehne, Shaobo Qin, 케이티 홈즈, Zac Posen, 하이디 클룸, Lauren Santo Domingo, Griffin Newman, Nina Cuso, Sophia Slaysman",
+    "pick_users": [],
+    "genres": [
+      28,
+      35,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 68,
+  "fields": {
+    "title": "파벨만스",
+    "tagline": "전 세계가 사랑한 거장 감독 스티븐 스필버그,  그 위대한 꿈의 시작!",
+    "runtime": 151,
+    "original_title": "The Fabelmans",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "난생 처음 극장에서 스크린을 마주한 순간부터 영화와 사랑에 빠진 소년 새미. 아빠 버트의 8mm 카메라를 들고 일상의 모든 순간을 담기 위해 열중하던 새미는 우연히 필름에 포착된 가족의 비밀을 알게 되고 충격에 휩싸인다. 진실을 비추는 필름의 힘을 실감한 새미에게 크고 작은 삶의 변화가 일어나고 엄마 밋지의 응원으로 영화를 향한 열정은 더욱 뜨거워져만 가는데… 영원히 간직하고픈 기억, 영화의 모든 순간과 사랑에 빠진다!",
+    "poster_path": "/zcpxI4YYFXd2aS1wffa5usKFFbq.jpg",
+    "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+    "popularity": 216.566,
+    "vote_average": 7.651,
+    "vote_count": 2125.0,
+    "release_date": "2022-11-11",
+    "trailer": "https://www.youtube.com/embed/ikDwfGIEojk",
+    "director": "데이비드 린치, Ari Davis",
+    "actors": "Gabriel LaBelle, 미셸 윌리엄스, 폴 다노, 세스 로건, Judd Hirsch, Jeannie Berlin, 줄리아 버터스, Keeley Karsten, Sam Rechner, Mateo Zoryan Francis-DeFord, Chloe East, Isabelle Kusman, Robin Bartlett, 오크스 페글리, Sophia Kopera, Birdie Borria, Alina Brace, Chandler Lovelle, Gustavo Escobar, Nicolas Cantu, Cooper Dodson, Gabriel Bateman, Stephen Matthew Smith, Lane Factor, James Urbaniak, Alex Quijano, Kalama Epstein, Connor Trinneer, Greg Grunberg, Jan Hoag, Carlos Javier Castillo, Ezra Buzzington, Paul Chepikian, Brinly Marum, Mason Bumba, Mary M. Flynn, Tia Nalls, Larkin Campbell, Harper Dustin, Crystal the Monkey, Art Bonilla, Meredith VanCuyk, Vera Myers, Cody Mitchell, Caroline Anna-Kaye Green, Rob Shiells, Julyah Rose, April Elize, Jonathan Moorwood, Jared Becker, Kendal Evans, Trang Vo, Alejandro Fuenzalida, Orion Hunter, Samantha Rose Gomez, Taylor Hall, Sarah Hamilton, Paige Locke, Marissa McBride, Malachi Mickelonis, Max David Weinberg, Cameron Hennings",
+    "pick_users": [],
+    "genres": [
+      18
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 69,
+  "fields": {
+    "title": "헬레이저",
+    "tagline": "",
+    "runtime": 94,
+    "original_title": "Hellraiser",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "우연히 구한 퍼즐 박스를 통해 지옥으로 가는 통로를 발견한 프랭크는 암흑의 공간으로 빠져 든다. 몇 년 후 래리와 줄리아 부부가 이사를 오고 줄리아는 결혼 전 사랑한 프랭크의 유품을 발견한다. 줄리아는 다락방에서 악마의 포로가 된 프랭크를 만나고 그를 구하기 위해 거리의 남자들을 유인, 잔인하게 도살한다.",
+    "poster_path": "/tgGm6Vy3LVubVcx6GvFtWxvfCAg.jpg",
+    "backdrop_path": "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
+    "popularity": 232.115,
+    "vote_average": 6.884,
+    "vote_count": 2414.0,
+    "release_date": "1987-09-11",
+    "trailer": "https://www.youtube.com/embed/le8EUHWKxeQ",
+    "director": "Oliver Parker",
+    "actors": "Clare Higgins, Ashley Laurence, Sean Chapman, Oliver Smith, Andrew Robinson, Robert Hines, Doug Bradley, Grace Kirby, Nicholas Vince, Simon Bamford, Anthony Allen, Leon Davis, Frank Baker, Kenneth Nelson, Gay Baynes, Niall Buggy, Dave Atkins, Sharon Bower, Raul Newney, Pamela Sholto",
+    "pick_users": [],
+    "genres": [
+      14,
+      27,
+      53
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 70,
+  "fields": {
+    "title": "디파티드",
+    "tagline": "엇갈린 운명의 길을 걷는 두 남자의 대결",
+    "runtime": 151,
+    "original_title": "The Departed",
+    "original_language": "en",
+    "original_country": "HK",
+    "overview": "프랭크 코스텔로가 이끄는 남부 보스턴의 최대 범죄 조직망, 아일랜드 마피아를 일망타진하기 위해 매사추세츠 주 경찰청은 신참 경찰 빌리 코스티건을 조직에 침투시킨다. 한편, 또다른 신참 경찰 콜린 설리반은 경찰청 내에서 승승장구하여 코스텔로를 제거하기 위한 특별 수사반에 배치된다. 그러나 콜린은 경찰청에 투입된 코스텔로의 첩자였다. 그들은 곧 그들 사이에 첩자가 있다는 사실을 알아차리게 되는데...",
+    "poster_path": "/jaaYn5iY0s9vwcm8oOhxKBWYW6U.jpg",
+    "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+    "popularity": 238.327,
+    "vote_average": 8.168,
+    "vote_count": 14435.0,
+    "release_date": "2006-10-04",
+    "trailer": "https://www.youtube.com/embed/iLu1tDeqUyc",
+    "director": "Joseph P. Reidy, David Fischer",
+    "actors": "레오나르도 디카프리오, 맷 데이먼, 잭 니콜슨, 마크 월버그, 마틴 쉰, 레이 윈스턴, 베라 파미가, Anthony Anderson, 알렉 볼드윈, Kevin Corrigan, James Badge Dale, David O'Hara, Mark Rolston, Robert Wahlberg, Kristen Dalton, Thomas B. Duffy, Richard Hughes, J.C. MacKenzie, Mary Klug, Peg Holzemer, Robert 'Toshi' Kar Yuen Chan, Gurdeep Singh, Armen Garo, Joseph Riccobene, Billy Smith, Lyman Chen, Kevin P. McCarthy, Chris Fischer, William Severs, Larry Mitchell, Anthony Estrella, Andrew Breving, Tracey Paleo, Dorothy Lyman, 오드리 J. 니난, Frank Mallicoat, Paula DeMers, Conor Donovan, Amanda Lynch, Sallie Toussaint, Deborah Carlson, Nellie Sciutto, Peter Welch, Henry Yuk, Dennis Lynch, Michael Byron, William Lee, John Rue, Peter Crafts, John Farrer, Paris Karounos, Brian Haley, Terry Serpico, Jay Giannone, Bo Cleary, David Conley, Sarah Fearon, Denece Ryland, Daniel F. Risteen, Jr., Francis P. Hughes, Johnny Cicco, Chance Kelly, Shay Duffin, John McConnell, Kenneth Stoddard, Jeffrey Winter, Paddy Curran, Walter Y.F. Wong, Tony M. Yee, 프란체스카 스콜세지, Alex Morris, Craig 'Radioman' Castaldo, Takumi Bando, Eric Bruno Borgman, Brendan Burke, Chris Chinn, Jeffrey Corazzini, Jim Ford, Trudi Goodman, Steve Lord, Jack McCullough, Osmani Rodriguez, Lawrence Cameron Steele, Conor Timmis, Joseph Oliveira, Adam Masnyk, John Franchi, Paul McGillicuddy, Kim Carrell, Rebecca Love",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 71,
+  "fields": {
+    "title": "스파이더맨: 어크로스 더 유니버스",
+    "tagline": "한 명을 구할 것인가, 모두를 구할 것인가",
+    "runtime": 140,
+    "original_title": "Spider-Man: Across the Spider-Verse",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "여러 성장통을 겪으며 새로운 스파이더맨이 된 마일스 모랄레스. 그 앞에 다른 평행세계의 스파이더우먼 그웬이 다시 나타난다. 모든 차원의 멀티버스 속 스파이더맨들을 만나게 되지만, 질서에 대한 신념이 부딪히며 예상치 못한 균열이 생기는데… 상상 그 이상을 넘어서는 멀티버스의 세계가 열린다!",
+    "poster_path": "/lMWTlGr9jVUC18T515hPRKym5QQ.jpg",
+    "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "popularity": 247.375,
+    "vote_average": 8.364,
+    "vote_count": 6272.0,
+    "release_date": "2023-05-31",
+    "trailer": "https://www.youtube.com/embed/750JXzsGB8U",
+    "director": "Lashana Rodriguez, Jorge R. Gutierrez, Miguel Jiron",
+    "actors": "셔믹 무어, 헤일리 스타인펠드, 브라이언 타이리 헨리, 로런 벨레스, 제이크 존슨, 오스카 아이작, 제이슨 슈워츠먼, 이사 레이, 다니엘 칼루야, Karan Soni, 쉐어 위햄, 그레타 리, 마허샬라 알리, 아만들라 스텐버그, Jharrel Jerome, 앤디 샘버그, 잭 퀘이드, Rachel Dratch, Ziggy Marley, Jorma Taccone, J.K. 시몬스, 도널드 글로버, Elizabeth Perkins, 캐스린 한, 아요 에데비리, Atsuko Okatsuka, 피터 손, Melissa Sturm, Lorraine Velez, Nic Novicki, Taran Killam, Metro Boomin, Josh Keaton, Sofia Barclay, Danielle Perez, Yuri Lowenthal, Rita Rani Ahuja, Ismail Bashey, Oscar Camacho, Kerry Gutierrez, Kamal Khan, Angelo Sekou Kouyate, David Michie, Sumit Naig, Juan Pacheco, Chrystee Pharris, Ben Pronsky, Al Rodrigo, Stan Sellers, Warren Sroka, Jasper Johannes Andrews, Natalia Castellanos, Deepti Gupta, Sohm Kapila, Pradnya Kuwadekar, Ashley London, Andrea Navedo, Lakshmi Patel, Jacqueline Pinol, Eliyas Qureshi, Jaswant Dev Shrestha, Jason Linere-White, Sitara Attaie, Mayuri Bhandari, June Christopher, Michelle Jubilee Gonzalez, Marabina Jaimes, Rez Kempton, Lex Lang, Richard Miro, Shakira Ja'nai Paye, James Pirri, Marley Ralph, Michelle Ruff, Dennis Singletary, Amanda Troop, Ruth Zalduondo, Kimberly Bailey, Sanjay Chandani, Melanie Duke, Deepti Kingra-Mickelsen, Luisa Leschin, Arthur Ortiz, Eliana A. Perez, Juan Pope, Mike Rianda, Narender Sood, Cedric L. Williams, Kimiko Glenn, Peggy Lu, 앤드류 가필드, Denis Leary, 토비 맥과이어, Cliff Robertson, 알프레드 몰리나, Post Malone",
+    "pick_users": [],
+    "genres": [
+      12,
+      16,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 72,
+  "fields": {
+    "title": "범블비",
+    "tagline": "모든 것을 압도할 진짜 이야기의 시작",
+    "runtime": 114,
+    "original_title": "Bumblebee",
+    "original_language": "en",
+    "original_country": "CN",
+    "overview": "지속된 디셉티콘과의 전쟁에서 위기에 몰린 옵티머스 프라임은 중요한 임무를 가진 오토봇을 지구로 보낸다.  지구에 도착한 오토봇은 인간들에게 쫓기게 되고, 낡은 비틀로 변신해 폐차장에 은둔하던 중,  찰리라는 소녀에 의해 발견된다.  비틀을 수리하던 찰리는 자신의 낡은 자동차가 거대한 로봇으로 변신하는 놀라운 광경을 목격하고,  모든 기억이 사라진 그에게 ‘범블비’라는 이름을 지어주며 서로에게 특별한 존재가 되어간다.  하지만, 범블비의 정체를 파헤치려는 인간들과 그가 가진 비밀을 쫓는 디셉티콘의 추격과 압박은 점점 더 심해지는데…",
+    "poster_path": "/a1XTVjEiShbX1XE6Uvaho49gw3l.jpg",
+    "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+    "popularity": 253.698,
+    "vote_average": 6.723,
+    "vote_count": 5889.0,
+    "release_date": "2018-12-15",
+    "trailer": "https://www.youtube.com/embed/vGbyF94LKsc",
+    "director": "David Waters",
+    "actors": "헤일리 스타인펠드, 존 시나, Jorge Lendeborg Jr., John Ortiz, Jason Ian Drucker, Pamela Adlon, Stephen Schneider, Len Cariou, 글린 터먼, Gracie Dzienny, Ricardo Hoyos, Lenny Jacobson, Megyn Price, Kollin Holtz, Fred Dryer, Isabelle Ellingson, Mika Kubo, Felicia Stiles, George Anagnostou, Brandon Wardle, Krystin Goodwin, Nick Pilla, Sachin Bhatt, Tim Martin Gleason, Antonio D. Charity, Courtney Coker, Edwin Hodge, Jake Huang, Dave Cutler, Lars Slind, 딜런 오브라이언, Peter Cullen, 안젤라 바셋, 저스틴 서로, David Sobolov, Grey DeLisle, Jon Bailey, Steve Blum, Kirk Baily, Dennis Singletary, Vanessa Ross, Tony Toste, Nico Abiera, Jiana Alvarez, Jace Areff, Manny Avina, William W. Barbour, Jesse Stoudt, DeMark Thompson, Boston Rush Freeman, Stephanie Heiner",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 73,
+  "fields": {
+    "title": "좋은 친구들",
+    "tagline": "마피아 영화의 분수령",
+    "runtime": 146,
+    "original_title": "GoodFellas",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "아일랜드계 이탈리아인 헨리 힐와 토미는 13살에 마피아에 입문해 지미와 함께 트럭이나 공항 화물을 훔치는 일을 한다. 결혼 후에도 마피아 생활을 계속하는 헨리는 이제 조직에서도 안정된 위치와 경제적 여유를 갖는다.  어느 날 헨리와 지미는 공항터미널 사건을 모의해 현금 6백만 달러라는 엄청한 돈을 훔친다. 이 사건을 은폐하기 위해 혈안이 된 지미는 모의에 참여했던 사람들을 죽이고, 토미는 마피아 조직에 가담했다가 살해당한다. 엎친데 덮친격으로 헨리마저 마약거래로 경찰서에 잡혀 들어가는데...",
+    "poster_path": "/zF9hSBS1t7PVFLo01GrJ3OjGi67.jpg",
+    "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "popularity": 255.688,
+    "vote_average": 8.465,
+    "vote_count": 12395.0,
+    "release_date": "1990-09-12",
+    "trailer": "https://www.youtube.com/embed/qhcg1eqe12w",
+    "director": "Daniela Barbosa",
+    "actors": "로버트 드 니로, 레이 리오타, 조 페시, Lorraine Bracco, 폴 소비노, Frank Sivero, Tony Darrow, Mike Starr, Frank Vincent, Chuck Low, Frank DiLeo, Henny Youngman, Gina Mastrogiacomo, Catherine Scorsese, Charles Scorsese, Suzanne Shepherd, Debi Mazar, Margo Winkler, Welker White, Jerry Vale, Julie Garfield, Christopher Serrone, Elaine Kagan, Beau Starr, Kevin Corrigan, Michael Imperioli, Robbie Vinton, Johnny Williams, Daniel P. Conte, Tony Conforti, Frank Pellegrino, Ronald Maccone, Tony Sirico, Joseph D'Onofrio, Steve Forleo, Richard Dioguardi, Frank Adonis, John Manca, Joseph Bono, Katherine Wallach, Mark Jacobs, Angela Pietropinto, Marianne Leone Cooper, Marie Michaels, LoNardo, Melissa Prophet, Illeana Douglas, Susan Varon, Elizabeth Whitcraft, Clem Caserta, 사무엘 L. 잭슨, Fran McGee, Paul Herman, Edward McDonald, Edward Hayes, Gina Mattia, Joel Calendrillo, Anthony Valentin, Michael Citriniti, Peter Hock, Erasmus C. Alfano, John Di Benedetto, Manny Alfaro, Thomas Lowry, Margaret Smith, Richard Mullally, Frank Albanese, Paul McIsaac, Bob Golub, Louis Eppolito, Tony Lip, Mikey Black, Peter Cicale, Anthony Powers, Vincent Pastore, Anthony Alessandro, Victor Colicchio, Mike Contessa, Philip Suriano, Paul Mougey, Norman Barbera, Anthony Polemeni, James Quattrochi, Lawrence Sacco, Dino Laudicina, Thomas E. Camuti, Andrew Scudiero, Irving Welzer, Jesse Kirtzman, Russell Halley, Spencer Bradley, Bob Altman, Joanna Bennett, Gayle Lewis, Gaetano Lisi, Luke Walter, Ed Deacy, Larry Silvestri, John 'Cha Cha' Ciarcia, Vito Picone, Janis Corsair, Lisa D’Apolito, Frank Aquilino, Michael Calandrino, Vito Antuofermo, Vito Balsamo, Peter Fain, 빈센트 갤로, Gaetano LoGiudice, Garry Pastore, Nicole Burdette, Stella Keitel, Dominique DeVito, Michaelangelo Graziano, Paula Kcira, Nadine Kay, Tony Ellis, Peter Onorati, Jamie deRoy, Joel Blake, H. Clay Dear, Thomas Hewson, Gene Canfield, Margaux Guerard, Violet Gaynor, 토빈 벨, Berlinda Tolbert, Nancy Cassaro, Adam Wandt, Joe Gioco, Isiah Whitlock Jr., Alyson Jones, Ruby Gaynor, Bo Dietl, Frank Cassini, Anthony Caso, Lisa Bostnar, Billy L. Sullivan",
+    "pick_users": [],
+    "genres": [
+      18,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 74,
+  "fields": {
+    "title": "아이즈 와이드 셧",
+    "tagline": "",
+    "runtime": 159,
+    "original_title": "Eyes Wide Shut",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "뉴욕의 크리스마스, 성공한 의사 빌 하퍼드와 그의 아름다운 아내 앨리스는 빌의 친구 지글러가 여는 크리스마스 파티에 참석한다. 파티에서 두 사람은 각각 이성으로부터 강한 성적 유혹을 받는다. 그 다음날 앨리스는 빌에게 숨겨왔던 비밀을 털어 놓는다. 여름 휴가 때 우연히 마주친 한 해군 장교의 매력에 반해 그에게 강한 충동을 느껴 그와 하루밤만 보낼 수 있다면 남편과 딸 모두를 포기할 수 있을 것만 같다는 것이 그 내용이다. 평소에 아내를 정숙한 여자라 믿어 왔던 빌은 커다란 충격을 받는다. 그날 밤 환자의 부음 소식을 듣고 집을 나선 그는 앨리스가 장교와 정사를 나누는 환상에 시달린다. 얼마 후 빌은 대학 동창인 닉으로부터 부자들의 비밀 섹스 파티에 대한 이야기를 듣게 되고 닉의 반대를 무시한 채 파티장에 찾아간다. 그러나 빌의 위장 침입이 곧 밝혀지는데...",
+    "poster_path": "/aUZ7GzsPR4PlpegU2QoGgFylyZ5.jpg",
+    "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+    "popularity": 241.545,
+    "vote_average": 7.481,
+    "vote_count": 5913.0,
+    "release_date": "1999-07-16",
+    "trailer": "https://www.youtube.com/embed/j-iqvNd90BY",
+    "director": "시드니 폴락, 토드 필드, Stewart Thorndike, Brian W. Cook, John N. Campbell, 스탠리 큐브릭",
+    "actors": "톰 크루즈, 니콜 키드먼, Julienne Davis, Rade Šerbedžija, Marie Richardson, Vinessa Shaw, 알란 커밍, Sky du Mont, Fay Masterson, Leelee Sobieski, Thomas Gibson, Madison Eginton, Jackie Sawiris, Leslie Lowe, Peter Hans Benson, Louise J. Taylor, Randall Paul, Kevin Connealy, Mariana Hewett, Dan Rollman, Gavin Parry, Chris Pare, Adam Lias, Christian Clarke, Kyle Whitcombe, Gary Goba, Florian Windorfer, Togo Igawa, Eiji Kusuhara, Sam Douglas, Angus MacInnes, Abigail Good, Leon Vitali, Carmela Marner, Phil Davies, Cindy Dolenc, Clark Hayes, Treva Etienne, Colin Angus, Karla Ashley, Kate Charman, James Demaria, Tony De Sergio, Janie Dickens, Laura Fallace, Vanessa Fenton, Georgina Finch, Peter Godwin, Joanna Heath, Lee Henshaw, Ateeka Poole, Adam Pudney, Sharon Quinn, Ben De Saumserez, Emma Lou Sharratt, Paul Spelling, Matthew Thompson, Dan Travers, Russell Trigg, Kate Whalin, Shelsie Blake, 케이트 블란쳇, Emilio D'Alessandro, Paul Desbois, Donna Ewin, Sam Heydon, Christiane Kubrick, Katharina Kubrick, Taylor Murphy, Graham Skidmore",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 75,
+  "fields": {
+    "title": "프리 가이",
+    "tagline": "내 안의 히어로가 깨어난다!",
+    "runtime": 115,
+    "original_title": "Free Guy",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "평범한 직장, 절친 그리고 한 잔의 커피.  평화로운 일상 속 때론 총격전과 날강도가 나타나는 버라이어티한 ‘프리시티’에 살고 있는 ‘가이’. 그에겐 뭐 하나 부족한 것이 없었다. 우연히 마주친 그녀에게 한눈에 반하기 전까지는…  갖은 노력 끝에 다시 만난 그녀는 ‘가이’가 비디오 게임 ‘프리시티’에 사는 배경 캐릭터이고, 이 세상은 곧 파괴될 거라 경고한다. 혼란에 빠진 ‘가이’ 그러나 그는 ‘프리시티’의 파괴를 막기 위해 더 이상 배경 캐릭터가 아닌, 히어로가 되기로 결심한다.",
+    "poster_path": "/sEYyQ4lW43jg77yTiTSRUNVdtMc.jpg",
+    "backdrop_path": "/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+    "popularity": 236.935,
+    "vote_average": 7.508,
+    "vote_count": 8288.0,
+    "release_date": "2021-08-11",
+    "trailer": "https://www.youtube.com/embed/t7srn5MctDU",
+    "director": "타이카 와이티티",
+    "actors": "라이언 레이놀즈, 조디 코머, 조 키어리, Lil Rel Howery, Utkarsh Ambudkar, 채닝 테이텀, Aaron W Reed, Britne Oldford, Camille Kostek, Mark Lainer, Mike Devine, Sophie Levy, Vernon Scott, Naheem Garcia, Anabel Graetz, Ric Plamenco, Kenneth Israel, Michael Malvesti, Colin Allen, Michael Tow, 휴 잭맨, 드웨인 존슨, 티나 페이, 존 크래신스키, 크리스 에반스, Alex Trebek, Lara Spencer, Matthew Cardarople, Jonathan De Azevedo, Destiny Claymore, Ninja, Pokimane, Lannan Eacott, Seán McLoughlin, DanTDM, Charlotte Levy, Colette Levy, Mariama Conde, Olivia Z. Cote, Ryan Doyle, Bob Gilliam, Terri Schwartz, Eugene Nomura, Euri Nomura, Octavia Chavez-Richmond, Raj Jawa, Elainy Mata, Jack McLaglen, Jose Guns Alves, Minh-Anh Day, Ella Faria, Francisco Marquez, Owen Burke, Timothy John Smith, Justin Johnston, Patrick Vincent Curran, Lily Steven, Gabrielle Lorthe, Briana Mitchell, Rosario Corso, Regina Taufen, Liam Campos, Piper Acord, Omar Ghonim, Tait Fletcher, Janelle Feigley, Brandon Scales",
+    "pick_users": [],
+    "genres": [
+      12,
+      35,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 76,
+  "fields": {
+    "title": "어벤져스: 엔드게임",
+    "tagline": "운명을 바꿀 최후의 전쟁이 펼쳐진다",
+    "runtime": 181,
+    "original_title": "Avengers: Endgame",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "어벤져스의 패배 이후 지구는 초토화됐고 남은 절반의 사람들은 정신적 고통을 호소하며 하루하루를 근근이 버텨나간다. 와칸다에서 싸우다 생존한 히어로들과 우주의 타이탄 행성에서 싸우다 생존한 히어로들이 뿔뿔이 흩어졌는데, 아이언맨과 네뷸라는 우주를 떠돌고 있고 지구에 남아 있는 어벤져스 멤버들은 닉 퓨리가 마지막에 신호를 보내다 만 송신기만 들여다보며 혹시 모를 우주의 응답을 기다리는 중이다. 애초 히어로의 삶을 잠시 내려놓고 가족과 시간을 보내던 호크아이 역시 헤아릴 수 없는 마음의 상처를 입은 채 사라지고 마는데...",
+    "poster_path": "/z7ilT5rNN9kDo8JZmgyhM6ej2xv.jpg",
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "popularity": 251.571,
+    "vote_average": 8.255,
+    "vote_count": 24876.0,
+    "release_date": "2019-04-24",
+    "trailer": "https://www.youtube.com/embed/w9dyB3Y7J-c",
+    "director": "타이카 와이티티, 조 루소",
+    "actors": "로버트 다우니 주니어, 크리스 에반스, 마크 러팔로, 크리스 헴스워스, 스칼렛 요한슨, 제레미 레너, 돈 치들, 폴 러드, 베네딕트 컴버배치, 채드윅 보스만, 브리 라슨, 톰 홀랜드, 카렌 길런, 조 샐다나, 에반젤린 릴리, 테사 톰슨, 르네 루소, 엘리자베스 올슨, 앤서니 매키, 세바스찬 스탠, 톰 히들스턴, 다나이 구리라, 베네딕트 웡, 폼 클레멘티에프, 데이브 바티스타, 레티티아 라이트, 존 슬래터리, 틸다 스윈튼, 존 패브로, 헤일리 앳웰, 나탈리 포트만, 마리사 토메이, 안젤라 바셋, 마이클 더글라스, 미셸 파이퍼, 윌리엄 허트, 코비 스멀더스, 숀 건, 윈스턴 듀크, 린다 카델리니, Maximiliano Hernández, 프랭크 그릴로, 사나다 히로유키, Tom Vaughan-Lawlor, 제임스 다시, Jacob Batalon, 빈 디젤, 브래들리 쿠퍼, 기네스 팰트로, 로버트 레드포드, 조슈 브롤린, 크리스 프랫, 사무엘 L. 잭슨, Lexi Rabe, Ross Marquand, Emma Fuhrmann, Michael James Shaw, Terry Notary, 케리 콘돈, Ben Sakamoto, Ava Russo, Cade Woodward, 이벳 니콜 브라운, Callan Mulvey, Lia Russo, Julian Russo, Taylor Patterson, Agostino Rosalina, 켄 정, Ty Simpkins, Jackson A. Dunn, Lee Moore, Bazlo LeClair, Loen LeClair, Matthew Berry, Joy McAvoy, John Michael Morris, Michael A. Cook, Brent McGee, Brian Schaeffer, Jamie Wedel, Anthony G Breed, Erica Ribley, Monique Ganderton, Jimmy Ray Pickens, Hye Jin Jang, Jack Champion, Sam Hargrave, Patrick Gorman, Aaron Lazar, Robert Pralgo, Tom Wisdom, John Posey, Ameenah Kaplan, Olaniyan Thurmon, Jennifer Elmore, Mike Lutz, Eric Patrick Cameron",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 77,
+  "fields": {
+    "title": "제미니 맨",
+    "tagline": "전설로 불리는 요원!  그를 뛰어넘을 단 한 사람이 추격을 시작 했다!",
+    "runtime": 117,
+    "original_title": "Gemini Man",
+    "original_language": "en",
+    "original_country": "CN",
+    "overview": "최강의 요원 헨리 는 자신과 완벽하게 닮은 의문의 요원 에게 맹렬한 추격을 당한다. 한편 헨리와 이제 막 동료가 된 대니, 헨리의 오랜 동료 배런 은 의문의 요원에게 이상한 낌새를 느끼고 정체를 파헤치기 시작하고, 그가 헨리의 DNA를 추출해 탄생한 ‘제미니 프로젝트’ 요원임을 알게 된다. 헨리의 전성기와 너무나 완벽하게 닮은 한 사람을 만나 충격에 빠지는 헨리와 동료들. 그들은 ‘제미니 프로젝트’를 파괴하기 위한 작전을 시작하는데…",
+    "poster_path": "/8QF4VoXyrRGDvo172nhcFKZvwKr.jpg",
+    "backdrop_path": "/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg",
+    "popularity": 223.33,
+    "vote_average": 6.3,
+    "vote_count": 4951.0,
+    "release_date": "2019-10-02",
+    "trailer": "https://www.youtube.com/embed/96XXGOQ3X0g",
+    "director": "Jeff J.J. Authors",
+    "actors": "윌 스미스, 메리 엘리자베스 윈스테드, 클라이브 오웬, 베네딕트 웡, Douglas Hodge, Ralph Brown, Linda Emond, Ilia Volok, E.J. Bonilla, Victor Hugo, David Shae, Theodora Miranne, Diego Adonye, Lilla Banak, Igor Szász, Alexa GyÖrgy, Fernanda Dorogi, Alexandra Szucs, Tim Connolly, Daniel Salyers, Jordan Sherley, Tony J. Scott, Justin James Boykin, Karis Wymbs, Frankie Verroca, Balázs Veres, Adrian Valle Torres, Ashton Tatum, Ferenc Iván Szabó, Dillon John Swanson, Saskia Slaaf, Kenny Sheard, Carl Salonen, Brianna Robinson, Hannah Pniewski, Thanh-Huy Phan, Zach Mellado, Samantha Kudler, Frankie Justin, Douglas Rizzo Johnson, Dawit Gulilat, Samantha Goldman, Chris Goad, Björn Freiberg, Christopher T. Elliott, Marc Demeter, William Caraballo, Olivia Bailey, Daniel Annone, Christon Andell",
+    "pick_users": [],
+    "genres": [
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 78,
+  "fields": {
+    "title": "스크림",
+    "tagline": "",
+    "runtime": 111,
+    "original_title": "Scream",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "작은 소도시 우즈버러에 사는 케이시에게 이상한 남자로부터 전화가 걸려온다. 비디오를 보려는 케이시에게 그 남자는 케이시의 남자 친구인 스티브의 목숨을 걸고 게임을 하자고 한다. 케이시가 문제를 맞추면 살고, 틀리면 남자친구가 죽는다. 문제는 '13일의 금요일'에 나오는 살인마의 이름을 맞추는 것. 케이시는 문제를 풀지 못하고, 스티브는 처참하게 죽임을 당한다. 이튿날, 혼자 집에 있는 시드니에게도 이상한 전화가 걸려온다. 시드니는 케이시와는 달리 힘들게 괴전화의 마수에서 빠져 나온다. 그러나 시드니의 남자 친구 빌리가 살인 용의자로 체포되는데, 조사 후 무혐의로 풀려난다.",
+    "poster_path": "/fvprcRjlvrgok1rvOJN4NY8Uqba.jpg",
+    "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+    "popularity": 238.41,
+    "vote_average": 7.423,
+    "vote_count": 6642.0,
+    "release_date": "1996-12-20",
+    "trailer": "https://www.youtube.com/embed/xkI4aw-o1ok",
+    "director": "웨스 크레이븐",
+    "actors": "데이비드 아켓, 니브 캠벨, 코트니 콕스, 매튜 릴라드, 로즈 맥고완, Skeet Ulrich, Jamie Kennedy, W. Earl Brown, Joseph Whipp, 리에브 슈라이버, 드루 배리모어, Roger L. Jackson, Kevin Patrick Walls, David Booth, Carla Hatley, Lawrence Hecht, Lois Saunders, Tony Kilbert, C.W. Morgan, Frances Lee McCain, Troy Bishop, Ryan Kennedy, Leonora Scelfo, Nancy Anne Ridder, Lisa Canning, Bonnie Wood, Aurora Draper, Kenny Kwong, Justin Sullivan, Kurtis Bedford, Angela Miller, Henry Winkler, 린다 블레어, Matt McDonald, Freddy W. Smith",
+    "pick_users": [],
+    "genres": [
+      27,
+      80,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 79,
+  "fields": {
+    "title": "Megamind vs. the Doom Syndicate",
+    "tagline": "",
+    "runtime": 85,
+    "original_title": "Megamind vs. the Doom Syndicate",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "",
+    "poster_path": "/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+    "backdrop_path": "/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
+    "popularity": 270.051,
+    "vote_average": 5.1,
+    "vote_count": 79.0,
+    "release_date": "2024-03-29",
+    "trailer": "https://www.youtube.com/embed/DXb7tWC2W5o",
+    "director": "Eric Fogel",
+    "actors": "Keith Ferguson, Laura Post, Josh Brener, Maya Tuttle, Emily Tuñon, Talon Warburton, 스콧 애드싯, Chris Sullivan, 토니 헤일, Adam Lambert, Jeanine Mason, Michael Beattie, Todd Haberkorn, Eric Murphy, Joey Rudman, Roger Craig Smith, Carlos Alazraqui, 에릭 바우자, Kimberly Brooks",
+    "pick_users": [],
+    "genres": [
+      16,
+      35,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 80,
+  "fields": {
+    "title": "그것",
+    "tagline": "아이들이 사라지는 마을, ‘그것’이 나타났다",
+    "runtime": 135,
+    "original_title": "It",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "살인과 실종사건이 이상하게 많이 생기는 데리라는 마을, 비 오는 어느 날 종이배를 들고 나간 동생이 사라졌다.  형 빌은 ‘루저 클럽’ 친구들과 함께 동생을 찾아 나서고, 27년마다 가장 무서워하는 것의 모습을 한 채 아이들을 잡아먹는다는 ‘그것’이 빨간 풍선을 든 삐에로의 모습으로 그들 앞에 나타나는데…  빌과 친구들은 공포를 이겨내고 ‘그것’에 맞서 동생과 사라진 아이들을 찾을 수 있을까?",
+    "poster_path": "/nlZKIOeoSWwrRcrppoIbkfOGZ6J.jpg",
+    "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+    "popularity": 226.323,
+    "vote_average": 7.24,
+    "vote_count": 18574.0,
+    "release_date": "2017-09-06",
+    "trailer": "https://www.youtube.com/embed/KGVag0lazJQ",
+    "director": "David Katzenberg",
+    "actors": "제이든 마텔, 소피아 릴리스, 잭 딜런 그레이저, 핀 울프하드, Jeremy Ray Taylor, Wyatt Oleff, Chosen Jacobs, 빌 스카스가드, Jackson Robert Scott, Nicholas Hamilton, Stephen Bogaert, Stuart Hughes, 오웬 티그, Molly Atkinson, Jake Sim, Logan Thompson, Katie Lunman, Geoffrey Pounsett, Pip Dwyer, Steven Williams, Elizabeth Saunders, Megan Charpentier, Joe Bostick, 아리 코헨, Anthony Ulc, Javier Botet, Carter Musselman, Tatum Lee, Edie Inksetter, Martha Gibson, Kasie Rayner, Isabelle Nélisse, Jocelyn Mattka, Donald Tripe, Liz Gordon, Paige Rosamond, Neil Crone, Sonia Gascón, Janet Porter, Memo Díaz Capt., Chantal Vachon, Roberto Campanella, Cyndy Day, Kate Moyer, Sherry Nelson, Jimmy Star, Kelly Van der Burg, James Magwood",
+    "pick_users": [],
+    "genres": [
+      27
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 81,
+  "fields": {
+    "title": "우디 우드페커 캠프에 가다",
+    "tagline": "",
+    "runtime": 100,
+    "original_title": "Woody Woodpecker Goes to Camp",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "숲에서 쫓겨난 우디. 우후 캠프를 새로운 보금자리로 삼으려 했더니, 이번엔 공원 조사관이 캠프를 닫겠다고 으름장을 놓는다.",
+    "poster_path": "/rkziSxfOEhVn1DyvCvZbwekR64k.jpg",
+    "backdrop_path": "/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
+    "popularity": 263.686,
+    "vote_average": 6.815,
+    "vote_count": 119.0,
+    "release_date": "2024-04-12",
+    "trailer": "https://www.youtube.com/embed/ZYjbfLQDYvg",
+    "director": "William Atticus Parker",
+    "actors": "에릭 바우자, 케빈 마이클 리처드슨, 톰 케니, Mary-Louise Parker, Josh Lawson, Chloe De Los Santos, Kershawn Theodore, Savannah La Rain, Evan Stanhope, Esther Son, George Holahan-Cantwell, Kushinka Jayewardene, CC Dewar, Gyton Grantley, Anthony Craig, Ian Rooney, Ras-Samuel Welda'abzgi",
+    "pick_users": [],
+    "genres": [
+      16,
+      35,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 82,
+  "fields": {
+    "title": "스타워즈 에피소드 6: 제다이의 귀환",
+    "tagline": "제국의 몰락",
+    "runtime": 133,
+    "original_title": "Return of the Jedi",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "전작으로부터 약 1년 후의 이야기로, 전편의 클라이막스에서 엄청난 과거사를 접한 후 몸과 마음을 추스린 루크 스카이워커가 어엿한 제다이 기사로 성장해 동료들과 함께 결국 사악한 은하 제국을 무너뜨린다는 내용. 제국의 역습 때보다 배는 더 되는 금액[8]을 특수효과에 투입했으며, 흥행도 전작들(제국의 역습은 5억 3천만 달러, 새로운 희망은 재개봉까지 합쳐 7억 7천만 달러) 못잖게 엄청난 대박(전세계 5억 7천만 달러)을 쳤다. 한동안 최대 흥행 영화로 기네스북에 실렸으며 이는 타이타닉이 나올 때까지 깨지지 않았다.",
+    "poster_path": "/qUA5lGAXzgr9UDKvUreiLOGa9fM.jpg",
+    "backdrop_path": "/psYeKwKclG4XaIop5suj1J0Kg2C.jpg",
+    "popularity": 222.987,
+    "vote_average": 7.894,
+    "vote_count": 15217.0,
+    "release_date": "1983-05-25",
+    "trailer": "https://www.youtube.com/embed/MKX8SzBGDcY",
+    "director": "Margarita Fernández, Phil Herbert, Don Bies, Richard Driscoll, Ernie Fosselius, Richard Marquand",
+    "actors": "마크 해밀, 해리슨 포드, 캐리 피셔, 빌리 디 윌리엄스, 안소니 다니엘스, Peter Mayhew, Sebastian Shaw, 이언 맥더미드, Frank Oz, 제임스 얼 존스, David Prowse, 앨릭 기니스, Kenny Baker, Michael Pennington, Kenneth Colley, Michael Carter, Denis Lawson, Tim Rose, Dermot Crowley, Caroline Blakiston, 워윅 데이비스, Jeremy Bulloch, Femi Taylor, Annie Arbogast, Claire Davenport, Jack Purvis, Mike Edmonds, Jane Busby, Malcolm Dixon, Mike Cottrell, Nicki Reade, Adam Bareham, Jonathan Oliver, Pip Miller, Tom Mannion, Margo Apostolos, Ray Armstrong, Eileen Baker, Michael Henbury Ballan, Bobby Bell, Patty Bell, Alan Bennett, Sarah Bennett, Pamela Betts, Danny Blackner, Linda Bowley, Peter Burroughs, Debbie Lee Carrington, Maureen Charlton, Willie Coppen, Sadie Corre, Tony Cox, John Cumming, Jean D'Agostino, Luis De Jesus, Debbie Dixon, Phil Fondacaro, Sal Fondacaro, Tony Friel, Daniel Frishman, John Ghavan, Michael Gilden, Paul Grant, Lydia Green, Lars Green, Pam Grizz, Andrew Herd, J.J. Jackson, Richard Jones, Trevor Jones, Glynn Jones, Karen Lay, John Lummiss, Nancy MacLean, Peter Mandell, Carole Morris, Stacie Nichols, Chris Nunn, Barbara O'Laughlin, Brian Orenstein, Harrell Parker Jr., John Pedrick, April Perkins, Ronnie Phillips, Katie Purvis, Carol Read, Nicholas Read, Danielle Rodgers, Chris Romano, Dean Shackelford, Kiran Shah, Felix Silla, Linda Spriggs, Gerald Staddon, Josephine Staddon, Kevin Thompson, Kendra Wall, Brian Wheeler, Butch Wilhelm, Mark Dodson, Simon J. Williamson, Richard Bonehill, Peter Roy, Erik Bauersfeld, Mike Quinn, Bill Kipsang Rotich, Deep Roy, Alisa Berk, Hugh Spight, Swee Lim, Gerald Home, Tim Dry, Sean Crawford, Toby Philpott, David Alan Barclay, Jasper Jacob, Peter Allen, John Altman, Glyn Baker, Ailsa Berk, Paul Brooke, Maurice Bush, Vivienne Chandler, Tony Clarkin, Kenneth Coombs, Andy Cunningham, Peter Diamond, Douglas Farrell, Stuart Fox, Isaac Grand, Walter Henry, Philip Herbert, William Hoyland, Colin Hunt, Monty Jordan, Michael Josephs, Eiji Kusuhara, Anthony Lang, Arnold Lee, Hilton McRae, Billy J. Mitchell, Amanda Noar, Terry Sach, Errol Shaker, Guy Standeven, Jules Walters, Corey Dee Williams, Michael Stevens, Michael McCormick, David Stone, Lynne Hazelden, Paul Springer, Ronny Cush, Larry Ward, John Cannon, Dalyn Chew, Celia Fushille-Burke, Mercedes Ngoh, Jennifer Jaffe, Tina Simmons, 헤이든 크리스텐슨",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 83,
+  "fields": {
+    "title": "이모티: 더 무비",
+    "tagline": "웰컴 투 이모티 월드!",
+    "runtime": 86,
+    "original_title": "The Emoji Movie",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "스마트폰 속 이모티들의 비밀 세계 ‘텍스토폴리스’의 제1원칙은 1인 1표정! 각자 맡은 표정을 완벽히 해내야 하지만 다양한 감정의 소유자 ‘진’은 출동한 첫날 당황한 나머지 실수를 저지른다. ‘진’의 실수는 스마트폰 초기화라는 ‘텍스토폴리스’의 파멸을 불러오고 ‘텍스토폴리스’의 시장인 ‘스마일’은 도시를 위기에 빠뜨린 ‘진’을 파괴하기 위해 백신봇을 출동시키는데…  ‘진’은 친구 ‘하이파이브’, 해커 ‘핵키 브레이크’와 함께 ‘텍스토폴리스’와 자신의 운명을 구하기 위해 ‘소스 코드’를 찾기 위한 험난한 여정을 떠난다! 깨알만한 귀요미 이모티들의 가장 스마트한 어드벤처가 시작된다!",
+    "poster_path": "/8fbkDJ9uYCGwCySN0RbFRYk6OCl.jpg",
+    "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+    "popularity": 218.369,
+    "vote_average": 5.5,
+    "vote_count": 2956.0,
+    "release_date": "2017-07-23",
+    "trailer": "https://www.youtube.com/embed/45pPkuECPbA",
+    "director": "Tony Leondis",
+    "actors": "T.J. 밀러, 제임스 코든, 안나 페리스, 마야 루돌프, Steven Wright, 제니퍼 쿨리지, Jake T. Austin, 크리스티나 아길레라, 소피아 베르가라, 패트릭 스튜어트, Rob Riggle, Sean Hayes, Tati Gabrielle, Jude Koyaute, Rachael Ray, Jeff Ross, Melissa Sturm, Sean Giambrone, Timothy Durkin, Liam Aiken, Wendell Brooks, Tarek Bishara, Kevin Chamberlin, William Townsend, Adam Brown, Joe Whyte, 콘래드 버논, Kate Gorney, Derek Mio, Paige Eileen Caparella, Bob Bergen, Debi Derryberry, Jess Harnell, Phil LaMarr, Laraine Newman, 타라 스트롱, Fred Tatasciore, Elizabeth Daily, Carlos Alazraqui, Keith Anthony, 에릭 바우자, David Boat, Keith Ferguson, Amy Hill, John Kassir, Josh Keaton, Mona Marshall, Scott Menville, Max Mittelman, Alicyn Packard, Paul Pape, Debra Wilson, John Cramer",
+    "pick_users": [],
+    "genres": [
+      16,
+      35,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 84,
+  "fields": {
+    "title": "네트",
+    "tagline": "",
+    "runtime": 114,
+    "original_title": "The Net",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "안젤라 베네트 는 미모의 컴퓨터 프로그래머. 새로나온 소프트웨어의 바이러스나 에러를 분석하는 일이 전문이다. 취미는 인터넷의 컴퓨터광들과 채팅하는 것이 전부. 컴퓨터와 붙어사는 그녀는 집밖으로 나올 일이 거의 없다. 피자는 PC 네트워크로 주문하면 곧바로 배달되고 항공권도 마찬가지다. 그녀가 외출하는 이유는 단 하나, 요양원에 있는 어머니 를 만나러 갈 때이다. 안정된 일상만이 존재했던 안젤라에게 어느날, 동료 데일 이 새 인터넷 프로그램에 문제가 있는 것 같다며 분석을 의뢰한다. 겉으로는 평범한 음악용 소프트웨어에 불과한 '모짜르트 밴드'. 그러나 이 프로그램에는 연방정부의 극비 데이터베이스 시스템이 고스란히 담겨져 있다. 놀란 안젤라가 데일에게 도움을 요청하지만, 데일은 안젤라에게 오던 중 의문의 비행기 사고로 죽는다. 데일의 죽음에 충격을 받은 채 안젤라는 멕시코로 휴가를 떠난다. 이때 안젤라에게 잭 데블린 이라는 매력적인 남자가 접근하고, 휴가 기분에 취한 안젤라는 잭과 하룻밤을 보낸다. 그러나 안젤라는 잭에게서 수상한 점을 발견하고, 격투 끝에 구사일생으로 달아난다. 하지만 때는 이미 늦어 안젤라의 존재는 컴퓨터 네트워크 상에서 완전히 '지워진' 상태였다. 여권도, 신용카드도 모두 도둑 맞은 안젤라에게 남아있는 것은 오직 파손된 디스켓 한장 뿐. 안젤라는 주변 사람들에게 도움을 청하지만, 모두 의문의 사고로 사망한다. 컴퓨터 마피아 프레토리안의 검은 그림자는 시시각각 다가오고, 그들의 검은 손은 드디어 안젤라의 어머니가 있는 요양원에 까지 뻗치는데.",
+    "poster_path": "/zXPBtga5RtRVg5Mi22aCOpP1qtk.jpg",
+    "backdrop_path": "/hPlL6FjbbZGZNfNaBePhOXSB9WY.jpg",
+    "popularity": 222.537,
+    "vote_average": 6.014,
+    "vote_count": 1277.0,
+    "release_date": "1995-07-28",
+    "trailer": "https://www.youtube.com/embed/O929xw_uOHc",
+    "director": "Charles Winkler",
+    "actors": "산드라 블록, Jeremy Northam, Dennis Miller, Wendy Gazelle, Ken Howard, Diane Baker, Ray McKinnon, Daniel Schorr, L. Scott Caldwell, Robert Gossett, Kristina Krofft, Tony Perez, Christopher Darga, Julia Pearlstein, Rick Snyder, Gerald Berns, Tannis Benedict, Vaughn Armstrong, Wren T. Brown, Lynn Blades, Israel Juarbe, Julia Vera, Lewis Dix Jr., Lili Flanders, Adam Winkler, Wanda-Lee Evans, Andrew Amador, Juan Garcia, Margo Winkler, Kerry Kilbride, Roland Gomez, Melvin Thompson, Rich Bracco, Lucy Butler, John Livingston, Cam Brainard, Dennis Richmond, Elaine Corral Kendall, Alfredo López, Thomas Crawford, John Cappon, Barbara Abedi, Kevin Brown, Danny Breen, Melissa Bomes",
+    "pick_users": [],
+    "genres": [
+      18,
+      28,
+      53,
+      80,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 85,
+  "fields": {
+    "title": "프레데터 2",
+    "tagline": "소리도 없이 형체도 없이 지옥처럼 그가 온다",
+    "runtime": 108,
+    "original_title": "Predator 2",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "1997년 LA. 무기와 숫적으로 우세한 마약 범죄집단과의 전쟁과도 같은 총격전으로 연일 시달리는 강력계 마이클 해리건 경사는 또 한 건의 총격전을 해결하는데 현장에는 무참히 찢긴 시체와 천장에 거꾸로 매달린 시체들이 있었다. 기관총을 든 4사람을 맨손으로 죽이고 포위되어있는 경찰의 눈을 피해 달아난 것이다. 그런데 해리건은 상관으로부터 특수요원 피터 키즈가 지휘하는 연방기동대가 이 사건을 맡게 되니 손을 떼라고 하자 기분이 상한다. 수상히 여긴 해리건과 그의 수사팀 대니, 리오나, 그리고 새로 온 제리 람버트는 방해를 무릅쓰고 수사를 펼친다.  얼마 후, 킹 윌리라는 자메이카 부두교 책임자와 그 부하들이 이상한 무기를 들고 침입한 괴물에게 또다시 무참히 살해된다. 사건에서 밀려나 연방수사원 몰래 수사현장을 조사하던 대니가 괴물에게 살해당하고 해리건은 경고를 받는다. 15년을 같이 일한 파트너를 잃은 해리건은 분노하고 죽인 놈을 꼭 찾아내겠다고 벼른다. 피터 키즈의 뒤를 쫓던 제리는 이들을 도살장 부근에서 놓쳤다고 한다. 해리건은 마약왕인 부두교 두목 킹 윌리를 만나지만 아무런 단서를 얻지 못하고 돌아오는데 킹 윌리도 괴물에게 살해된다.",
+    "poster_path": "/idhSjtys8t8eSrFTNcnDpr8apmW.jpg",
+    "backdrop_path": "/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+    "popularity": 227.334,
+    "vote_average": 6.285,
+    "vote_count": 3113.0,
+    "release_date": "1990-11-21",
+    "trailer": "https://www.youtube.com/embed/uYJ6wsrFwmw",
+    "director": "Paul Abascal",
+    "actors": "대니 글로버, 게리 부시, Rubén Blades, María Conchita Alonso, 빌 팩스턴, Robert Davi, Adam Baldwin, Kevin Peter Hall, Kent McCord, Morton Downey, Jr., Calvin Lockhart, Steve Kahan, Henry Kingi, Corey Rand, Elpidia Carrillo, Lilyan Chauvin, Michael Mark Edmondson, Teri Weigel, Alex Chapman, John Cann, Michael Papajohn, Louis Eppolito, Charles Haugk, Sylvia Kauders, Charles David Richards, Julian Reyes, Casey Sander, Pat Skipper, Valerie Karasek, Chuck Boyd, David Starwalt, Abraham Alvarez, Jim Ishida, 조지 크리스티, Lucinda Weist, Richard Anthony Crenna, Billy 'Sly' Williams, Paulo Tocha, Jsu Garcia, DeLynn Binzel, Tom Finnegan, Patience Moore, Kashka, Carl Pistilli, Vonte Sweet, Ronald Moss, Brian Levinson, Harri James, Beth Kanar, Michael Wiseman, Thomas Rosales Jr., Charles F. FitzSimons, John-Michael Steele, Hal Rayle, David B. Levinson, Vladimir McCrary, Beverly Overstreet, Walter Smith, Philip Weyland, Scott Cranford, Cody Glenn, Robert Hammond, Frank Woods",
+    "pick_users": [],
+    "genres": [
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 86,
+  "fields": {
+    "title": "프로메테우스",
+    "tagline": "우리의 기원을 찾는 여정이 우리를 종말로 인도하리라",
+    "runtime": 123,
+    "original_title": "Prometheus",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "리플리가 노스트로모호를 타고 에일리언과 접촉하기 30여년 전, 과학자 엘리자베스 쇼와 찰리 할러웨이가 스코틀랜드에서 선사시대 벽화를 발견한다. 이 벽화가 인류를 창조한 외계인들의 위치를 나타내는 지도라는 걸 깨달은 그들은 웨일랜드사가 꾸린 팀과 함께 탐사선 프로메테우스호를 타고 우주로 나아간다. 탐사대는 행성에 착륙하자마자 외계인들이 남긴 거대한 피라미드형 유적을 발견하고, 내부에서 죽은 외계인들의 시체와 마주친다. 엘리자베스는 죽은 외계인의 DNA가 인간의 것과 똑같다는 것을 밝혀내는데...",
+    "poster_path": "/lpgh1NL1w8p4pk96YLHI0UmPE0o.jpg",
+    "backdrop_path": "/vMDdWQuvOjg9yUjMJrNunXq9cmw.jpg",
+    "popularity": 224.515,
+    "vote_average": 6.549,
+    "vote_count": 11728.0,
+    "release_date": "2012-05-30",
+    "trailer": "https://www.youtube.com/embed/_OEKnGOSLR0",
+    "director": "Annie Penn",
+    "actors": "누미 라파스, 마이클 패스벤더, 가이 피어스, 이드리스 엘바, Logan Marshall-Green, 샤를리즈 테론, 숀 해리스, Rafe Spall, Emun Elliott, 베네딕트 웡, 케이트 디키, Branwell Donaghey, Vladimir \"Furdo\" Furdik, C.C. Smiff, Shane Steyn, Ian Whyte, John Lebar, Daniel James, 패트릭 윌슨, Lucy Hutchinson, Giannina Facio, Anil Biltoo, Louisa Staples, Matthew Burgess, Eugene O'Hare, Richard Thomson, Philip McGinley, Jenny Rainsford, Rhona Croker, Wambui Wa-Ngatho, Wannaporn Rienjang, Zed Sevcikova, Sonam Dugdak, Reynir Thor Eggertsson, Shin-Ichiro Okajima, Charalambos Dendrinos, Berhane Woldegabriel, Robin Atkin Downes, James Currie, Dan Dewhirst, Harry Fowler, Ian MacNaughton, Phill Martin, Arnold Montey, 피터 오툴, Matt Rook, Stuart Saunders",
+    "pick_users": [],
+    "genres": [
+      12,
+      878,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 87,
+  "fields": {
+    "title": "인사이드 아웃",
+    "tagline": "진짜 나를 만날 시간",
+    "runtime": 102,
+    "original_title": "Inside Out",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "모든 사람의 머릿속에 존재하는 감정 컨트롤 본부. 그곳에서 불철주야 열심히 일하는 기쁨, 슬픔, 버럭, 까칠, 소심 다섯 감정들. 정든 옛 동네를 떠나 도시로 이사하는 라일리 가족. 이사 후 새로운 환경에 적응해야 하는 라일리를 위해 그 어느 때 보다 바쁘게 감정의 신호를 보내지만 우연한 실수로 기쁨과 슬픔이 본부를 이탈하게 되자 라일리의 마음 속에 큰 변화가 찾아온다. 라일리가 예전의 모습을 되찾기 위해서는 기쁨과 슬픔이 본부로 돌아가야만 한다. 그러나 엄청난 기억들이 저장되어 있는 머릿속 세계에서 본부까지 가는 길은 험난하기만 한데...",
+    "poster_path": "/qVdrpBY920kKikUmPm89wig60Kd.jpg",
+    "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+    "popularity": 267.506,
+    "vote_average": 7.916,
+    "vote_count": 20320.0,
+    "release_date": "2015-06-09",
+    "trailer": "https://www.youtube.com/embed/EiCmnIaj4u8",
+    "director": "조시 쿨리",
+    "actors": "에이미 폴러, Phyllis Smith, 빌 헤이더, Lewis Black, 민디 케일링, 리처드 카인드, Kaitlyn Dias, 다이앤 레인, 카일 맥라클란, 바비 모니한, Paula Poundstone, Paula Pell, Dave Goelz, Frank Oz, Flea, John Ratzenberger, Carlos Alazraqui, Peter Sagal, 라시다 존스, Lori Alan, Gregg Berger, Veronika Bonell, John Cygan, Laraine Newman, Mary Gibbs",
+    "pick_users": [],
+    "genres": [
+      12,
+      16,
+      18,
+      35,
+      10751
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 88,
+  "fields": {
+    "title": "날개",
+    "tagline": "",
+    "runtime": 144,
+    "original_title": "Wings",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "같은 동네에 사는 잭과 데이빗은 동시에 실비아를 사랑하고 있는 사랑의 라이벌이다. 1차 대전이 발발하자 두 남자는 같이 공군에 입대하지만, 이곳에서도 계속 경쟁을 이어나간다. 오랜 기간 필름이 분실되었다가 1992년에야 기적적으로 다시 관객과 만날 수 있었다.",
+    "poster_path": "/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg",
+    "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
+    "popularity": 210.702,
+    "vote_average": 7.209,
+    "vote_count": 254.0,
+    "release_date": "1927-08-12",
+    "trailer": "https://www.youtube.com/embed/j1ZtO9kihlk",
+    "director": "William A. Wellman, Charles Barton, Thomas Carr",
+    "actors": "Clara Bow, Charles \"Buddy\" Rogers, Richard Arlen, Jobyna Ralston, El Brendel, Richard Tucker, 게리 쿠퍼, Gunboat Smith, Roscoe Karns, Julia Swayne Gordon, Henry B. Walthall, Arlette Marchal, Nigel De Brulier, Hedda Hopper, George Irving, Rod Rogers, Thomas Carrigan, Margery Chapin, Andy Clark, Hal George, Dick Grace, Douglas Haig, William Hickey, Sgt. Jiggs, Jane Laurell, Robert Livingston, James Pierce, Evelyn Selbie, Frank Tomick, Carl von Haartman, Gloria Wellman, Percy Williams, Zalla Zarana",
+    "pick_users": [],
+    "genres": [
+      18,
+      28,
+      10749,
+      10752
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 89,
+  "fields": {
+    "title": "아일랜드",
+    "tagline": "",
+    "runtime": 136,
+    "original_title": "The Island",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "지구 상에 일어난 생태적인 재앙으로 인하여 일부만이 살아 남은 21세기 중반. 자신들을 지구 종말의 생존자라 믿고 있는 링컨 6-에코(이완 맥그리거)와 조던 2-델타(스칼렛 요한슨)는 수백 명의 주민들과 함께 부족한 것이 없는 유토피아에서 빈틈없는 통제를 받으며 살고 있다. 잠자리에서 일어나면서부터 몸 상태를 점검 받고, 먹는 음식과 인간관계까지 격리된 환경 속에서 사는 이들은 모두 지구에서 유일하게 오염되지 않은 희망의 땅 ‘아일랜드’에 추첨이 되어 뽑혀 가기를 바라고 있다.  최근 들어 매일 같이 똑 같은 악몽에 시달리던 링컨은 제한되고 규격화된 이 곳 생활에 의문을 품게 된다. 그리고 곧, 자신이 믿고 있던 모든 것들이 거짓이었음을 알게 된다. 자기를 포함한 그곳의 모든 사람들이 사실은 스폰서(인간)에게 장기와 신체부위를 제공할 복제인간이라는 것! 결국 ‘아일랜드’로 뽑혀 간다는 것은 신체부위를 제공하기 위해 무참히 죽음을 맞이하게 되는 것을 의미했던 것이다.  어느 날, 복제된 산모가 아이를 출산한 후 살해되고 장기를 추출 당하며 살고 싶다고 절규하는 동료의 모습을 목격한 링컨은 아일랜드로 떠날 준비를 하던 조던과 탈출을 시도한다. 그간 감춰졌던 비밀, 엄연히 존재하고 있는 외부의 모습을 보게 된 이들은 자신들의 스폰서를 찾아 나서고 오직 살고 싶다는 본능으로 탈주를 계속하는데...",
+    "poster_path": "/4WKeDS5xOxeISTdw82hJXMp0sRS.jpg",
+    "backdrop_path": "/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+    "popularity": 218.047,
+    "vote_average": 6.673,
+    "vote_count": 5198.0,
+    "release_date": "2005-07-21",
+    "trailer": "https://www.youtube.com/embed/AWwn5pKGZxU",
+    "director": "Don Michael Paul",
+    "actors": "이완 맥그리거, 스칼렛 요한슨, 자이먼 혼수, 숀 빈, 스티브 부세미, 마이클 클라크 덩컨, Ethan Phillips, Brian Stepanek, Noa Tishby, Siobhan Flynn, Troy Blendell, Jamie McBride, Kevin McCorkle, Gary Nickens, Kathleen Rose Perkins, Katy Boyer, Wendy Haines, Glenn Morshower, Shawnee Smith, Max Baker, Phil Abrams, Svetlana Efremova, Randy Oglesby, 이벳 니콜 브라운, Taylor Gilbert, Tim Halligan, Michael Canavan, Jimmy Smagula, Ben Tolpin, Rich Hutchman, Gonzalo Menendez, Olivia Tracey, Ray Xifo, Mary Pat Gleason, Whitney Dylan, Mitzi Martin, Shelby Leverington, Don Creech, Richard V. Licata, Chris Ellis, Eric Stonestreet, Kenneth Hughes, Richard Whiten, Robert Sherman, Ashley Yegan, Lewis Dauber, Eamon Behrens, Alex Carter, Kevin Daniels, Grant Garrison, Brian Leckner, Dakota Mitchell, Martin Papazian, Phil Somerville, Ryan Tasz, Kirk Ward, Kelvin Han Yee, James Granoff, James Hart, Trent Ford, Thomas Ely Sage, Jake Soldera, Mark Christopher Lawrence, Matt McColm, Kim Coates, Richard John Walters",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 90,
+  "fields": {
+    "title": "플래툰",
+    "tagline": "결국 적은 자신의 내부에 있었다",
+    "runtime": 120,
+    "original_title": "Platoon",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "크리스 타일러(찰리 쉰)는 대학 생활의 권태로움에서 벗어나 영웅의 모습을 꿈꾸며 자원 입대해 월남전에 참가한다. 그러나 전쟁의 참혹함과 인간의 양면성, 전우들 사이의 갈등을 목격을 목격하고 정신적 충격을 받는다. 동료들이 죽어가는 현실 속에서 반즈 중사(톰 베린저)와 일라이어스 분대장(웰렘 데포)은 반목하게 되고, 이것을 이유로 반즈 중사는 일라이어스를 베트콩 지역에서 참혹하게 죽도록 놔둔다. 크리스는 직접 보지는 못했지만 반즈의 짓임을 알고, 킹(케이스 데이빗), 프랜시스(코리 글로버) 등과 반즈의 처치 여부를 놓고 의논하는 것을 반즈가 엿듣는데...",
+    "poster_path": "/2yLt2UPs7ivdkbG1bosBuuQYTF1.jpg",
+    "backdrop_path": "/nanfgFeCgV08ZkYEwcDuFO1UxDn.jpg",
+    "popularity": 199.027,
+    "vote_average": 7.747,
+    "vote_count": 4352.0,
+    "release_date": "1986-12-19",
+    "trailer": "https://www.youtube.com/embed/YzBA7ApSgdc",
+    "director": "H. Gordon Boos, 올리버 스톤",
+    "actors": "찰리 쉰, 윌렘 대포, 톰 베렌저, Kevin Dillon, 포레스트 휘태커, Mark Moses, 키스 데이비드, Richard Edson, Francesco Quinn, John C. McGinley, 조니 뎁, Reggie Johnson, David Neidorf, Chris Pedersen, Tony Todd, Corkey Ford, Corey Glover, Bob Orwig, Kevin Eshelman, James Terry McIlvain, J. Adam Glover, Ivan Kane, Paul Sanchez, Dale Dye, Peter Hicks, Basile Achara, Steve Barredo, Chris Castillejo, Andrew B. Clark, Bernardo Manalili, Than Rogers, Li Thi Van, Clarisa Ortacio, Romy Sevilla, Matthew Westfall, Nick Nicholson, Li Mai Thao, Ron Barracks, Brad Cassini, Mark Ebenhoch",
+    "pick_users": [],
+    "genres": [
+      18,
+      28,
+      10752
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 91,
+  "fields": {
+    "title": "하이랜더",
+    "tagline": "",
+    "runtime": 116,
+    "original_title": "Highlander",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "여명의 시간에서 태어난 우린 조용히 수세기를 살아왔다. 모임의 시기에 대비하여 투쟁하며 비밀스런 삶을 영위해왔다. 그때가 되면 선택받은 몇사람이 최후까지 싸우게 될 것이다. 아무도 우리가 사람들 속에 살았다는 것을 알 지 못한다. 지금까지도.}  맥클레인(Connor MacLeod: 크리스토퍼 램버트 분)는 지하주차장에서 장검을 휘두르며 한 사나이와 싸움을 벌인다. 결국 맥클레인이 상대의 목을 치자 그의 몸이 빛을 발하며 기를 빨아 들인다. 경찰은 사건을 조사하지만, 단서를 찾지 못한다. 경찰감식반원 브렌다(Brenda Wyatt: 록산느 하트 분)는 사건 현장에서 찾아낸 파편이 오래된 일본 사무라이 검의 일부임을 알아내고 맥클레인의 신분을 조사한다. 맥클레인은 몇번 접촉하면서 브랜다에게 정을 느껴 자신의 이야기를 털어 놓는다.  맥클레인은 450년전 스코틀랜드에서 태어난 불사신이다. 불사신으로 태어난 사람은 여럿이었지만, 불사신은 한 명만 존재해야한다는 규율 때문에 서로 결투를 하고, 상대방을 이기면 그 생명력으로 다시 연명하는 것이다. 그는 스승 라미렉스(Ramirez: 숀 코넬리 분)로부터 자신에게 숨겨져있던 힘을 찾게 되고, 이제는 어쩌면 최후가 될지도 모르는 쿠건과의 마지막 결전을 벌인다.",
+    "poster_path": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+    "backdrop_path": "/1S7uCBV4rvQR24kh0TldWhjLV3F.jpg",
+    "popularity": 205.464,
+    "vote_average": 6.897,
+    "vote_count": 2490.0,
+    "release_date": "1986-03-07",
+    "trailer": "https://www.youtube.com/embed/U9VCy0m3bOM",
+    "director": "Waldo Roeg",
+    "actors": "크리스토퍼 램버트, Roxanne Hart, 클랜시 브라운, 숀 코너리, Beatie Edney, Alan North, Jon Polito, Sheila Gish, Hugh Quarshie, Peter Diamond, Billy Hartman, James Cosmo, Celia Imrie, Christopher Malcolm, Ian Reddington, Alistair Findlay, Edward Wiley, John Cassady, Sion Tudor Owen, Damien Leake, Gordon Sterne, Ron Berglas, Louis Guss, Peter Banks, Ted Maynard, Anthony Mannino, Helena Stevens, Prince Howell, Anthony Fusco, Ian Tyler, Corinne Russell, Buckley Norris, Lisa Dalton, Jim  Brunzell, Ed Montalvo, Sam Douglas, James McKenna, Michael Seitz, Terry Gordy, Dale Hey, Sam Fatu, Harry Fielder",
+    "pick_users": [],
+    "genres": [
+      12,
+      14,
+      28
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 92,
+  "fields": {
+    "title": "컨테이젼",
+    "tagline": "아무 것도 만지지 마라, 누구도 만나지 마라",
+    "runtime": 106,
+    "original_title": "Contagion",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "홍콩 출장에서 돌아온 베스(기네스 팰트로)가 발작을 일으키며 사망하고 그녀의 남편(맷 데이먼)이 채 원인을 알기 전에 아들마저 죽음을 당한다. 얼마 지나지 않아 세계 각국의 사람들이 같은 증상으로 사망한다. 일상생활의 접촉을 통해 이루어진 전염은 그 수가 한 명에서 네 명, 네 명에서 열 여섯 명, 수백, 수천 명으로 늘어난다. 한편, 미국 질병통제센터의 치버 박사(로렌스 피시번)는 경험이 뛰어난 박사(케이트 윈슬렛)를 감염현장으로 급파하고 세계보건기구의 오란테스 박사(마리옹 꼬띠아르)는 최초발병경로를 조사한다. 이 가운데 진실이 은폐됐다고 주장하는 프리랜서 저널리스트(주드 로)가 촉발한 음모론의 공포는 그가 운영하는 블로그를 통해 원인불명의 전염만큼이나 빠르게 세계로 퍼져가는데...",
+    "poster_path": "/52DrX7RvAVtzRJ9iEdtv4X7O9wI.jpg",
+    "backdrop_path": "/2Dma33SmE4qAiEcOyjf5iw9FpFc.jpg",
+    "popularity": 210.378,
+    "vote_average": 6.64,
+    "vote_count": 5902.0,
+    "release_date": "2011-09-08",
+    "trailer": "https://www.youtube.com/embed/av5CEYrdQYU",
+    "director": "Yoshiaki Kobayashi, 스티븐 소더버그, Matt Iwinski, Timothy W. Mather",
+    "actors": "마리옹 코티야르, 맷 데이먼, 로렌스 피시번, 주드 로, 케이트 윈슬렛, 제니퍼 엘, 기네스 팰트로, 브라이언 크랜스턴, 엘리엇 굴드, 친 한, John Hawkes, Anna Jacoby-Heron, Sanaa Lathan, Demetri Martin, Armin Rohde, Enrico Colantoni, Larry Clarke, Monique Gabriela Curnen, Daria Strokous, Rick Uecker, Jamie Newell, Griffin Kane, Rebecca Spence, Teri McEvoy, Sue Redman, Teri Campbell, Stef Tovar, Mary Jo Faraci, Grace Rex, Joseph Anthony Foronda, Annabel Armour, Jim Ortlieb, Kara Zediker, Laura Fisher, Mary Beth Dolan, Dan Flannery, Jason Babinsky, Howie Johnson, Sanjay Gupta, Chui Tien-You, 하초의, Phillip James Brannon, David Lively, Andrew White, Ira Blumen, Scott Stangland, Jimmy Chung, Tara Mallen, John Hines, Joshua Weinstein, Sarah Charipar, Mark Czoske, Dan Aho, Hee-Wan Kwon, Phil Tang, Robert Chi, Blair Robertson, Randy Lowell, Pete Sack, Brian J. O'Donnell, Kwok-Wah Wong, Raymond Tsang Chau-Ming, Josh Pollock, Peter A Kelly, Thomas Gebbia, Dan Sanders-Joyce, Joshua Seiden, Kam Tong Wong, Jim Anderson, Bambadjan Bamba, Rodolfo C Barrios, Bryan Basil, Raphael Bonacchi, Ahmed Boulane, Liz Clare, Rashida Clendening, David Cohen, James Anthony Cotton, Duke Czlonka, Andrew Dasz, Joe DeBartolo, Eduardo Ambriz DeColosio, Shannon Edwards, Anas El Baz, Olivia Francessca, Logan Fry, Kenley Gaffke, Christian Heep, Alex Hill III, John Hoogenakker, Iris Kohl, Suzanne Lang, Elester Latham, Ina Lereine, Seth Leslie, Josiah Lyricq, Mino Mackic, Carl Marino, Mary Lu Marr, James Mastel, Thomas McCormick, Dave McNulty, E. Roger Mitchell, Paul D. Morgan, Larry Nazimek, Matthew Parry-Jones, Eric Pierson, Steven James Price, Kyle Quesnoy, Kenya Robertson, Joshua Rollins, Sandy Rouge, Helen Sadler, Peggy Sandow, Jane Santos, Hester Schell, Jon Komp Shin, Walt Sloan, Ylian Alfaro Snyder, Joshua Squire, January Stern, Michael T Stewart, Thomas W. Stewart, Audra Todd, Giota Trakas, Ken Venzke, Abby Wait, Amr Waked, James D. Weston II, Roger Wiggins, Robert A. Young, Bobby Watson, Jeff Mosley",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 93,
+  "fields": {
+    "title": "보헤미안 랩소디",
+    "tagline": "나는 스타가 되지 않을 것이다, 전설이 될 것이다",
+    "runtime": 134,
+    "original_title": "Bohemian Rhapsody",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "공항 수하물 노동자로 일하며 음악의 꿈을 키우던 이민자 출신의 아웃사이더 파록 버사라. 보컬을 구하던 로컬 밴드에 들어가게 되면서 프레디 머큐리라는 이름으로 밴드 퀸을 이끌게 된다. 시대를 앞서가는 독창적인 음악과 화려한 퍼포먼스로 관중들을 사로잡으며 성장하던 퀸은 방송에서 외면을 받을 것이라는 음반사의 반대에도 불구하고 무려 6분 동안 이어지는 실험적인 곡 보헤미안 랩소디로 대성공을 거두며 월드스타 반열에 오른다. 그러나 독보적인 존재감을 뿜어내던 프레디는 솔로 데뷔라는 유혹에 흔들리게 되고, 오랜 시간 함께 해왔던 멤버들과 결별을 선언하게 되는데...",
+    "poster_path": "/xrlVhwi6OKMyQuDebpgaqU2LGju.jpg",
+    "backdrop_path": "/xcaSYLBhmDzJ6P14bcKe0KTh3QV.jpg",
+    "popularity": 205.399,
+    "vote_average": 7.987,
+    "vote_count": 16479.0,
+    "release_date": "2018-10-24",
+    "trailer": "https://www.youtube.com/embed/fJ9rUzIMcZQ",
+    "director": "Meneka Das",
+    "actors": "라미 말렉, Gwilym Lee, Ben Hardy, Joseph Mazzello, 루시 보인턴, 에이단 길런, Allen Leech, 톰 홀랜더, 마이크 마이어스, Aaron McCusker, Ace Bhatti, Priya Blackburn, Max Bennett, Dermot Murphy, Dickie Beau, Jack Roth, Neil Fox-Roberts, Jess Radomska, Michelle Duncan, Ross Green, Bruce Mackinnon, Joshua Higgott, Pat Lally, William Owen, Philip Andrew, Tim Plester, Felipe Bejarano, Kieran Hardcastle, Martin Oelbermann, Ian Gabriel Dumdum, Matt Greenwood, Royce Cronin, James MacLaren, Andrew Bowerman, Drew P., Honor Hellon, Rosy Benjamin, Leila Crerar, Katherine Newman, Adam Rauf, Peter Howe, James Wallace, Matthew Houston, Scott Morrison Watson, Devlin Lloyd, Stefan Kopiecki, Garry Summers, Matthew Fredricks, Ian Jareth Williamson, Adam Lazarus, Johanna Thea, Adam Lambert, Andreea Helen David, Jason Lines, Adam James Johnston, 프레디 머큐리, Brian May, Roger Taylor, John Deacon",
+    "pick_users": [],
+    "genres": [
+      18,
+      10402
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 94,
+  "fields": {
+    "title": "셀: 인류 최후의 날",
+    "tagline": "사람들이 모두 미쳐버렸어!",
+    "runtime": 97,
+    "original_title": "Cell",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "만화가인 클레이 리델(존 쿠삭)은 공항에서 아내와 통화하던 중  휴대폰에서 흘러나오는 정체 모를 전파에 의해 공항 내에 있는 사람들이  미치광이처럼 날뛰며 서로를 공격하는 끔찍한 광경을 목격한다.  이상한 전파에 노출되지 않은 사람들은 송신탑을 찾아 피난을 떠나고,  클레이는 피난 중 만난 괴짜 무신론자 톰 맥코트(사무엘 L. 잭슨)와  엄마를 잃은 소녀 앨리스(이사벨 퍼만)와 함께  자신의 아내와 아들을 구하기 위해 미쳐버린 세상 속으로 뛰어드는데…  과연, 클레이는 멸망 끝에 있는 세상에서  아내와 아들을 만날 수 있을까?",
+    "poster_path": "/vxBYUL78l3MsGkmuSVnnKGb2m0Z.jpg",
+    "backdrop_path": "/pprNvcLi63ATKIGMipUwH0xQIJg.jpg",
+    "popularity": 206.934,
+    "vote_average": 4.7,
+    "vote_count": 1015.0,
+    "release_date": "2016-07-06",
+    "trailer": "https://www.youtube.com/embed/-XPP3c1x3lY",
+    "director": "로이드 카우프만",
+    "actors": "존 쿠삭, 사무엘 L. 잭슨, Isabelle Fuhrman, 오웬 티그, Clark Sarullo, Anthony Reynolds, Erin Elizabeth Burns, Stacy Keach, Alex ter Avest, Wilbur Fitzgerald, Joshua Mikel, Catherine Dyer, Griffin Freeman, Ethan Andrew Casto, Mark Ashworth, E. Roger Mitchell, Gaby Leyner, Rey Hernandez, Frederick C. Johnson Jr., Michael Beasley, Mandi Christine Kerr, Brian Boland, Alexis Humphrey, Shellita Boxie, John Ross, Jwaundace Candece, Tammie Baird, Damita Jane Howard",
+    "pick_users": [],
+    "genres": [
+      27,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 95,
+  "fields": {
+    "title": "토르: 러브 앤 썬더",
+    "tagline": "신을 죽이는 자, 신이 상대한다",
+    "runtime": 119,
+    "original_title": "Thor: Love and Thunder",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "이너피스를 위해 자아 찾기 여정을 떠난 천둥의 신 토르. 그러나 우주의 모든 신들을 몰살하려는 신 도살자 고르의 등장으로 토르의 안식년 계획은 산산조각 나 버린다. 토르는새로운 위협에 맞서기 위해 킹 발키리, 코르그, 그리고 전 여자친구 제인과 재회하게 되고, 그녀가 묠니르를 휘두르는 마이티 토르가 되어 나타나 모두를 놀라게 한다. 이제 팀 토르는 고르의 복수에 얽힌 미스터리를 밝히고 더 큰 전쟁을 막기 위한 전 우주적 스케일의 모험을 시작하는데...",
+    "poster_path": "/un8ZDtx2SMwNwXRYy65aItnNjab.jpg",
+    "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "popularity": 201.413,
+    "vote_average": 6.5,
+    "vote_count": 7159.0,
+    "release_date": "2022-07-06",
+    "trailer": "https://www.youtube.com/embed/Io6A1D1-FHg",
+    "director": "타이카 와이티티",
+    "actors": "크리스 헴스워스, 나탈리 포트만, 크리스찬 베일, 테사 톰슨, 제이미 알렉산더, 러셀 크로우, 크리스 프랫, 카렌 길런, 데이브 바티스타, 폼 클레멘티에프, 숀 건, 빈 디젤, 브래들리 쿠퍼, 이드리스 엘바, Carly Rees, 캣 데닝스, Brett Goldstein, 스텔란 스카스가드, 루크 헴스워스, 맷 데이먼, 샘 닐, 멜리사 맥카시, Ben Falcone, Natasha Cheng, Stephen Curry, Bobby Holland Hanton, Daley Pearson, Dianne Close, Greg Mitchell, Briegh Winderbaum, Mayzie Winderbaum, Izaac Winderbaum, Alanis Long Borrello, Kieron L. Dyer, India Rose Hemsworth, Simon Russell Beale, Manny Spero, Jonny Brugh, Andrew Crawford, Chanique Greyling, Brooke Satchwell, Elsa Pataky, Zia Kelly, Rosangela Fasano, Cameron Chapek, Tristan Hemsworth, Samson Alston, Alan Spies, Eliza Matengu, Shari Sebbens, Victoria Zerbst, Johnny Nasser, Jenna Owen, Gemma Dart, Victoria Ferrara, Ava Rodrigo-Porter, Elsa Rodrigo-Porter, Kaan Guldur, Indeia Booc, Indiana Ierano, Cayla Sutherland, Tui Vincent, Garth Wood, Yure Covich, Matatia Foa'i, Alan Dukes, Alan Tsibulya, Arka Das, Nico Cortez, Priscilla Doueihy, Nicole Milinkovic, Chayla Korewha, Imaan Hadchiti, Carmen Foon, Clariza Vicente, Kuni Hashimoto, Stephen Hunter, Justin Paul Hitchcock, Nazih Kheir, Tatyana Gillam, Indiana Evans, Samantha Allsop, Olivia Vasquez, Adam Todd, Josh Heuston, David Hambly, Janessa Dufty, Ava Caryofyllis, Chloé Gouneau, Jane Yubin Kim, Te Kainga O'Te Hinekahu Waititi, Matewa Kiritapu Waititi, Sasha Hemsworth, Aleph Millepied, Amalia Millepied, Rex Bale, Molly Moriarty, Hannah Gray, Luc Barrett, Luca Darda, Bo Chambers, Zali Mae Harrison, Leeton Alan Ingrey, Evan Stanhope, Jessica May Lynne, Jaimee Rose Lynn, Kim Thien Doan, Simone Landers, Sienna Ngeru, Rafael Siemer, Gabriel Siemer, Ronin Fabi, Arias Vang, Corban Ierano, Xander Mouradian, Jacob Yee, 재커리 레비, 레이 스티븐슨, 아사노 타다노부, 톰 히들스턴",
+    "pick_users": [],
+    "genres": [
+      14,
+      28,
+      35
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 96,
+  "fields": {
+    "title": "007 퀀텀 오브 솔러스",
+    "tagline": "MI6 내부까지 침투한 보이지 않는 세력",
+    "runtime": 106,
+    "original_title": "Quantum of Solace",
+    "original_language": "en",
+    "original_country": "GB",
+    "overview": "카지노 로얄에서 최초의 임무를 성공적으로 완수한 007 제임스 본드. 하지만 첫사랑 베스퍼의 배신과 비극적인 죽음으로 강렬한 복수심에 휩싸인다. 한편 진실을 밝히기 위해 M과 함께 수수께끼의 인물 미스터 화이트를 심문하던 중, 베스퍼를 죽음으로 몰고간 배후 세력이 생각보다 훨신 거대하고 위험한 조직임을 알게 된다. 게다가 MI6 내부에까지 세력이 침투해 있어 제임스 본드가 믿을 수 있는 사람은 아무도 없다는 게 밝혀진다. 단서를 쫓던 007은 MI6 내의 누군가가 테러 조직의 돈 세탁을 위해 아이티에 은행 계좌를 만들었다는 정보를 입수하고 곧바로 아이티로 향하는데...",
+    "poster_path": "/q1s0OFBJPQXNJ0FKeDCCOoKR70D.jpg",
+    "backdrop_path": "/3CqMIX3ZlrD0pU3fpBL6DM0Cneb.jpg",
+    "popularity": 204.085,
+    "vote_average": 6.326,
+    "vote_count": 7608.0,
+    "release_date": "2008-10-29",
+    "trailer": "https://www.youtube.com/embed/Pvlj5D_GerQ",
+    "director": "기예르모 델 토로, 알폰소 쿠아론",
+    "actors": "다니엘 크레이그, 올가 쿠릴렌코, 마티유 아말릭, 주디 덴치, 잔카를로 잔니니, 젬마 아터턴, 제프리 라이트, 데이비드 하버, Jesper Christensen, Anatole Taubman, 로리 키니어, Tim Pigott-Smith, Joaquín Cosío, Fernando Guillén Cuervo, Jesús Ochoa, Lucrezia Lante della Rovere, Paul Ritter, Simon Kassianides, Stana Katic, Neil Jackson, Oona Chaplin, Brendan O'Hea, Rufus Wright, Kari Patrice Coley, Sarah Hadland, Peñarandam Felix, Emiliano Valdés, Daniel da Silva, Elizabeth Arciniega, Alessio Sossas, Mark Wakeling, Susana Albornoz, Jacques Duckins, Anthony Hansell, Karin Lanz, Christian Heller, Dante Concha, Diego Fernández de Córdoba, Edwin Cedeño, Mike Pérez, Juan Carlos Avendaño, Rachel McDowall, Rodrigo Farrugia, Carl Von Malaisé, Raffaello Degruttola, Santos Varas Ramos, Antonio Gil, Luis Antonio Gotti, Jaime Newball, Kamil Krejčí, Gustavo Nanez, Erosi Margiani, Uygar Tamer, Alexandra Prusa, Muhamed Gandura, Shamel El-Salhy, Tsedor Gyalzur, Daniel Stüssi, Karine Babajanyan, Sebastien Soules, Brandon Jovanovich, Martin Busen, Alexandre Krawetz, Dale Albright, Katia Velletaz, Emilia Pountney, Tatiana Lavrentieva, Laila Alina Reischer",
+    "pick_users": [],
+    "genres": [
+      12,
+      28,
+      53,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 97,
+  "fields": {
+    "title": "더 플랫폼",
+    "tagline": "레벨이 바뀐다!",
+    "runtime": 95,
+    "original_title": "El hoyo",
+    "original_language": "es",
+    "original_country": "ES",
+    "overview": "30일마다 랜덤으로 레벨이 바뀌는 극한 생존의 수직 감옥 플랫폼. 최상위 레벨 0에서 아래로 내려갈수록 음식도 인간성도 바닥나는데…",
+    "poster_path": "/sACyPxUbc9FVR2LTTjjU6wA3Hdd.jpg",
+    "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+    "popularity": 195.647,
+    "vote_average": 6.979,
+    "vote_count": 6659.0,
+    "release_date": "2019-11-08",
+    "trailer": "https://www.youtube.com/embed/Pf-ODNk-2X4",
+    "director": "Algis Arlauskas",
+    "actors": "Ivan Massagué, Antonia San Juan, Zorion Eguileor, Emilio Buale, Alexandra Masangkay, Zihara Llana, Mario Pardo, Txubio Fernández de Jáuregui, Eric Goode, Óscar Oliver, Chema Trujillo, Miriam Martín, Gorka Zufiaurre, Miriam K. Martxante, Miren Gaztañaga, Braulio Cortés, Javier Mediavilla, Álvaro Orellana, Juan Dopico, Lian Xushao",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      878
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 98,
+  "fields": {
+    "title": "모넬라",
+    "tagline": "",
+    "runtime": 105,
+    "original_title": "Monella",
+    "original_language": "it",
+    "original_country": "IT",
+    "overview": "사랑스러운 시골처녀 로라는 연인 타마소와 결혼을 앞두고 그와 관계를 가지려고 하지만, 보수적인 타마소는 허락하지 않는다. 결혼식 날을 정해놓고 갖가지 준비에 분주한 한편, 호기심 많은 로라는 마음을 잡지 못하고 방황한다. 과연 그를 진정으로 사랑하는지 확신이 없기 때문이다. 참다 못한 그녀는 타마소를 유혹해 보지만 그는 꿈쩍도 않고 결혼 전 관계를 허락하지 않는다. 화가 난 로라는 결혼을 취소하자고 말하고 낯선 남자의 차를 타고 떠난다. 결국 홧김에 떠난 여행에서 여러 남자와 관계를 가지며 유쾌한 도피를 벌이는데…",
+    "poster_path": "/CH8rddcVt7a6OIAgV7qsEqJayr.jpg",
+    "backdrop_path": "/a7tqHJyxQ0RpJqhG5j1ss1acukL.jpg",
+    "popularity": 138.117,
+    "vote_average": 5.0,
+    "vote_count": 206.0,
+    "release_date": "1998-06-01",
+    "trailer": "https://www.youtube.com/embed/4y4s4g96Y5k",
+    "director": "Tinto Brass",
+    "actors": "Anna Ammirati, Patrick Mower, Max Parodi, Zuzana Martinková, Antonio Salines, Serena Grandi, Francesca Nunzi, Vittorio Attene, Laura Trotter, Maurizio Prudenzi, Edith Rozanyai, Alberto Capone, Mirella Zardo, Osiride Pevarello, Emanuela Quaglia, Roberto Fiorentini",
+    "pick_users": [],
+    "genres": [
+      35,
+      10749
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 99,
+  "fields": {
+    "title": "대부 3",
+    "tagline": "진정한 느와르 영화의 피날레",
+    "runtime": 162,
+    "original_title": "The Godfather Part III",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "이제는 60대의 노인이 되어버린 마이클(알 파치노)은 거대해진 패밀리의 강력한 자금력을 바탕으로 합법적인 사업으로 전환하는데 힘쓴다. 이 과정에서 특히 그는 바티칸 은행의 책임을 맡고 있는 대주교와 거래하므로써 이러한 합법적인 사업을 행할 수 있었고 바티칸의 대주교 역시 마이클의 사업에 참여하여 이익을 얻고 있었다. 이러한 그의 계획에 젊은 보스 조이 자자(죠 맨테그나)가 정면으로 도전해오고, 마이클 자신도 습격을 받는다. 그러나 일단 도전을 받은 이상 응하지 않을 수가 없고, 자자의 뒤에는 그의 계획을 방해하는 거대한 조직의 음모가 도사리고 있었는데...",
+    "poster_path": "/eLbVVIgIoqBxR0ZnxbCXao4ujFP.jpg",
+    "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "popularity": 205.722,
+    "vote_average": 7.425,
+    "vote_count": 5951.0,
+    "release_date": "1990-12-25",
+    "trailer": "https://www.youtube.com/embed/1o_qrMgVTBU",
+    "director": "소피아 코폴라, Gia Coppola",
+    "actors": "알 파치노, 다이앤 키튼, 탈리아 샤이어, 앤디 가르시아, 일라이 월릭, Joe Mantegna, George Hamilton, 브리짓 폰다, Raf Vallone, Franc D'Ambrosio, Donal Donnelly, Richard Bright, 헬무트 베르거, Don Novello, 존 세비지, Franco Citti, Mario Donatone, Vittorio Duse, Enzo Robutti, Michele Russo, Al Martino, Robert Cicchini, Rogerio Miranda, Carlos Miranda, Vito Antuofermo, Robert Vento, Willie Brown, Jeannie Linero, Jeanne Savarino Pesch, Janet Savarino Smith, Tere Livrano, Carmine Caridi, Don Costello, Al Ruscio, Mickey Knox, Rick Aviles, 마이클 보웬, Brett Halsey, Gabriele Torrei, Brian Freilino, Gregory Corso, Marino Masé, Dado Ruspoli, Valeria Sabel, Remo Remotti, Luigi Laezza, Giuseppe Pianviti, Santo Indelicato, Simonetta Stefanelli, Francesco Paolo Bellante, Paco Reconti, Mimmo Cuticchio, Richard Honigman, Nicky Blair, Anthony Guidera, Frank Tarsia, Diana Agostini, Jessica DiCicco, Catherine Scorsese, Ida Bernardini, Joe Drago, James D. Damiano, Michael Boccio, Ludovico Caldarera, R. Emmett Fitzsimmons, Sal Borgese, Salvatore Billa, Frank Ferrara, Joe Fontana, Richard Maldone, Tony Devon, Anton Coppola, Ron Jeremy, David L. Thompson, Angelo Romero, Madelyn Renée Monti, Luciano Foti, Frank Albanese, John Abineri, Pietro Torrisi, Angelo Ragusa, Claudio Zucchet, Omero Capanna, Sergio Smacchi, Angelo Boscariol, Enrico Cesaretti, Aldo Formisano, Umberto De Luca",
+    "pick_users": [],
+    "genres": [
+      18,
+      53,
+      80
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 100,
+  "fields": {
+    "title": "싸이코",
+    "tagline": "그들은 알게 될 거야, 난 파리 한 마리도 해치지 못하는 사람이란 걸",
+    "runtime": 109,
+    "original_title": "Psycho",
+    "original_language": "en",
+    "original_country": "US",
+    "overview": "마리온 크레인은 그녀의 애인 샘과 결혼하길 원하지만 샘은 빚을 갚을 때까지 기다리라고 말한다. 그래서 그녀는 자신이 다니고 있는 회사 사장이 은행에 입금하라고 맡긴 돈을 들고 도망친다. 도주 첫날 밤 묵게 된 도로변의 낡은 모텔 주인인 노만 베이츠는 그녀에게 친절하게 대해주며 자신은 모텔 바로 뒤쪽 저택에서 몸이 불편한 어머니와 함께 살고 있다고 말한다. 잠자리에 들기 전 마리온이 샤워를 하는 도중, 난데없이 검은 형상이 욕실에 나타나고 마리온은 실종된다. 마리온을 찾기 위해 그녀의 언니 릴라와 샘, 그리고 보험회사 측에서 고용한 탐정 등 세 사람이 추적에 나서는데...",
+    "poster_path": "/vC3P8hH4r3I3fHiRFa1kj6yzeaN.jpg",
+    "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+    "popularity": 193.728,
+    "vote_average": 8.435,
+    "vote_count": 9736.0,
+    "release_date": "1960-06-22",
+    "trailer": "https://www.youtube.com/embed/ldneQsewJEc",
+    "director": "알프레드 히치콕",
+    "actors": "안소니 퍼킨스, 자넷 리, 베라 마일스, John Gavin, Martin Balsam, John McIntire, Simon Oakland, Frank Albertson, Patricia Hitchcock, Vaughn Taylor, Lurene Tuttle, John Anderson, Mort Mills, Fletcher Allen, Walter Bacon, Kit Carson, Francis De Sales, George Dockstader, George Eldredge, Harper Flaherty, Sam Flint, Virginia Gregg, Paul Jasmin, Lee Kass, Frank Killmond, Ted Knight, Pat McCaffrie, Hans Moebus, Jeanette Nolan, Lillian O'Malley, Robert Osborne, Fred Scheiwiller, Helen Wallace",
+    "pick_users": [],
+    "genres": [
+      27,
+      53,
+      9648
+    ]
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 101,
+  "fields": {
+    "title": "제5원소",
+    "tagline": "사라진 4개 원소를 되찾고 제 5원소의 비밀을 밝혀라",
+    "runtime": 126,
+    "original_title": "The Fifth Element",
+    "original_language": "en",
+    "original_country": "FR",
+    "overview": "1914년 이집트. 한 노학자가 피라미드의 벽에 새겨진 5개 원소의 비밀을 밝혀낸다. 2259년 뉴욕. 지구에 거대한 행성이 다가와 대통령을 비롯한 전 군대는 비상상태에 빠진다. 지구를 구할 4개 원소를 가진 몬도샤인들은 지구로 오는 도중에 모두 죽게 되고 과학자들은 남은 팔로 유전자 합성을 통해 빨간 머리 소녀 리루를 만든다. 리루는 과학자들에게서 도망치던 중 전직 연방 요원인 코벤을 만나고, 두 사람은 4개 원소를 찾기 위해 피라미드의 예언을 알고 있는 코넬리우스 신부와 함께 파라다이스 행성으로 간다. 한편 무기상인 조르그도 4개 원소를 손에 넣기 위해 그들을 뒤쫓는데...",
+    "poster_path": "/npcHgyp5MmKMe4lWqJi2ma1CuhC.jpg",
+    "backdrop_path": "/gEFe2joIQUopBmMPXOHPxuX2f4u.jpg",
+    "popularity": 182.296,
+    "vote_average": 7.547,
+    "vote_count": 10406.0,
+    "release_date": "1997-05-02",
+    "trailer": "https://www.youtube.com/embed/n4zztjZTcWM",
+    "director": "Geoff Boothby",
+    "actors": "브루스 윌리스, 밀라 요보비치, 게리 올드만, 이안 홈, 크리스 터커, Luke Perry, Brion James, Tommy Lister Jr., Lee Evans, Charlie Creed-Miles, Tricky, John Neville, John Bluthal, 마티외 카소비츠, Christopher Fairbank, Kim Chan, Richard Leaf, Julie T. Wallace, Al Matthews, Maïwenn, John Bennett, Ivan Heng, Sonita Henry, Tim McMullan, Hon Ping Tang, George Khan, John Hughes, Roberto Bryce, Said Talidi, Clifton Lloyd Bryan, Justin Lee Burrows, Richard Ashton, Jerome St. John Blake, Kevin Molloy, Bill Reimbold, Colin Brooks, Anthony Chinn, Sam Douglas, Derek Ezenagu, David Kennedy, David Barrass, Roger Monk, Mac McDonald, Mark Seaton, Jean-Luc Caron, Riz Meedin, Jerry Ezekiel, Indra Ové, Nicole Merry, Stacey McKenzie, Rachel Willis, Genevieve Maylam, Josie Perez, Natasha Brice, Sophia Goth, Martin McDougall, Peter Dunwell, Paul Priestley, Jason Salkey, Stewart Harvey-Wilson, David Fishley, Carlton Chance, Gin Clarke, Vladimir McCrary, Aron Paramor, Alan Ruscoe, Christopher Adamson, Ève Salvail, Kaleem Janjua, Tyrone Tyrell, Kevin Brewerton, Vincenzo Pellegrino, Ian Beckett, Sonny Caldinez, Zeta Graff, Eddie Ellwood, Yui, Laura De Palma, Michael Culkin, Lenny McLean, Robert Oates, John Sharian, Fred Williams, Sibyl Buck, Sarah Carrington, Grant James, Ali Yassine, Sean Buckley, Dane Messam, Nathan Hamlett, Cecil Cheng, Scott Woods, Leon Dekker, David Garvey, Stanley Kowalski, Omar Hibbert Williams, Robert Clapperton, Robert Alexander, Mia Frye, Leo Williams, C. Keith Martin, J.D. Dawodu, Patrick Nicholls, Shaun Davis, Roy Garcia Singh, Alex Georgijev, Marie Guillard, Renee Montemayor, Stina Richardson, François Guillaume, Kristen Fick, Anita Koh, Kamay Lau, Inva Mula, Jill Mullan, Tracy Redington, Gito Santana, Frank Senger, Fred Wood, Roger Wright",
+    "pick_users": [],
+    "genres": [
+      12,
+      14,
+      28,
+      53,
+      878
+    ]
+  }
+}
+]

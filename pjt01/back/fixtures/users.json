@@ -1,0 +1,227 @@
+[
+{
+  "model": "accounts.user",
+  "pk": 1,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:13:00.565Z",
+    "nickname": "나의라임오지는나무",
+    "username": "username1",
+    "password": "pbkdf2_sha256$600000$h7iExxOgCL6U9CHe9TrkMz$V2LyPS+feR4S6RQYC1jp+Q6NRqupkmYu+LZcYmo7+xI=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:13:00.818Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": [
+      2,
+      3,
+      4,
+      7
+    ]
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 2,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:13:30.408Z",
+    "nickname": "레오나르도빚갚으리오",
+    "username": "username2",
+    "password": "pbkdf2_sha256$600000$iIbhj2imQoceL6TGQMMmLP$fSZH82RtYMiP+YSOjmrHEfG8lfg2R3e3Gl+GeyyQDrw=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:13:30.676Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 3,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:13:39.940Z",
+    "nickname": "미션임파선염",
+    "username": "username3",
+    "password": "pbkdf2_sha256$600000$Zpq4jXCL6HYxXx4ZshQ0l3$UYTHpQo9HWaGoxN1wbMp//gKPdeLw8AalyD+rhTmWUk=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:13:40.168Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 4,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:14:31.537Z",
+    "nickname": "보일러댁에아버님놔드려야겠어요",
+    "username": "username4",
+    "password": "pbkdf2_sha256$600000$0jHEZqKW8O5nLNil9YTcdk$cSrS/LPkmd6PIA9Hp/cGvP3v2LOfk8T3kYvfoGiH6g0=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:14:31.788Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 5,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:14:46.478Z",
+    "nickname": "소잃고뇌약간고치기",
+    "username": "username5",
+    "password": "pbkdf2_sha256$600000$URu397DymyeV6CrulAEB5h$uQP9lcIY9Tkt+NwNNdUZw9Dazy51X/Gih/rIVUlnnfg=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:14:46.732Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 6,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:14:56.576Z",
+    "nickname": "스치면인연스며들면스폰지밥",
+    "username": "username6",
+    "password": "pbkdf2_sha256$600000$jMEW3GUqNX00ujV9tEpcXq$SD7EPUw/cUICQr0zaZSo7UtdyEZ++yumd+MQyRiL62s=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:14:56.853Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 7,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:15:39.942Z",
+    "nickname": "아뇨뚱인데요",
+    "username": "username7",
+    "password": "pbkdf2_sha256$600000$3DXu1TfxtAcDapA7vel9KX$zu6cxAJo1WX3vs+NmAWcxN7a7wJgAoRwy/8++pOf6JM=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:15:40.339Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 8,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:15:50.880Z",
+    "nickname": "어떠냐이것도사용중인닉네임이냐",
+    "username": "username8",
+    "password": "pbkdf2_sha256$600000$e3vzEyTNnhApL2ReTbNRp0$EvwiW5Rvmfbt91Q7W3m2rAVJbEp77w5LvJ5dOm9s73k=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:15:51.194Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 9,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:16:00.997Z",
+    "nickname": "친정간금자씨",
+    "username": "username9",
+    "password": "pbkdf2_sha256$600000$T6JvZBKM5MtimEPct5YSkd$qDJggwcWfcdyQaD5tzUpHVsQ1VkYXnVoJjZN2Q3fSi4=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:16:01.264Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 10,
+  "fields": {
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-20T23:16:12.187Z",
+    "nickname": "하울의무빙이오지는성",
+    "username": "username10",
+    "password": "pbkdf2_sha256$600000$mOMdefvRMXHEQDJzKH1lMm$3Q8eGijc1Q/7GBQjDQnnce5Zy27atxR2gmsEMdYSYb0=",
+    "profile_img": "static/default_image.jpeg",
+    "created_at": "2024-05-20T23:16:12.422Z",
+    "groups": [],
+    "user_permissions": [],
+    "followings": []
+  }
+}
+]
