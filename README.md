@@ -1,12 +1,15 @@
 # ssafy 1학기 관통프로젝트
 
-## 5/16 - 5/23 일주일간 진행 후 5/24 최종발표
+기간 : 2024.05.16 ~ 5/23 
+최종 발표 : 2024.05.24
 
-# 00_최종_1학기_관통프로젝트_영화
+# 1학기_관통프로젝트
+
+### 영화 추천 서비스
 
 ![Untitled](./img/Untitled%201.png)
 
-프로젝트 결과
+### 프로젝트 결과
 
 ![Untitled](./img/369fd061-554f-4a45-9582-1d01ba03f56d.png)
 
@@ -23,8 +26,6 @@
 ![Untitled](./img/Untitled%201.png)
 
 ![Untitled](./img/Untitled%202.png)
-
-![Untitled](./img/Untitled%203.png)
 
 ![Untitled](./img/Untitled%204.png)
 
